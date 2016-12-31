@@ -352,3 +352,5 @@
 "navigating the transmitter won't do anything, we need to back up the mobile DNS hard drive!" 
 "quantifying the feed won't do anything, we need to parse the optical SDD application!" 
 "We need to synthesize the optical PCI feed!" 
+"I'll copy the multi-byte FTP array, that should circuit the JBOD feed!" 
+"Use the cross-platform THX application, then you can override the back-end transmitter!" 
