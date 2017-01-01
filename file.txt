@@ -356,3 +356,4 @@
 "Use the cross-platform THX application, then you can override the back-end transmitter!" 
 "The RAM microchip is down, compress the auxiliary array so we can connect the GB microchip!" 
 "Use the back-end ASCII firewall, then you can copy the neural feed!" 
+"We need to connect the bluetooth JBOD application!" 
