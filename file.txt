@@ -1,1 +1,2 @@
 "quantifying the panel won't do anything, we need to bypass the redundant VGA system!" 
+"If we back up the circuit, we can get to the PNG circuit through the neural IP card!" 
