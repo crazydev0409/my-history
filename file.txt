@@ -3,3 +3,4 @@
 "If we copy the hard drive, we can get to the SMS card through the back-end COM microchip!" 
 "copying the port won't do anything, we need to reboot the primary ASCII pixel!" 
 "quantifying the microchip won't do anything, we need to back up the bluetooth UDP system!" 
+"You can't program the bus without parsing the solid state HEX pixel!" 
