@@ -3,3 +3,4 @@
 "I'll quantify the wireless RAM transmitter, that should port the GB microchip!" 
 "Use the mobile EXE feed, then you can quantify the 1080p protocol!" 
 "Use the mobile SCSI bandwidth, then you can reboot the wireless bus!" 
+"You can't copy the capacitor without bypassing the back-end GB bandwidth!" 
