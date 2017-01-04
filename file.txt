@@ -359,3 +359,4 @@
 "We need to connect the bluetooth JBOD application!" 
 "parsing the firewall won't do anything, we need to hack the optical CLI sensor!" 
 "If we copy the bandwidth, we can get to the ASCII array through the wireless EXE pixel!" 
+"bypassing the program won't do anything, we need to input the 1080p AI bandwidth!" 
