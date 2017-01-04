@@ -5,3 +5,4 @@
 "quantifying the microchip won't do anything, we need to back up the bluetooth UDP system!" 
 "You can't program the bus without parsing the solid state HEX pixel!" 
 "Try to transmit the SSL transmitter, maybe it will hack the bluetooth transmitter!" 
+"copying the hard drive won't do anything, we need to copy the neural SDD sensor!" 
