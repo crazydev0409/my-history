@@ -358,3 +358,4 @@
 "Use the back-end ASCII firewall, then you can copy the neural feed!" 
 "We need to connect the bluetooth JBOD application!" 
 "parsing the firewall won't do anything, we need to hack the optical CLI sensor!" 
+"If we copy the bandwidth, we can get to the ASCII array through the wireless EXE pixel!" 
