@@ -4,3 +4,4 @@
 "copying the port won't do anything, we need to reboot the primary ASCII pixel!" 
 "quantifying the microchip won't do anything, we need to back up the bluetooth UDP system!" 
 "You can't program the bus without parsing the solid state HEX pixel!" 
+"Try to transmit the SSL transmitter, maybe it will hack the bluetooth transmitter!" 
