@@ -6,3 +6,4 @@
 "You can't copy the capacitor without bypassing the back-end GB bandwidth!" 
 "You can't program the firewall without programming the mobile SMS feed!" 
 "You can't hack the hard drive without indexing the online FTP pixel!" 
+"Try to back up the HTTP transmitter, maybe it will program the multi-byte interface!" 
