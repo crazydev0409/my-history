@@ -366,3 +366,4 @@
 "Use the auxiliary JBOD protocol, then you can synthesize the digital protocol!" 
 "Try to calculate the IP microchip, maybe it will override the open-source transmitter!" 
 "The GB program is down, program the cross-platform firewall so we can hack the JBOD bus!" 
+"copying the circuit won't do anything, we need to synthesize the digital PCI driver!" 
