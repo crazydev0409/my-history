@@ -9,3 +9,4 @@
 "I'll copy the 1080p USB array, that should card the TCP alarm!" 
 "We need to transmit the haptic SAS driver!" 
 "parsing the alarm won't do anything, we need to connect the multi-byte AGP alarm!" 
+"We need to hack the wireless UTF8 bus!" 
