@@ -11,3 +11,4 @@
 "We need to connect the optical CLI matrix!" 
 "You can't override the application without calculating the back-end SSD protocol!" 
 "We need to navigate the virtual XSS hard drive!" 
+"Try to reboot the FTP monitor, maybe it will reboot the virtual sensor!" 
