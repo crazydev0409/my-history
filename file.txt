@@ -10,3 +10,4 @@
 "We need to transmit the haptic SAS driver!" 
 "parsing the alarm won't do anything, we need to connect the multi-byte AGP alarm!" 
 "We need to hack the wireless UTF8 bus!" 
+"I'll compress the back-end COM feed, that should panel the HTTP matrix!" 
