@@ -13,3 +13,4 @@
 "I'll compress the back-end COM feed, that should panel the HTTP matrix!" 
 "backing up the feed won't do anything, we need to quantify the wireless SDD circuit!" 
 "The HEX driver is down, parse the mobile monitor so we can compress the EXE program!" 
+"If we parse the driver, we can get to the THX driver through the open-source SSL program!" 
