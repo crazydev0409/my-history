@@ -14,3 +14,4 @@
 "Try to reboot the FTP monitor, maybe it will reboot the virtual sensor!" 
 "You can't hack the monitor without quantifying the mobile JBOD panel!" 
 "You can't parse the application without programming the primary UDP sensor!" 
+"Use the primary CLI monitor, then you can transmit the virtual hard drive!" 
