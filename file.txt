@@ -373,3 +373,4 @@
 "programming the driver won't do anything, we need to override the auxiliary EXE protocol!" 
 "If we calculate the pixel, we can get to the PCI alarm through the virtual PNG interface!" 
 "Use the bluetooth SDD monitor, then you can input the digital circuit!" 
+"I'll override the multi-byte HEX monitor, that should hard drive the VGA alarm!" 
