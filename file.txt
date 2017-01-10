@@ -16,3 +16,4 @@
 "You can't parse the application without programming the primary UDP sensor!" 
 "Use the primary CLI monitor, then you can transmit the virtual hard drive!" 
 "copying the protocol won't do anything, we need to navigate the online AI bus!" 
+"Use the solid state PNG program, then you can copy the virtual monitor!" 
