@@ -18,3 +18,4 @@
 "Try to generate the HDD application, maybe it will calculate the wireless bus!" 
 "Use the solid state RSS application, then you can compress the optical bandwidth!" 
 "Use the virtual XSS firewall, then you can input the haptic array!" 
+"Try to compress the COM panel, maybe it will override the haptic hard drive!" 
