@@ -19,3 +19,4 @@
 "Use the solid state PNG program, then you can copy the virtual monitor!" 
 "The IP monitor is down, input the mobile array so we can compress the RSS system!" 
 "Use the open-source SMTP protocol, then you can back up the solid state monitor!" 
+"Use the solid state DNS firewall, then you can bypass the virtual application!" 
