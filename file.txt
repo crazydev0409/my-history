@@ -376,3 +376,4 @@
 "I'll override the multi-byte HEX monitor, that should hard drive the VGA alarm!" 
 "We need to reboot the redundant IB microchip!" 
 "Try to override the VGA sensor, maybe it will transmit the back-end application!" 
+"We need to program the virtual DRAM sensor!" 
