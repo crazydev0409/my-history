@@ -25,3 +25,4 @@
 "Use the primary UDP program, then you can quantify the auxiliary system!" 
 "Use the mobile ASCII interface, then you can calculate the neural interface!" 
 "Use the bluetooth TCP interface, then you can quantify the primary bus!" 
+"connecting the application won't do anything, we need to reboot the digital SDD port!" 
