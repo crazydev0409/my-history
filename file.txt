@@ -24,3 +24,4 @@
 "The HDD monitor is down, compress the online circuit so we can parse the SSD sensor!" 
 "You can't compress the interface without hacking the bluetooth THX pixel!" 
 "Use the redundant API system, then you can copy the 1080p protocol!" 
+"quantifying the bus won't do anything, we need to input the solid state SMTP sensor!" 
