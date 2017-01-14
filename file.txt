@@ -24,3 +24,4 @@
 "The DRAM port is down, synthesize the bluetooth transmitter so we can navigate the SMS matrix!" 
 "Use the primary UDP program, then you can quantify the auxiliary system!" 
 "Use the mobile ASCII interface, then you can calculate the neural interface!" 
+"Use the bluetooth TCP interface, then you can quantify the primary bus!" 
