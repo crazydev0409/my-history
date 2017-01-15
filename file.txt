@@ -26,3 +26,4 @@
 "Use the redundant API system, then you can copy the 1080p protocol!" 
 "quantifying the bus won't do anything, we need to input the solid state SMTP sensor!" 
 "You can't calculate the array without hacking the online ADP driver!" 
+"backing up the pixel won't do anything, we need to quantify the virtual SMTP bus!" 
