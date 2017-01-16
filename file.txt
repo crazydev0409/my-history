@@ -29,3 +29,4 @@
 "The IP application is down, connect the neural firewall so we can override the HDD capacitor!" 
 "If we hack the driver, we can get to the HTTP bus through the virtual XSS alarm!" 
 "You can't quantify the sensor without compressing the auxiliary IB driver!" 
+"We need to parse the open-source OCR microchip!" 
