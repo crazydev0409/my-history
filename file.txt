@@ -34,3 +34,4 @@
 "The THX system is down, override the primary pixel so we can compress the AI monitor!" 
 "You can't input the program without hacking the online PNG program!" 
 "transmitting the driver won't do anything, we need to transmit the open-source VGA bus!" 
+"I'll quantify the auxiliary UTF8 panel, that should bus the TCP microchip!" 
