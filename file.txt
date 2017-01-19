@@ -34,3 +34,4 @@
 "The JSON firewall is down, compress the primary alarm so we can override the SMTP transmitter!" 
 "You can't index the hard drive without backing up the redundant SQL bandwidth!" 
 "We need to reboot the haptic OCR capacitor!" 
+"You can't hack the system without transmitting the cross-platform SDD matrix!" 
