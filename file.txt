@@ -36,3 +36,4 @@
 "transmitting the driver won't do anything, we need to transmit the open-source VGA bus!" 
 "I'll quantify the auxiliary UTF8 panel, that should bus the TCP microchip!" 
 "The SSD panel is down, generate the online panel so we can index the ASCII circuit!" 
+"indexing the alarm won't do anything, we need to back up the digital TCP card!" 
