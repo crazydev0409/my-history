@@ -386,3 +386,4 @@
 "I'll parse the optical DRAM microchip, that should driver the RSS card!" 
 "I'll connect the auxiliary UDP hard drive, that should application the UTF8 port!" 
 "Use the haptic RAM firewall, then you can calculate the optical port!" 
+"Try to input the JBOD interface, maybe it will bypass the solid state protocol!" 
