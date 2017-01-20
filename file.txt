@@ -37,3 +37,4 @@
 "You can't hack the system without transmitting the cross-platform SDD matrix!" 
 "hacking the microchip won't do anything, we need to synthesize the primary DNS firewall!" 
 "synthesizing the sensor won't do anything, we need to synthesize the wireless CSS monitor!" 
+"The SQL card is down, input the auxiliary interface so we can copy the HDD monitor!" 
