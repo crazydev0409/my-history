@@ -38,3 +38,4 @@
 "hacking the microchip won't do anything, we need to synthesize the primary DNS firewall!" 
 "synthesizing the sensor won't do anything, we need to synthesize the wireless CSS monitor!" 
 "The SQL card is down, input the auxiliary interface so we can copy the HDD monitor!" 
+"We need to compress the cross-platform HDD bandwidth!" 
