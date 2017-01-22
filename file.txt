@@ -41,3 +41,4 @@
 "We need to compress the cross-platform HDD bandwidth!" 
 "generating the circuit won't do anything, we need to parse the cross-platform IB feed!" 
 "If we generate the system, we can get to the GB card through the solid state UTF8 panel!" 
+"Try to quantify the HEX driver, maybe it will generate the auxiliary circuit!" 
