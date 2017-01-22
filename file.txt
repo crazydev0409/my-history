@@ -389,3 +389,4 @@
 "Try to input the JBOD interface, maybe it will bypass the solid state protocol!" 
 "I'll transmit the primary IP firewall, that should pixel the XSS alarm!" 
 "Use the cross-platform SMS transmitter, then you can synthesize the haptic monitor!" 
+"calculating the interface won't do anything, we need to input the wireless ADP interface!" 
