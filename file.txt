@@ -45,3 +45,4 @@
 "I'll input the multi-byte RSS system, that should protocol the EXE feed!" 
 "Try to quantify the SSL circuit, maybe it will parse the online driver!" 
 "We need to bypass the multi-byte RSS port!" 
+"Try to connect the SMS application, maybe it will input the back-end array!" 
