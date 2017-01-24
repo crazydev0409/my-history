@@ -394,3 +394,4 @@
 "bypassing the pixel won't do anything, we need to synthesize the solid state PNG microchip!" 
 "We need to reboot the open-source VGA capacitor!" 
 "If we override the alarm, we can get to the HDD system through the auxiliary RAM protocol!" 
+"Use the haptic HDD hard drive, then you can quantify the haptic pixel!" 
