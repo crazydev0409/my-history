@@ -46,3 +46,4 @@
 "Try to quantify the SSL circuit, maybe it will parse the online driver!" 
 "We need to bypass the multi-byte RSS port!" 
 "Try to connect the SMS application, maybe it will input the back-end array!" 
+"You can't parse the array without compressing the mobile CLI application!" 
