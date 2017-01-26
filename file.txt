@@ -48,3 +48,4 @@
 "Try to connect the SMS application, maybe it will input the back-end array!" 
 "You can't parse the array without compressing the mobile CLI application!" 
 "Use the auxiliary UDP capacitor, then you can synthesize the cross-platform bus!" 
+"I'll connect the virtual RSS panel, that should feed the RSS feed!" 
