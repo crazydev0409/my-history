@@ -51,3 +51,4 @@
 "I'll connect the virtual RSS panel, that should feed the RSS feed!" 
 "Try to reboot the UDP card, maybe it will quantify the mobile program!" 
 "Try to generate the HEX driver, maybe it will connect the 1080p card!" 
+"programming the application won't do anything, we need to program the 1080p RAM panel!" 
