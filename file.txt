@@ -399,3 +399,4 @@
 "The PCI card is down, input the haptic panel so we can index the HDD transmitter!" 
 "If we reboot the driver, we can get to the PCI monitor through the solid state THX bandwidth!" 
 "Try to calculate the CSS feed, maybe it will compress the auxiliary pixel!" 
+"We need to program the digital CSS system!" 
