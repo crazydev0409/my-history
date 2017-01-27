@@ -50,3 +50,4 @@
 "Use the auxiliary UDP capacitor, then you can synthesize the cross-platform bus!" 
 "I'll connect the virtual RSS panel, that should feed the RSS feed!" 
 "Try to reboot the UDP card, maybe it will quantify the mobile program!" 
+"Try to generate the HEX driver, maybe it will connect the 1080p card!" 
