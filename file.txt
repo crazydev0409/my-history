@@ -51,3 +51,4 @@
 "connecting the bandwidth won't do anything, we need to navigate the primary USB matrix!" 
 "If we reboot the hard drive, we can get to the JBOD protocol through the back-end THX application!" 
 "If we quantify the bandwidth, we can get to the IB feed through the optical GB feed!" 
+"compressing the transmitter won't do anything, we need to reboot the optical COM port!" 
