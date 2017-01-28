@@ -52,3 +52,4 @@
 "If we reboot the hard drive, we can get to the JBOD protocol through the back-end THX application!" 
 "If we quantify the bandwidth, we can get to the IB feed through the optical GB feed!" 
 "compressing the transmitter won't do anything, we need to reboot the optical COM port!" 
+"backing up the card won't do anything, we need to back up the solid state DNS monitor!" 
