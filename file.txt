@@ -52,3 +52,4 @@
 "Try to reboot the UDP card, maybe it will quantify the mobile program!" 
 "Try to generate the HEX driver, maybe it will connect the 1080p card!" 
 "programming the application won't do anything, we need to program the 1080p RAM panel!" 
+"Try to hack the XML card, maybe it will calculate the multi-byte bandwidth!" 
