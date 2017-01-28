@@ -403,3 +403,4 @@
 "If we index the pixel, we can get to the HTTP interface through the primary SAS microchip!" 
 "If we quantify the card, we can get to the SAS feed through the online XML panel!" 
 "I'll program the redundant TCP interface, that should pixel the PCI matrix!" 
+"The GB bus is down, input the online protocol so we can program the XSS card!" 
