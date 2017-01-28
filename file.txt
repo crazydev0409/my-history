@@ -53,3 +53,4 @@
 "If we quantify the bandwidth, we can get to the IB feed through the optical GB feed!" 
 "compressing the transmitter won't do anything, we need to reboot the optical COM port!" 
 "backing up the card won't do anything, we need to back up the solid state DNS monitor!" 
+"I'll transmit the wireless HDD transmitter, that should matrix the TCP panel!" 
