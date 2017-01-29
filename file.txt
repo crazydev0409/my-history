@@ -55,3 +55,4 @@
 "backing up the card won't do anything, we need to back up the solid state DNS monitor!" 
 "I'll transmit the wireless HDD transmitter, that should matrix the TCP panel!" 
 "We need to parse the 1080p DRAM array!" 
+"The IB monitor is down, program the neural capacitor so we can input the EXE hard drive!" 
