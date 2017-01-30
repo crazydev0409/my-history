@@ -407,3 +407,4 @@
 "If we navigate the alarm, we can get to the USB protocol through the online CSS port!" 
 "The UDP matrix is down, navigate the back-end sensor so we can reboot the GB pixel!" 
 "programming the transmitter won't do anything, we need to hack the haptic SCSI application!" 
+"Try to program the UDP sensor, maybe it will quantify the primary bandwidth!" 
