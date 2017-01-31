@@ -58,3 +58,4 @@
 "The IB monitor is down, program the neural capacitor so we can input the EXE hard drive!" 
 "Try to transmit the CLI circuit, maybe it will index the auxiliary capacitor!" 
 "You can't input the array without generating the primary RAM capacitor!" 
+"I'll reboot the solid state CLI pixel, that should interface the HEX alarm!" 
