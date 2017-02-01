@@ -411,3 +411,4 @@
 "Use the virtual DNS bus, then you can parse the multi-byte port!" 
 "navigating the port won't do anything, we need to back up the redundant SSL card!" 
 "Try to navigate the DNS bus, maybe it will input the bluetooth panel!" 
+"backing up the array won't do anything, we need to navigate the bluetooth SQL program!" 
