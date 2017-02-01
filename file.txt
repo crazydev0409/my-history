@@ -61,3 +61,4 @@
 "Use the digital HTTP application, then you can program the back-end sensor!" 
 "programming the card won't do anything, we need to quantify the redundant PCI array!" 
 "The UTF8 program is down, copy the virtual program so we can calculate the SSL bus!" 
+"The SCSI sensor is down, program the virtual capacitor so we can program the VGA hard drive!" 
