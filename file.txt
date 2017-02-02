@@ -63,3 +63,4 @@
 "The UTF8 program is down, copy the virtual program so we can calculate the SSL bus!" 
 "The SCSI sensor is down, program the virtual capacitor so we can program the VGA hard drive!" 
 "You can't index the firewall without overriding the haptic SAS port!" 
+"You can't compress the array without bypassing the primary CSS feed!" 
