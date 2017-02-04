@@ -66,3 +66,4 @@
 "If we navigate the card, we can get to the PCI transmitter through the solid state ASCII microchip!" 
 "If we copy the capacitor, we can get to the ADP monitor through the redundant UTF8 alarm!" 
 "We need to transmit the virtual IP panel!" 
+"If we input the array, we can get to the HTTP bus through the bluetooth ASCII bandwidth!" 
