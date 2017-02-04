@@ -414,3 +414,4 @@
 "backing up the array won't do anything, we need to navigate the bluetooth SQL program!" 
 "Try to back up the XSS card, maybe it will hack the solid state monitor!" 
 "I'll bypass the solid state TLS monitor, that should panel the XML hard drive!" 
+"calculating the array won't do anything, we need to override the mobile EXE feed!" 
