@@ -412,3 +412,4 @@
 "navigating the port won't do anything, we need to back up the redundant SSL card!" 
 "Try to navigate the DNS bus, maybe it will input the bluetooth panel!" 
 "backing up the array won't do anything, we need to navigate the bluetooth SQL program!" 
+"Try to back up the XSS card, maybe it will hack the solid state monitor!" 
