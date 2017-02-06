@@ -71,3 +71,4 @@
 "If we generate the port, we can get to the XML sensor through the solid state IP circuit!" 
 "We need to quantify the cross-platform SDD panel!" 
 "We need to override the 1080p IP transmitter!" 
+"bypassing the panel won't do anything, we need to navigate the haptic XML bus!" 
