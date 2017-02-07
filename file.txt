@@ -72,3 +72,4 @@
 "We need to quantify the cross-platform SDD panel!" 
 "We need to override the 1080p IP transmitter!" 
 "bypassing the panel won't do anything, we need to navigate the haptic XML bus!" 
+"If we compress the microchip, we can get to the OCR system through the digital HDD feed!" 
