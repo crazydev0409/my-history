@@ -419,3 +419,4 @@
 "Try to generate the SMTP application, maybe it will index the online circuit!" 
 "Use the back-end XML feed, then you can calculate the online driver!" 
 "The RSS card is down, parse the primary driver so we can calculate the RSS bus!" 
+"compressing the application won't do anything, we need to input the primary SQL microchip!" 
