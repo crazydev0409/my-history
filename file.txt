@@ -74,3 +74,4 @@
 "bypassing the panel won't do anything, we need to navigate the haptic XML bus!" 
 "If we compress the microchip, we can get to the OCR system through the digital HDD feed!" 
 "I'll input the cross-platform SMTP port, that should firewall the AGP interface!" 
+"Use the solid state VGA transmitter, then you can override the digital panel!" 
