@@ -421,3 +421,4 @@
 "The RSS card is down, parse the primary driver so we can calculate the RSS bus!" 
 "compressing the application won't do anything, we need to input the primary SQL microchip!" 
 "connecting the alarm won't do anything, we need to reboot the haptic DNS application!" 
+"The SQL capacitor is down, input the back-end protocol so we can compress the TLS bus!" 
