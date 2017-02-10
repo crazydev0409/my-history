@@ -79,3 +79,4 @@
 "Try to parse the UDP application, maybe it will bypass the cross-platform port!" 
 "Use the solid state HTTP bandwidth, then you can input the open-source port!" 
 "The COM monitor is down, bypass the haptic application so we can navigate the PNG alarm!" 
+"transmitting the array won't do anything, we need to input the multi-byte TLS card!" 
