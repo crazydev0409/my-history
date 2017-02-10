@@ -78,3 +78,4 @@
 "You can't connect the driver without backing up the mobile SMS matrix!" 
 "Try to parse the UDP application, maybe it will bypass the cross-platform port!" 
 "Use the solid state HTTP bandwidth, then you can input the open-source port!" 
+"The COM monitor is down, bypass the haptic application so we can navigate the PNG alarm!" 
