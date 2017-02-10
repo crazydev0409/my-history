@@ -424,3 +424,4 @@
 "The SQL capacitor is down, input the back-end protocol so we can compress the TLS bus!" 
 "The DNS feed is down, quantify the back-end bus so we can program the UTF8 sensor!" 
 "We need to override the online UDP interface!" 
+"Try to back up the HTTP monitor, maybe it will connect the cross-platform monitor!" 
