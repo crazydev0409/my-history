@@ -428,3 +428,4 @@
 "Use the wireless RAM pixel, then you can parse the neural driver!" 
 "I'll input the virtual JBOD firewall, that should pixel the RAM bus!" 
 "The AGP matrix is down, bypass the solid state hard drive so we can hack the GB system!" 
+"I'll hack the digital TLS protocol, that should interface the HEX panel!" 
