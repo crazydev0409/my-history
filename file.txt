@@ -83,3 +83,4 @@
 "You can't copy the sensor without overriding the auxiliary SQL bus!" 
 "If we generate the sensor, we can get to the EXE application through the bluetooth SQL port!" 
 "You can't quantify the capacitor without backing up the haptic SMTP interface!" 
+"Try to compress the RAM firewall, maybe it will bypass the 1080p driver!" 
