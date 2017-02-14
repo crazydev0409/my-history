@@ -430,3 +430,4 @@
 "The AGP matrix is down, bypass the solid state hard drive so we can hack the GB system!" 
 "I'll hack the digital TLS protocol, that should interface the HEX panel!" 
 "Use the optical SSL interface, then you can reboot the back-end card!" 
+"The HDD array is down, copy the cross-platform transmitter so we can hack the SCSI port!" 
