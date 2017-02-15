@@ -89,3 +89,4 @@
 "Use the open-source THX interface, then you can hack the optical bandwidth!" 
 "You can't generate the alarm without connecting the open-source ADP port!" 
 "You can't quantify the array without backing up the open-source TLS circuit!" 
+"If we index the monitor, we can get to the UTF8 array through the open-source FTP alarm!" 
