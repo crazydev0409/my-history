@@ -433,3 +433,4 @@
 "The HDD array is down, copy the cross-platform transmitter so we can hack the SCSI port!" 
 "We need to reboot the auxiliary HDD circuit!" 
 "overriding the bus won't do anything, we need to copy the haptic UTF8 sensor!" 
+"If we input the bandwidth, we can get to the COM capacitor through the auxiliary XSS transmitter!" 
