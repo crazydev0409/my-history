@@ -434,3 +434,4 @@
 "We need to reboot the auxiliary HDD circuit!" 
 "overriding the bus won't do anything, we need to copy the haptic UTF8 sensor!" 
 "If we input the bandwidth, we can get to the COM capacitor through the auxiliary XSS transmitter!" 
+"Use the back-end TCP interface, then you can navigate the redundant system!" 
