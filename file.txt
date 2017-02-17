@@ -93,3 +93,4 @@
 "I'll input the optical RAM microchip, that should protocol the HEX card!" 
 "I'll override the mobile DRAM bus, that should monitor the PCI card!" 
 "I'll transmit the solid state SDD program, that should application the ADP alarm!" 
+"I'll generate the virtual FTP firewall, that should bus the USB sensor!" 
