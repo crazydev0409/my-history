@@ -92,3 +92,4 @@
 "If we index the monitor, we can get to the UTF8 array through the open-source FTP alarm!" 
 "I'll input the optical RAM microchip, that should protocol the HEX card!" 
 "I'll override the mobile DRAM bus, that should monitor the PCI card!" 
+"I'll transmit the solid state SDD program, that should application the ADP alarm!" 
