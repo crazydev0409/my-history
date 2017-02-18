@@ -437,3 +437,4 @@
 "Use the back-end TCP interface, then you can navigate the redundant system!" 
 "I'll transmit the digital FTP card, that should alarm the EXE firewall!" 
 "I'll copy the wireless ASCII pixel, that should interface the ADP driver!" 
+"We need to copy the solid state RAM circuit!" 
