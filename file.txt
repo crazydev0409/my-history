@@ -97,3 +97,4 @@
 "The SQL pixel is down, hack the multi-byte capacitor so we can reboot the TLS driver!" 
 "The UTF8 monitor is down, connect the auxiliary program so we can transmit the HTTP bus!" 
 "connecting the matrix won't do anything, we need to back up the cross-platform PNG bandwidth!" 
+"The DNS alarm is down, bypass the back-end alarm so we can compress the SSD firewall!" 
