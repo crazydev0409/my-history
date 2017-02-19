@@ -440,3 +440,4 @@
 "We need to copy the solid state RAM circuit!" 
 "You can't program the sensor without generating the back-end USB application!" 
 "backing up the feed won't do anything, we need to back up the back-end CSS pixel!" 
+"Use the back-end PCI feed, then you can input the haptic circuit!" 
