@@ -98,3 +98,4 @@
 "The UTF8 monitor is down, connect the auxiliary program so we can transmit the HTTP bus!" 
 "connecting the matrix won't do anything, we need to back up the cross-platform PNG bandwidth!" 
 "The DNS alarm is down, bypass the back-end alarm so we can compress the SSD firewall!" 
+"Try to transmit the SSD port, maybe it will compress the solid state alarm!" 
