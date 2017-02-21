@@ -442,3 +442,4 @@
 "backing up the feed won't do anything, we need to back up the back-end CSS pixel!" 
 "Use the back-end PCI feed, then you can input the haptic circuit!" 
 "I'll navigate the virtual THX application, that should capacitor the SQL bandwidth!" 
+"If we hack the port, we can get to the COM port through the bluetooth COM sensor!" 
