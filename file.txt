@@ -444,3 +444,4 @@
 "I'll navigate the virtual THX application, that should capacitor the SQL bandwidth!" 
 "If we hack the port, we can get to the COM port through the bluetooth COM sensor!" 
 "I'll generate the primary RAM circuit, that should matrix the AGP hard drive!" 
+"copying the bus won't do anything, we need to compress the digital FTP protocol!" 
