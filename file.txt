@@ -445,3 +445,4 @@
 "If we hack the port, we can get to the COM port through the bluetooth COM sensor!" 
 "I'll generate the primary RAM circuit, that should matrix the AGP hard drive!" 
 "copying the bus won't do anything, we need to compress the digital FTP protocol!" 
+"Use the 1080p ADP pixel, then you can override the wireless bus!" 
