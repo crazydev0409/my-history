@@ -107,3 +107,4 @@
 "You can't input the program without bypassing the primary GB transmitter!" 
 "The OCR driver is down, compress the neural firewall so we can back up the GB monitor!" 
 "If we transmit the bus, we can get to the PCI matrix through the primary AI feed!" 
+"We need to back up the neural IP matrix!" 
