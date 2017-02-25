@@ -450,3 +450,4 @@
 "We need to compress the back-end RSS application!" 
 "The XML circuit is down, override the digital bus so we can input the HTTP system!" 
 "compressing the interface won't do anything, we need to transmit the mobile SCSI circuit!" 
+"You can't parse the interface without hacking the multi-byte XSS sensor!" 
