@@ -112,3 +112,4 @@
 "We need to input the primary SCSI microchip!" 
 "You can't transmit the port without bypassing the virtual SSD array!" 
 "I'll bypass the neural CLI driver, that should alarm the UDP program!" 
+"The TCP transmitter is down, connect the auxiliary firewall so we can copy the OCR driver!" 
