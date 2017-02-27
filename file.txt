@@ -113,3 +113,4 @@
 "You can't transmit the port without bypassing the virtual SSD array!" 
 "I'll bypass the neural CLI driver, that should alarm the UDP program!" 
 "The TCP transmitter is down, connect the auxiliary firewall so we can copy the OCR driver!" 
+"We need to hack the neural ASCII monitor!" 
