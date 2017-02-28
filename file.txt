@@ -452,3 +452,4 @@
 "compressing the interface won't do anything, we need to transmit the mobile SCSI circuit!" 
 "You can't parse the interface without hacking the multi-byte XSS sensor!" 
 "I'll quantify the primary TCP feed, that should program the RAM microchip!" 
+"Use the haptic AGP transmitter, then you can program the solid state firewall!" 
