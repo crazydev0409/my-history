@@ -115,3 +115,4 @@
 "The TCP transmitter is down, connect the auxiliary firewall so we can copy the OCR driver!" 
 "We need to hack the neural ASCII monitor!" 
 "If we bypass the protocol, we can get to the HDD alarm through the digital GB matrix!" 
+"If we compress the protocol, we can get to the UTF8 monitor through the neural SSD sensor!" 
