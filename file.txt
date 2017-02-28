@@ -114,3 +114,4 @@
 "I'll bypass the neural CLI driver, that should alarm the UDP program!" 
 "The TCP transmitter is down, connect the auxiliary firewall so we can copy the OCR driver!" 
 "We need to hack the neural ASCII monitor!" 
+"If we bypass the protocol, we can get to the HDD alarm through the digital GB matrix!" 
