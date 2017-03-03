@@ -456,3 +456,4 @@
 "You can't transmit the feed without copying the virtual USB feed!" 
 "I'll parse the bluetooth FTP monitor, that should card the PCI system!" 
 "Try to hack the SSL bandwidth, maybe it will input the wireless protocol!" 
+"You can't copy the card without generating the redundant RSS driver!" 
