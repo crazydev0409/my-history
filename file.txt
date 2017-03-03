@@ -458,3 +458,4 @@
 "Try to hack the SSL bandwidth, maybe it will input the wireless protocol!" 
 "You can't copy the card without generating the redundant RSS driver!" 
 "Use the virtual XML matrix, then you can override the optical alarm!" 
+"I'll synthesize the optical SMS protocol, that should pixel the AGP sensor!" 
