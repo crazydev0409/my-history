@@ -129,3 +129,4 @@
 "If we input the array, we can get to the HDD sensor through the solid state ASCII bandwidth!" 
 "transmitting the hard drive won't do anything, we need to navigate the open-source TCP bandwidth!" 
 "Use the optical OCR driver, then you can hack the neural alarm!" 
+"bypassing the sensor won't do anything, we need to program the online PCI matrix!" 
