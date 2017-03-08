@@ -130,3 +130,4 @@
 "transmitting the hard drive won't do anything, we need to navigate the open-source TCP bandwidth!" 
 "Use the optical OCR driver, then you can hack the neural alarm!" 
 "bypassing the sensor won't do anything, we need to program the online PCI matrix!" 
+"Try to program the GB bus, maybe it will input the optical transmitter!" 
