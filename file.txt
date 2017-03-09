@@ -132,3 +132,4 @@
 "bypassing the sensor won't do anything, we need to program the online PCI matrix!" 
 "Try to program the GB bus, maybe it will input the optical transmitter!" 
 "navigating the system won't do anything, we need to compress the primary AGP monitor!" 
+"I'll input the virtual TCP pixel, that should interface the THX bandwidth!" 
