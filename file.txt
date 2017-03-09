@@ -465,3 +465,4 @@
 "indexing the transmitter won't do anything, we need to calculate the optical HTTP interface!" 
 "Use the digital XML panel, then you can synthesize the auxiliary pixel!" 
 "You can't hack the alarm without transmitting the redundant RSS sensor!" 
+"Try to synthesize the GB port, maybe it will override the auxiliary bus!" 
