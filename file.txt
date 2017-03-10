@@ -134,3 +134,4 @@
 "navigating the system won't do anything, we need to compress the primary AGP monitor!" 
 "I'll input the virtual TCP pixel, that should interface the THX bandwidth!" 
 "If we generate the transmitter, we can get to the PNG hard drive through the 1080p JSON alarm!" 
+"We need to copy the 1080p AI panel!" 
