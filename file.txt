@@ -137,3 +137,4 @@
 "We need to copy the 1080p AI panel!" 
 "Try to parse the IP bandwidth, maybe it will program the auxiliary feed!" 
 "We need to copy the cross-platform TLS alarm!" 
+"hacking the system won't do anything, we need to bypass the primary SMS application!" 
