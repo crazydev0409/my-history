@@ -139,3 +139,4 @@
 "We need to copy the cross-platform TLS alarm!" 
 "hacking the system won't do anything, we need to bypass the primary SMS application!" 
 "quantifying the alarm won't do anything, we need to override the virtual SAS protocol!" 
+"I'll generate the multi-byte JBOD pixel, that should matrix the UTF8 pixel!" 
