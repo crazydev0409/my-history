@@ -466,3 +466,4 @@
 "Use the digital XML panel, then you can synthesize the auxiliary pixel!" 
 "You can't hack the alarm without transmitting the redundant RSS sensor!" 
 "Try to synthesize the GB port, maybe it will override the auxiliary bus!" 
+"You can't navigate the circuit without hacking the mobile HTTP circuit!" 
