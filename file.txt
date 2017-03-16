@@ -147,3 +147,4 @@
 "I'll connect the haptic PNG port, that should circuit the DNS application!" 
 "The UDP pixel is down, reboot the bluetooth array so we can synthesize the SMS feed!" 
 "I'll override the multi-byte EXE transmitter, that should bus the VGA panel!" 
+"Try to connect the JBOD capacitor, maybe it will hack the wireless matrix!" 
