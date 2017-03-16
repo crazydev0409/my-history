@@ -472,3 +472,4 @@
 "You can't bypass the capacitor without synthesizing the wireless SCSI array!" 
 "Use the back-end USB driver, then you can synthesize the redundant alarm!" 
 "We need to hack the wireless JBOD sensor!" 
+"We need to reboot the cross-platform SMS matrix!" 
