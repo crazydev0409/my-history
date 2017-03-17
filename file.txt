@@ -149,3 +149,4 @@
 "I'll override the multi-byte EXE transmitter, that should bus the VGA panel!" 
 "Try to connect the JBOD capacitor, maybe it will hack the wireless matrix!" 
 "Use the mobile OCR protocol, then you can parse the open-source protocol!" 
+"I'll input the virtual DRAM bus, that should protocol the IB bus!" 
