@@ -151,3 +151,4 @@
 "Use the mobile OCR protocol, then you can parse the open-source protocol!" 
 "I'll input the virtual DRAM bus, that should protocol the IB bus!" 
 "connecting the array won't do anything, we need to copy the optical OCR interface!" 
+"If we connect the panel, we can get to the HDD feed through the optical VGA hard drive!" 
