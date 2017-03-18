@@ -474,3 +474,4 @@
 "We need to hack the wireless JBOD sensor!" 
 "We need to reboot the cross-platform SMS matrix!" 
 "I'll parse the 1080p DRAM card, that should array the TCP transmitter!" 
+"If we index the protocol, we can get to the JBOD capacitor through the digital PNG interface!" 
