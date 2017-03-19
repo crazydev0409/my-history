@@ -153,3 +153,4 @@
 "connecting the array won't do anything, we need to copy the optical OCR interface!" 
 "If we connect the panel, we can get to the HDD feed through the optical VGA hard drive!" 
 "We need to generate the optical RSS hard drive!" 
+"The IP hard drive is down, navigate the wireless driver so we can compress the TLS sensor!" 
