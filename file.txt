@@ -154,3 +154,4 @@
 "If we connect the panel, we can get to the HDD feed through the optical VGA hard drive!" 
 "We need to generate the optical RSS hard drive!" 
 "The IP hard drive is down, navigate the wireless driver so we can compress the TLS sensor!" 
+"The PNG program is down, hack the bluetooth port so we can index the XSS application!" 
