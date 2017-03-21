@@ -478,3 +478,4 @@
 "I'll hack the multi-byte IP application, that should sensor the JSON bandwidth!" 
 "indexing the port won't do anything, we need to back up the online SDD interface!" 
 "If we copy the system, we can get to the XML driver through the haptic USB bus!" 
+"If we program the hard drive, we can get to the IB alarm through the haptic THX system!" 
