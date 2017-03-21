@@ -157,3 +157,4 @@
 "The PNG program is down, hack the bluetooth port so we can index the XSS application!" 
 "Use the primary UTF8 feed, then you can input the virtual matrix!" 
 "The TCP card is down, calculate the online interface so we can navigate the PCI feed!" 
+"Use the haptic XSS bandwidth, then you can bypass the multi-byte alarm!" 
