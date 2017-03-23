@@ -481,3 +481,4 @@
 "If we program the hard drive, we can get to the IB alarm through the haptic THX system!" 
 "I'll back up the solid state COM feed, that should pixel the RSS alarm!" 
 "We need to generate the bluetooth AI array!" 
+"compressing the capacitor won't do anything, we need to input the primary CLI array!" 
