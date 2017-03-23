@@ -161,3 +161,4 @@
 "synthesizing the capacitor won't do anything, we need to generate the auxiliary HEX firewall!" 
 "Use the online TCP port, then you can synthesize the primary sensor!" 
 "We need to hack the solid state AGP array!" 
+"Use the digital HTTP microchip, then you can program the primary protocol!" 
