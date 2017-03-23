@@ -480,3 +480,4 @@
 "If we copy the system, we can get to the XML driver through the haptic USB bus!" 
 "If we program the hard drive, we can get to the IB alarm through the haptic THX system!" 
 "I'll back up the solid state COM feed, that should pixel the RSS alarm!" 
+"We need to generate the bluetooth AI array!" 
