@@ -165,3 +165,4 @@
 "quantifying the panel won't do anything, we need to compress the auxiliary JBOD array!" 
 "I'll index the neural ADP sensor, that should alarm the USB transmitter!" 
 "I'll connect the digital DNS circuit, that should interface the XSS feed!" 
+"Use the bluetooth CSS program, then you can hack the cross-platform microchip!" 
