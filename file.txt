@@ -485,3 +485,4 @@
 "I'll override the cross-platform UDP feed, that should alarm the HTTP pixel!" 
 "bypassing the array won't do anything, we need to quantify the virtual DRAM microchip!" 
 "indexing the alarm won't do anything, we need to index the open-source EXE firewall!" 
+"You can't hack the program without connecting the optical CLI firewall!" 
