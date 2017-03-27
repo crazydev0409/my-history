@@ -169,3 +169,4 @@
 "bypassing the driver won't do anything, we need to navigate the solid state TCP microchip!" 
 "calculating the sensor won't do anything, we need to transmit the cross-platform JBOD hard drive!" 
 "The AI capacitor is down, back up the multi-byte bandwidth so we can hack the UDP application!" 
+"I'll reboot the redundant FTP interface, that should application the DNS monitor!" 
