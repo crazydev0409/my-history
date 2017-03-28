@@ -171,3 +171,4 @@
 "The AI capacitor is down, back up the multi-byte bandwidth so we can hack the UDP application!" 
 "I'll reboot the redundant FTP interface, that should application the DNS monitor!" 
 "Use the open-source PCI panel, then you can input the multi-byte firewall!" 
+"programming the matrix won't do anything, we need to synthesize the redundant OCR array!" 
