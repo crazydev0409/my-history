@@ -174,3 +174,4 @@
 "programming the matrix won't do anything, we need to synthesize the redundant OCR array!" 
 "I'll back up the haptic SMS protocol, that should circuit the USB system!" 
 "quantifying the card won't do anything, we need to parse the optical ASCII card!" 
+"Try to navigate the ADP protocol, maybe it will bypass the virtual interface!" 
