@@ -177,3 +177,4 @@
 "Try to navigate the ADP protocol, maybe it will bypass the virtual interface!" 
 "Try to bypass the XSS protocol, maybe it will input the multi-byte interface!" 
 "I'll copy the haptic API alarm, that should program the DNS port!" 
+"I'll input the back-end IB port, that should monitor the HEX bus!" 
