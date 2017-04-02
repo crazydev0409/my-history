@@ -497,3 +497,4 @@
 "You can't reboot the protocol without programming the optical FTP bandwidth!" 
 "compressing the panel won't do anything, we need to connect the digital UTF8 array!" 
 "Use the back-end PNG feed, then you can connect the mobile driver!" 
+"Try to reboot the RSS circuit, maybe it will generate the optical interface!" 
