@@ -180,3 +180,4 @@
 "I'll input the back-end IB port, that should monitor the HEX bus!" 
 "connecting the firewall won't do anything, we need to parse the open-source EXE port!" 
 "Use the 1080p VGA hard drive, then you can quantify the neural array!" 
+"If we bypass the program, we can get to the PNG panel through the bluetooth UTF8 bus!" 
