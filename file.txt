@@ -182,3 +182,4 @@
 "Use the 1080p VGA hard drive, then you can quantify the neural array!" 
 "If we bypass the program, we can get to the PNG panel through the bluetooth UTF8 bus!" 
 "The SQL system is down, hack the mobile sensor so we can index the AI firewall!" 
+"Use the neural THX driver, then you can navigate the 1080p hard drive!" 
