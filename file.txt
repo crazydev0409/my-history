@@ -503,3 +503,4 @@
 "If we calculate the port, we can get to the RAM matrix through the haptic JBOD card!" 
 "I'll transmit the digital PNG transmitter, that should matrix the JBOD application!" 
 "Use the back-end SQL feed, then you can hack the virtual alarm!" 
+"copying the capacitor won't do anything, we need to copy the haptic SDD microchip!" 
