@@ -507,3 +507,4 @@
 "The TCP bus is down, reboot the haptic bus so we can reboot the XML feed!" 
 "The IP sensor is down, hack the auxiliary protocol so we can connect the SMS system!" 
 "The SQL port is down, hack the solid state interface so we can compress the TLS alarm!" 
+"Try to synthesize the SAS monitor, maybe it will hack the auxiliary sensor!" 
