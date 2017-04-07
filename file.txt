@@ -505,3 +505,4 @@
 "Use the back-end SQL feed, then you can hack the virtual alarm!" 
 "copying the capacitor won't do anything, we need to copy the haptic SDD microchip!" 
 "The TCP bus is down, reboot the haptic bus so we can reboot the XML feed!" 
+"The IP sensor is down, hack the auxiliary protocol so we can connect the SMS system!" 
