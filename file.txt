@@ -193,3 +193,4 @@
 "If we index the sensor, we can get to the AGP firewall through the optical PNG system!" 
 "backing up the feed won't do anything, we need to override the virtual SMTP interface!" 
 "If we connect the system, we can get to the JBOD port through the online HEX transmitter!" 
+"You can't hack the program without generating the solid state SCSI sensor!" 
