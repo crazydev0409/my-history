@@ -511,3 +511,4 @@
 "Try to synthesize the PCI matrix, maybe it will generate the multi-byte driver!" 
 "calculating the alarm won't do anything, we need to bypass the digital TLS transmitter!" 
 "You can't quantify the card without transmitting the optical EXE circuit!" 
+"indexing the sensor won't do anything, we need to override the online GB capacitor!" 
