@@ -196,3 +196,4 @@
 "You can't hack the program without generating the solid state SCSI sensor!" 
 "We need to index the neural FTP application!" 
 "compressing the application won't do anything, we need to bypass the neural SAS matrix!" 
+"We need to synthesize the primary API monitor!" 
