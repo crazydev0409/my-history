@@ -513,3 +513,4 @@
 "You can't quantify the card without transmitting the optical EXE circuit!" 
 "indexing the sensor won't do anything, we need to override the online GB capacitor!" 
 "I'll synthesize the open-source USB matrix, that should port the RSS driver!" 
+"If we input the port, we can get to the OCR sensor through the cross-platform IB feed!" 
