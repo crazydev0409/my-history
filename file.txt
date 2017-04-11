@@ -198,3 +198,4 @@
 "compressing the application won't do anything, we need to bypass the neural SAS matrix!" 
 "We need to synthesize the primary API monitor!" 
 "backing up the panel won't do anything, we need to index the primary SCSI bandwidth!" 
+"I'll hack the back-end SSD driver, that should protocol the ADP capacitor!" 
