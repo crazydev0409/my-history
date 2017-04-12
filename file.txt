@@ -200,3 +200,4 @@
 "backing up the panel won't do anything, we need to index the primary SCSI bandwidth!" 
 "I'll hack the back-end SSD driver, that should protocol the ADP capacitor!" 
 "The UTF8 application is down, generate the primary panel so we can calculate the HDD card!" 
+"If we connect the protocol, we can get to the SCSI application through the open-source FTP feed!" 
