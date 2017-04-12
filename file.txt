@@ -515,3 +515,4 @@
 "I'll synthesize the open-source USB matrix, that should port the RSS driver!" 
 "If we input the port, we can get to the OCR sensor through the cross-platform IB feed!" 
 "The OCR pixel is down, program the digital array so we can parse the SQL firewall!" 
+"You can't quantify the matrix without compressing the open-source JBOD hard drive!" 
