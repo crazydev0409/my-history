@@ -207,3 +207,4 @@
 "I'll reboot the online AI matrix, that should microchip the SMS hard drive!" 
 "You can't reboot the alarm without bypassing the neural SMS application!" 
 "We need to parse the online UDP feed!" 
+"You can't navigate the protocol without copying the solid state SCSI bandwidth!" 
