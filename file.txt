@@ -206,3 +206,4 @@
 "If we quantify the alarm, we can get to the SMTP capacitor through the back-end RSS sensor!" 
 "I'll reboot the online AI matrix, that should microchip the SMS hard drive!" 
 "You can't reboot the alarm without bypassing the neural SMS application!" 
+"We need to parse the online UDP feed!" 
