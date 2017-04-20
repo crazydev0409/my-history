@@ -217,3 +217,4 @@
 "Try to navigate the CLI panel, maybe it will transmit the auxiliary alarm!" 
 "The SMTP array is down, navigate the back-end firewall so we can reboot the DRAM system!" 
 "You can't program the program without connecting the back-end IB circuit!" 
+"You can't bypass the card without overriding the neural EXE circuit!" 
