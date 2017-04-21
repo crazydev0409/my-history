@@ -219,3 +219,4 @@
 "You can't program the program without connecting the back-end IB circuit!" 
 "You can't bypass the card without overriding the neural EXE circuit!" 
 "You can't generate the feed without calculating the multi-byte COM driver!" 
+"The HEX sensor is down, copy the open-source circuit so we can hack the CLI feed!" 
