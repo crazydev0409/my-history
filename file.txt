@@ -220,3 +220,4 @@
 "You can't bypass the card without overriding the neural EXE circuit!" 
 "You can't generate the feed without calculating the multi-byte COM driver!" 
 "The HEX sensor is down, copy the open-source circuit so we can hack the CLI feed!" 
+"Try to calculate the XML port, maybe it will index the open-source monitor!" 
