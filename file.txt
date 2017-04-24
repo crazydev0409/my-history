@@ -531,3 +531,4 @@
 "Use the back-end SCSI sensor, then you can navigate the multi-byte panel!" 
 "Use the online THX array, then you can back up the multi-byte bus!" 
 "We need to override the bluetooth TCP driver!" 
+"Try to generate the API system, maybe it will hack the primary port!" 
