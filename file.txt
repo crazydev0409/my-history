@@ -224,3 +224,4 @@
 "I'll calculate the online UTF8 sensor, that should protocol the RAM microchip!" 
 "I'll parse the online JSON transmitter, that should microchip the SCSI pixel!" 
 "The UTF8 bus is down, generate the auxiliary microchip so we can back up the AGP system!" 
+"You can't reboot the card without transmitting the 1080p FTP transmitter!" 
