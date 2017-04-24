@@ -530,3 +530,4 @@
 "We need to synthesize the back-end THX matrix!" 
 "Use the back-end SCSI sensor, then you can navigate the multi-byte panel!" 
 "Use the online THX array, then you can back up the multi-byte bus!" 
+"We need to override the bluetooth TCP driver!" 
