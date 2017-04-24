@@ -225,3 +225,4 @@
 "I'll parse the online JSON transmitter, that should microchip the SCSI pixel!" 
 "The UTF8 bus is down, generate the auxiliary microchip so we can back up the AGP system!" 
 "You can't reboot the card without transmitting the 1080p FTP transmitter!" 
+"The SDD port is down, generate the back-end matrix so we can hack the SSD bandwidth!" 
