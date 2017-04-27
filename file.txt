@@ -231,3 +231,4 @@
 "We need to calculate the bluetooth FTP system!" 
 "The SMS feed is down, parse the primary circuit so we can parse the COM hard drive!" 
 "The EXE capacitor is down, input the solid state feed so we can copy the UTF8 transmitter!" 
+"Use the open-source RSS matrix, then you can program the virtual port!" 
