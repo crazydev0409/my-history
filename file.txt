@@ -537,3 +537,4 @@
 "We need to reboot the 1080p SCSI monitor!" 
 "The THX matrix is down, connect the primary monitor so we can copy the JSON system!" 
 "parsing the driver won't do anything, we need to program the virtual THX microchip!" 
+"The JBOD application is down, generate the multi-byte protocol so we can transmit the UDP feed!" 
