@@ -540,3 +540,4 @@
 "The JBOD application is down, generate the multi-byte protocol so we can transmit the UDP feed!" 
 "We need to connect the solid state HDD monitor!" 
 "hacking the application won't do anything, we need to quantify the virtual OCR array!" 
+"Try to quantify the SQL card, maybe it will quantify the open-source monitor!" 
