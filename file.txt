@@ -242,3 +242,4 @@
 "Use the back-end JBOD alarm, then you can calculate the digital system!" 
 "I'll input the digital TLS card, that should firewall the IB program!" 
 "bypassing the matrix won't do anything, we need to connect the redundant UTF8 application!" 
+"You can't synthesize the bus without calculating the cross-platform IB protocol!" 
