@@ -542,3 +542,4 @@
 "hacking the application won't do anything, we need to quantify the virtual OCR array!" 
 "Try to quantify the SQL card, maybe it will quantify the open-source monitor!" 
 "Try to transmit the AGP port, maybe it will input the mobile bandwidth!" 
+"We need to compress the primary IP monitor!" 
