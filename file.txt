@@ -244,3 +244,4 @@
 "bypassing the matrix won't do anything, we need to connect the redundant UTF8 application!" 
 "You can't synthesize the bus without calculating the cross-platform IB protocol!" 
 "If we hack the driver, we can get to the API array through the redundant JBOD feed!" 
+"You can't input the sensor without parsing the bluetooth UTF8 interface!" 
