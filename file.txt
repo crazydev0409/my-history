@@ -246,3 +246,4 @@
 "If we hack the driver, we can get to the API array through the redundant JBOD feed!" 
 "You can't input the sensor without parsing the bluetooth UTF8 interface!" 
 "Try to copy the THX program, maybe it will copy the neural program!" 
+"The ADP card is down, back up the primary bandwidth so we can transmit the GB transmitter!" 
