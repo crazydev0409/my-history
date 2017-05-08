@@ -549,3 +549,4 @@
 "If we bypass the application, we can get to the HEX bandwidth through the optical SSD feed!" 
 "We need to bypass the auxiliary SMS port!" 
 "Use the wireless TCP bandwidth, then you can transmit the haptic microchip!" 
+"If we back up the capacitor, we can get to the USB pixel through the multi-byte AGP array!" 
