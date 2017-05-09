@@ -255,3 +255,4 @@
 "Try to parse the THX capacitor, maybe it will bypass the redundant protocol!" 
 "You can't program the port without calculating the online HEX application!" 
 "We need to synthesize the haptic SQL program!" 
+"We need to reboot the digital SDD port!" 
