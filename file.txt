@@ -553,3 +553,4 @@
 "You can't generate the application without connecting the back-end XSS sensor!" 
 "programming the card won't do anything, we need to connect the optical HDD monitor!" 
 "I'll index the virtual XSS application, that should bandwidth the UTF8 application!" 
+"I'll transmit the redundant IP panel, that should hard drive the HTTP feed!" 
