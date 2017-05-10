@@ -551,3 +551,4 @@
 "Use the wireless TCP bandwidth, then you can transmit the haptic microchip!" 
 "If we back up the capacitor, we can get to the USB pixel through the multi-byte AGP array!" 
 "You can't generate the application without connecting the back-end XSS sensor!" 
+"programming the card won't do anything, we need to connect the optical HDD monitor!" 
