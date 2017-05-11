@@ -258,3 +258,4 @@
 "We need to reboot the digital SDD port!" 
 "You can't connect the matrix without hacking the mobile XSS hard drive!" 
 "If we program the system, we can get to the THX driver through the redundant UTF8 matrix!" 
+"Use the redundant SDD alarm, then you can hack the open-source transmitter!" 
