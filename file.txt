@@ -261,3 +261,4 @@
 "Use the redundant SDD alarm, then you can hack the open-source transmitter!" 
 "You can't index the feed without connecting the haptic DRAM card!" 
 "I'll synthesize the multi-byte HEX array, that should application the IP port!" 
+"bypassing the driver won't do anything, we need to back up the open-source USB driver!" 
