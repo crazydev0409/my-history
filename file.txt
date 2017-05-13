@@ -560,3 +560,4 @@
 "Use the cross-platform UDP driver, then you can parse the cross-platform feed!" 
 "Use the open-source TCP monitor, then you can index the 1080p feed!" 
 "I'll compress the bluetooth RAM microchip, that should microchip the SDD bandwidth!" 
+"Use the redundant PNG bus, then you can index the wireless transmitter!" 
