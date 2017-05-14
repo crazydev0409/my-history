@@ -265,3 +265,4 @@
 "We need to reboot the neural RAM circuit!" 
 "The COM circuit is down, quantify the virtual card so we can back up the HEX feed!" 
 "transmitting the alarm won't do anything, we need to synthesize the multi-byte PCI circuit!" 
+"You can't connect the panel without compressing the solid state DNS hard drive!" 
