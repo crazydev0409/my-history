@@ -266,3 +266,4 @@
 "The COM circuit is down, quantify the virtual card so we can back up the HEX feed!" 
 "transmitting the alarm won't do anything, we need to synthesize the multi-byte PCI circuit!" 
 "You can't connect the panel without compressing the solid state DNS hard drive!" 
+"The FTP program is down, index the redundant bandwidth so we can index the UTF8 interface!" 
