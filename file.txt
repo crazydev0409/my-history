@@ -563,3 +563,4 @@
 "Use the redundant PNG bus, then you can index the wireless transmitter!" 
 "The PNG system is down, quantify the auxiliary application so we can navigate the SDD transmitter!" 
 "You can't quantify the system without programming the redundant ADP program!" 
+"I'll bypass the redundant UDP alarm, that should matrix the GB bus!" 
