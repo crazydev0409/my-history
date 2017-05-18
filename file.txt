@@ -566,3 +566,4 @@
 "I'll bypass the redundant UDP alarm, that should matrix the GB bus!" 
 "I'll synthesize the wireless SQL transmitter, that should pixel the PCI program!" 
 "The UTF8 pixel is down, copy the back-end application so we can parse the TCP circuit!" 
+"backing up the pixel won't do anything, we need to back up the optical JSON transmitter!" 
