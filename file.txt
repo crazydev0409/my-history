@@ -277,3 +277,4 @@
 "We need to override the mobile HEX bandwidth!" 
 "We need to bypass the neural XSS bandwidth!" 
 "Try to compress the IB protocol, maybe it will compress the auxiliary alarm!" 
+"hacking the hard drive won't do anything, we need to parse the bluetooth SDD array!" 
