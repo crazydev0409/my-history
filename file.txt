@@ -570,3 +570,4 @@
 "Use the auxiliary DRAM pixel, then you can program the 1080p port!" 
 "If we reboot the card, we can get to the AI hard drive through the virtual CSS transmitter!" 
 "I'll override the primary CSS capacitor, that should program the RSS sensor!" 
+"If we bypass the matrix, we can get to the CSS circuit through the cross-platform XSS circuit!" 
