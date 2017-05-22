@@ -281,3 +281,4 @@
 "parsing the hard drive won't do anything, we need to parse the optical COM capacitor!" 
 "We need to hack the back-end SSD monitor!" 
 "indexing the microchip won't do anything, we need to connect the primary PCI monitor!" 
+"You can't generate the circuit without bypassing the cross-platform PNG microchip!" 
