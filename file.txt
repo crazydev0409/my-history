@@ -572,3 +572,4 @@
 "I'll override the primary CSS capacitor, that should program the RSS sensor!" 
 "If we bypass the matrix, we can get to the CSS circuit through the cross-platform XSS circuit!" 
 "compressing the sensor won't do anything, we need to connect the multi-byte UDP system!" 
+"If we back up the firewall, we can get to the HDD alarm through the wireless AGP monitor!" 
