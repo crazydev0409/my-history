@@ -285,3 +285,4 @@
 "We need to navigate the primary RAM protocol!" 
 "You can't copy the firewall without connecting the optical SMS feed!" 
 "We need to connect the open-source SSD sensor!" 
+"Use the 1080p ADP program, then you can program the haptic monitor!" 
