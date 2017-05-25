@@ -574,3 +574,4 @@
 "compressing the sensor won't do anything, we need to connect the multi-byte UDP system!" 
 "If we back up the firewall, we can get to the HDD alarm through the wireless AGP monitor!" 
 "I'll generate the multi-byte USB capacitor, that should capacitor the EXE hard drive!" 
+"We need to index the wireless CSS feed!" 
