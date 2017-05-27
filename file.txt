@@ -577,3 +577,4 @@
 "We need to index the wireless CSS feed!" 
 "If we parse the bandwidth, we can get to the JBOD hard drive through the back-end SSD array!" 
 "I'll transmit the mobile FTP panel, that should capacitor the PCI panel!" 
+"The SMS capacitor is down, back up the back-end card so we can parse the SMTP capacitor!" 
