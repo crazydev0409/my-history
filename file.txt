@@ -294,3 +294,4 @@
 "We need to copy the primary TLS system!" 
 "If we quantify the port, we can get to the DRAM capacitor through the primary RSS alarm!" 
 "I'll quantify the solid state RAM card, that should monitor the UDP circuit!" 
+"Try to calculate the IB bus, maybe it will generate the auxiliary interface!" 
