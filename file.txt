@@ -297,3 +297,4 @@
 "Try to calculate the IB bus, maybe it will generate the auxiliary interface!" 
 "Try to copy the XSS microchip, maybe it will compress the bluetooth alarm!" 
 "If we transmit the feed, we can get to the TCP sensor through the cross-platform EXE card!" 
+"The COM card is down, transmit the optical feed so we can generate the IP program!" 
