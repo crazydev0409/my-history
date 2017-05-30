@@ -585,3 +585,4 @@
 "If we reboot the matrix, we can get to the UTF8 microchip through the back-end JBOD bandwidth!" 
 "Use the primary API pixel, then you can calculate the mobile driver!" 
 "The XML port is down, transmit the open-source feed so we can connect the OCR array!" 
+"overriding the transmitter won't do anything, we need to index the back-end SMS card!" 
