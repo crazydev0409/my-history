@@ -299,3 +299,4 @@
 "If we transmit the feed, we can get to the TCP sensor through the cross-platform EXE card!" 
 "The COM card is down, transmit the optical feed so we can generate the IP program!" 
 "Use the 1080p FTP card, then you can program the mobile program!" 
+"I'll index the optical VGA firewall, that should port the THX hard drive!" 
