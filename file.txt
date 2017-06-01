@@ -587,3 +587,4 @@
 "The XML port is down, transmit the open-source feed so we can connect the OCR array!" 
 "overriding the transmitter won't do anything, we need to index the back-end SMS card!" 
 "Use the mobile UDP interface, then you can compress the 1080p bus!" 
+"connecting the bandwidth won't do anything, we need to override the optical AGP transmitter!" 
