@@ -588,3 +588,4 @@
 "overriding the transmitter won't do anything, we need to index the back-end SMS card!" 
 "Use the mobile UDP interface, then you can compress the 1080p bus!" 
 "connecting the bandwidth won't do anything, we need to override the optical AGP transmitter!" 
+"I'll synthesize the neural IB bus, that should panel the SSL hard drive!" 
