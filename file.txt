@@ -302,3 +302,4 @@
 "I'll index the optical VGA firewall, that should port the THX hard drive!" 
 "The THX hard drive is down, override the optical capacitor so we can override the SQL hard drive!" 
 "synthesizing the protocol won't do anything, we need to back up the bluetooth TLS protocol!" 
+"Try to hack the DNS matrix, maybe it will override the primary driver!" 
