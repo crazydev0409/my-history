@@ -304,3 +304,4 @@
 "synthesizing the protocol won't do anything, we need to back up the bluetooth TLS protocol!" 
 "Try to hack the DNS matrix, maybe it will override the primary driver!" 
 "I'll connect the 1080p OCR panel, that should sensor the TLS panel!" 
+"The HEX array is down, hack the optical sensor so we can connect the OCR circuit!" 
