@@ -590,3 +590,4 @@
 "connecting the bandwidth won't do anything, we need to override the optical AGP transmitter!" 
 "I'll synthesize the neural IB bus, that should panel the SSL hard drive!" 
 "I'll connect the redundant FTP system, that should driver the GB panel!" 
+"We need to connect the redundant UTF8 firewall!" 
