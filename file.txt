@@ -307,3 +307,4 @@
 "The HEX array is down, hack the optical sensor so we can connect the OCR circuit!" 
 "bypassing the pixel won't do anything, we need to compress the 1080p API sensor!" 
 "Try to transmit the DNS hard drive, maybe it will synthesize the cross-platform capacitor!" 
+"If we program the driver, we can get to the ASCII interface through the multi-byte OCR array!" 
