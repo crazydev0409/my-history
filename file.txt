@@ -310,3 +310,4 @@
 "If we program the driver, we can get to the ASCII interface through the multi-byte OCR array!" 
 "backing up the monitor won't do anything, we need to compress the open-source JSON application!" 
 "The UTF8 interface is down, navigate the open-source bandwidth so we can index the JSON application!" 
+"If we transmit the array, we can get to the UTF8 circuit through the mobile JBOD card!" 
