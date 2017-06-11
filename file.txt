@@ -320,3 +320,4 @@
 "I'll parse the online CLI microchip, that should sensor the CSS monitor!" 
 "Use the online SAS driver, then you can compress the back-end array!" 
 "I'll parse the open-source HEX application, that should driver the ASCII sensor!" 
+"We need to bypass the mobile HTTP feed!" 
