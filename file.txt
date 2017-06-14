@@ -327,3 +327,4 @@
 "We need to generate the solid state CSS feed!" 
 "I'll quantify the 1080p SAS bus, that should bandwidth the FTP panel!" 
 "The HDD card is down, synthesize the auxiliary hard drive so we can calculate the RSS program!" 
+"If we index the monitor, we can get to the SSD driver through the bluetooth TCP interface!" 
