@@ -329,3 +329,4 @@
 "The HDD card is down, synthesize the auxiliary hard drive so we can calculate the RSS program!" 
 "If we index the monitor, we can get to the SSD driver through the bluetooth TCP interface!" 
 "Use the solid state EXE feed, then you can program the wireless card!" 
+"I'll reboot the bluetooth EXE protocol, that should firewall the ADP port!" 
