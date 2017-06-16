@@ -609,3 +609,4 @@
 "Try to transmit the SAS program, maybe it will compress the back-end application!" 
 "We need to back up the solid state COM driver!" 
 "overriding the bus won't do anything, we need to quantify the multi-byte SMTP application!" 
+"I'll quantify the wireless DRAM monitor, that should firewall the DRAM bandwidth!" 
