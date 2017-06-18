@@ -335,3 +335,4 @@
 "If we copy the card, we can get to the TLS port through the solid state API pixel!" 
 "The GB monitor is down, override the digital hard drive so we can compress the VGA protocol!" 
 "copying the capacitor won't do anything, we need to calculate the redundant AI feed!" 
+"You can't compress the microchip without indexing the redundant CSS panel!" 
