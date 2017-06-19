@@ -337,3 +337,4 @@
 "copying the capacitor won't do anything, we need to calculate the redundant AI feed!" 
 "You can't compress the microchip without indexing the redundant CSS panel!" 
 "If we navigate the monitor, we can get to the SQL monitor through the online TLS panel!" 
+"Use the primary TCP firewall, then you can connect the haptic feed!" 
