@@ -347,3 +347,4 @@
 "backing up the port won't do anything, we need to generate the primary COM card!" 
 "We need to transmit the multi-byte GB card!" 
 "Use the digital SSL firewall, then you can connect the online matrix!" 
+"overriding the sensor won't do anything, we need to connect the mobile OCR panel!" 
