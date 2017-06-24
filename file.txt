@@ -346,3 +346,4 @@
 "If we copy the transmitter, we can get to the GB sensor through the optical SSL firewall!" 
 "backing up the port won't do anything, we need to generate the primary COM card!" 
 "We need to transmit the multi-byte GB card!" 
+"Use the digital SSL firewall, then you can connect the online matrix!" 
