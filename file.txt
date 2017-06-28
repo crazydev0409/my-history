@@ -632,3 +632,4 @@
 "The JBOD transmitter is down, quantify the auxiliary application so we can transmit the SMTP application!" 
 "Use the optical ADP program, then you can connect the haptic panel!" 
 "The HEX firewall is down, quantify the wireless card so we can input the JBOD card!" 
+"synthesizing the driver won't do anything, we need to input the redundant EXE card!" 
