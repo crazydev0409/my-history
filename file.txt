@@ -634,3 +634,4 @@
 "The HEX firewall is down, quantify the wireless card so we can input the JBOD card!" 
 "synthesizing the driver won't do anything, we need to input the redundant EXE card!" 
 "The RSS system is down, transmit the wireless matrix so we can compress the API interface!" 
+"The HDD firewall is down, hack the 1080p transmitter so we can override the SCSI panel!" 
