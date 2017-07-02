@@ -637,3 +637,4 @@
 "The HDD firewall is down, hack the 1080p transmitter so we can override the SCSI panel!" 
 "indexing the monitor won't do anything, we need to connect the online AI monitor!" 
 "I'll reboot the back-end SDD microchip, that should program the SDD circuit!" 
+"We need to reboot the bluetooth SAS interface!" 
