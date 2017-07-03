@@ -641,3 +641,4 @@
 "If we bypass the firewall, we can get to the API microchip through the neural SSL circuit!" 
 "You can't parse the protocol without generating the wireless PNG panel!" 
 "If we reboot the monitor, we can get to the OCR feed through the online COM application!" 
+"copying the alarm won't do anything, we need to program the auxiliary API bandwidth!" 
