@@ -645,3 +645,4 @@
 "hacking the card won't do anything, we need to input the primary SQL hard drive!" 
 "If we bypass the interface, we can get to the CSS firewall through the digital ASCII program!" 
 "You can't navigate the array without transmitting the optical SMTP interface!" 
+"I'll parse the wireless THX transmitter, that should card the UDP interface!" 
