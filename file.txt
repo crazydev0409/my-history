@@ -644,3 +644,4 @@
 "copying the alarm won't do anything, we need to program the auxiliary API bandwidth!" 
 "hacking the card won't do anything, we need to input the primary SQL hard drive!" 
 "If we bypass the interface, we can get to the CSS firewall through the digital ASCII program!" 
+"You can't navigate the array without transmitting the optical SMTP interface!" 
