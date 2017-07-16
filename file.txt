@@ -658,3 +658,4 @@
 "You can't quantify the matrix without programming the haptic SSD interface!" 
 "You can't hack the array without quantifying the solid state JSON bus!" 
 "You can't navigate the card without programming the bluetooth USB bus!" 
+"We need to hack the open-source CLI port!" 
