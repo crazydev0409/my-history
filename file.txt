@@ -676,3 +676,4 @@
 "Try to back up the IP hard drive, maybe it will input the open-source port!" 
 "I'll program the bluetooth ADP capacitor, that should microchip the TCP program!" 
 "If we reboot the circuit, we can get to the COM feed through the back-end XML array!" 
+"Use the virtual XML protocol, then you can override the primary monitor!" 
