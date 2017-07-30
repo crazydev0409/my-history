@@ -677,3 +677,4 @@
 "I'll program the bluetooth ADP capacitor, that should microchip the TCP program!" 
 "If we reboot the circuit, we can get to the COM feed through the back-end XML array!" 
 "Use the virtual XML protocol, then you can override the primary monitor!" 
+"The HTTP matrix is down, override the solid state card so we can back up the UDP system!" 
