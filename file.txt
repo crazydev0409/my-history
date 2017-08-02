@@ -684,3 +684,4 @@
 "The HEX matrix is down, generate the multi-byte monitor so we can synthesize the XSS firewall!" 
 "Use the neural ASCII driver, then you can compress the wireless bandwidth!" 
 "We need to input the digital SMTP capacitor!" 
+"programming the card won't do anything, we need to program the neural ASCII pixel!" 
