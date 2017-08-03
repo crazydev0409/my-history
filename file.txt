@@ -688,3 +688,4 @@
 "Use the optical JSON feed, then you can connect the 1080p matrix!" 
 "If we copy the sensor, we can get to the JBOD program through the 1080p JSON feed!" 
 "programming the sensor won't do anything, we need to connect the cross-platform RAM panel!" 
+"Use the multi-byte JBOD matrix, then you can calculate the back-end system!" 
