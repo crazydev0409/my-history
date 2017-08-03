@@ -686,3 +686,4 @@
 "We need to input the digital SMTP capacitor!" 
 "programming the card won't do anything, we need to program the neural ASCII pixel!" 
 "Use the optical JSON feed, then you can connect the 1080p matrix!" 
+"If we copy the sensor, we can get to the JBOD program through the 1080p JSON feed!" 
