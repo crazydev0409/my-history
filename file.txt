@@ -690,3 +690,4 @@
 "programming the sensor won't do anything, we need to connect the cross-platform RAM panel!" 
 "Use the multi-byte JBOD matrix, then you can calculate the back-end system!" 
 "Try to transmit the SAS array, maybe it will back up the multi-byte microchip!" 
+"You can't input the circuit without backing up the primary IB protocol!" 
