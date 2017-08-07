@@ -692,3 +692,4 @@
 "Try to transmit the SAS array, maybe it will back up the multi-byte microchip!" 
 "You can't input the circuit without backing up the primary IB protocol!" 
 "generating the bandwidth won't do anything, we need to override the neural SAS bus!" 
+"compressing the system won't do anything, we need to input the haptic RSS alarm!" 
