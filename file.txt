@@ -711,3 +711,4 @@
 "I'll connect the virtual IB microchip, that should protocol the HEX driver!" 
 "I'll quantify the neural JBOD system, that should sensor the SMS pixel!" 
 "We need to override the wireless RAM bus!" 
+"hacking the feed won't do anything, we need to override the optical HDD bandwidth!" 
