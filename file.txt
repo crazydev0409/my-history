@@ -712,3 +712,4 @@
 "I'll quantify the neural JBOD system, that should sensor the SMS pixel!" 
 "We need to override the wireless RAM bus!" 
 "hacking the feed won't do anything, we need to override the optical HDD bandwidth!" 
+"If we bypass the pixel, we can get to the JSON protocol through the virtual FTP pixel!" 
