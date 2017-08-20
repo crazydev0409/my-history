@@ -716,3 +716,4 @@
 "calculating the driver won't do anything, we need to bypass the optical RSS matrix!" 
 "You can't generate the application without transmitting the mobile ASCII matrix!" 
 "Use the haptic HEX feed, then you can reboot the auxiliary port!" 
+"Try to copy the SSL driver, maybe it will compress the digital bus!" 
