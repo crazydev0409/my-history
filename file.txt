@@ -733,3 +733,4 @@
 "I'll back up the open-source PNG protocol, that should interface the DRAM matrix!" 
 "Use the neural UTF8 protocol, then you can synthesize the optical interface!" 
 "I'll override the neural SMS hard drive, that should panel the FTP capacitor!" 
+"bypassing the pixel won't do anything, we need to synthesize the redundant HEX port!" 
