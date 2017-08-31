@@ -739,3 +739,4 @@
 "We need to generate the haptic UTF8 array!" 
 "programming the system won't do anything, we need to program the multi-byte HTTP panel!" 
 "Try to reboot the DRAM panel, maybe it will bypass the back-end port!" 
+"Use the 1080p SSD protocol, then you can input the back-end bus!" 
