@@ -741,3 +741,4 @@
 "Try to reboot the DRAM panel, maybe it will bypass the back-end port!" 
 "Use the 1080p SSD protocol, then you can input the back-end bus!" 
 "The THX pixel is down, index the wireless port so we can connect the AGP circuit!" 
+"bypassing the transmitter won't do anything, we need to program the wireless THX transmitter!" 
