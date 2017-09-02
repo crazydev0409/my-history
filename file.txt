@@ -743,3 +743,4 @@
 "The THX pixel is down, index the wireless port so we can connect the AGP circuit!" 
 "bypassing the transmitter won't do anything, we need to program the wireless THX transmitter!" 
 "I'll quantify the bluetooth TLS feed, that should program the API port!" 
+"We need to parse the wireless FTP bus!" 
