@@ -744,3 +744,4 @@
 "bypassing the transmitter won't do anything, we need to program the wireless THX transmitter!" 
 "I'll quantify the bluetooth TLS feed, that should program the API port!" 
 "We need to parse the wireless FTP bus!" 
+"Use the redundant AGP sensor, then you can reboot the 1080p bus!" 
