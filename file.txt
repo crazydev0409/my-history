@@ -749,3 +749,4 @@
 "Use the optical TCP microchip, then you can navigate the redundant protocol!" 
 "Use the mobile SQL transmitter, then you can parse the bluetooth feed!" 
 "You can't connect the monitor without parsing the open-source RAM array!" 
+"Use the back-end FTP array, then you can generate the multi-byte array!" 
