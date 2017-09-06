@@ -747,3 +747,4 @@
 "Use the redundant AGP sensor, then you can reboot the 1080p bus!" 
 "You can't generate the matrix without copying the redundant XML array!" 
 "Use the optical TCP microchip, then you can navigate the redundant protocol!" 
+"Use the mobile SQL transmitter, then you can parse the bluetooth feed!" 
