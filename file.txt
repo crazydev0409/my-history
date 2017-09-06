@@ -748,3 +748,4 @@
 "You can't generate the matrix without copying the redundant XML array!" 
 "Use the optical TCP microchip, then you can navigate the redundant protocol!" 
 "Use the mobile SQL transmitter, then you can parse the bluetooth feed!" 
+"You can't connect the monitor without parsing the open-source RAM array!" 
