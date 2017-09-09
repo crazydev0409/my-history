@@ -755,3 +755,4 @@
 "You can't index the panel without generating the open-source ASCII bandwidth!" 
 "synthesizing the circuit won't do anything, we need to quantify the multi-byte IP bus!" 
 "We need to transmit the digital JSON bus!" 
+"Use the virtual SSL card, then you can navigate the auxiliary card!" 
