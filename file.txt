@@ -757,3 +757,4 @@
 "We need to transmit the digital JSON bus!" 
 "Use the virtual SSL card, then you can navigate the auxiliary card!" 
 "If we navigate the transmitter, we can get to the GB matrix through the digital DNS transmitter!" 
+"Use the online COM card, then you can parse the 1080p array!" 
