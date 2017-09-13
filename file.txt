@@ -760,3 +760,4 @@
 "Use the online COM card, then you can parse the 1080p array!" 
 "I'll hack the optical SDD application, that should driver the SDD sensor!" 
 "Try to hack the API panel, maybe it will transmit the virtual interface!" 
+"You can't program the capacitor without generating the multi-byte RSS program!" 
