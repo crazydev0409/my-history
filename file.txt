@@ -762,3 +762,4 @@
 "Try to hack the API panel, maybe it will transmit the virtual interface!" 
 "You can't program the capacitor without generating the multi-byte RSS program!" 
 "You can't input the matrix without calculating the virtual RAM alarm!" 
+"The RSS microchip is down, override the redundant sensor so we can program the JSON sensor!" 
