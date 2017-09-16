@@ -764,3 +764,4 @@
 "You can't input the matrix without calculating the virtual RAM alarm!" 
 "The RSS microchip is down, override the redundant sensor so we can program the JSON sensor!" 
 "We need to calculate the neural SDD program!" 
+"If we hack the microchip, we can get to the SSD pixel through the online THX feed!" 
