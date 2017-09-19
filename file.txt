@@ -771,3 +771,4 @@
 "Try to calculate the SQL bandwidth, maybe it will override the bluetooth microchip!" 
 "I'll back up the mobile SSD protocol, that should sensor the ADP bus!" 
 "Use the mobile IP transmitter, then you can copy the optical pixel!" 
+"If we compress the bus, we can get to the HEX alarm through the bluetooth SQL application!" 
