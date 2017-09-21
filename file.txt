@@ -773,3 +773,4 @@
 "Use the mobile IP transmitter, then you can copy the optical pixel!" 
 "If we compress the bus, we can get to the HEX alarm through the bluetooth SQL application!" 
 "Use the auxiliary SMTP application, then you can reboot the 1080p application!" 
+"compressing the pixel won't do anything, we need to quantify the redundant RSS system!" 
