@@ -777,3 +777,4 @@
 "The AGP microchip is down, override the multi-byte capacitor so we can override the COM panel!" 
 "The USB array is down, input the wireless capacitor so we can quantify the HEX bus!" 
 "We need to navigate the optical HTTP alarm!" 
+"You can't transmit the interface without calculating the haptic THX capacitor!" 
