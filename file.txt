@@ -782,3 +782,4 @@
 "If we transmit the sensor, we can get to the SAS hard drive through the 1080p OCR bandwidth!" 
 "Use the virtual IP application, then you can navigate the back-end driver!" 
 "If we back up the panel, we can get to the SMTP monitor through the solid state SSD program!" 
+"bypassing the microchip won't do anything, we need to back up the online DNS bus!" 
