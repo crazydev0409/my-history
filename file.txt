@@ -789,3 +789,4 @@
 "If we reboot the port, we can get to the GB feed through the back-end TLS hard drive!" 
 "Use the redundant RAM sensor, then you can transmit the online protocol!" 
 "If we bypass the hard drive, we can get to the SSL driver through the solid state OCR transmitter!" 
+"If we input the card, we can get to the TCP driver through the wireless USB program!" 
