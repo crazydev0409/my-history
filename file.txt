@@ -791,3 +791,4 @@
 "If we bypass the hard drive, we can get to the SSL driver through the solid state OCR transmitter!" 
 "If we input the card, we can get to the TCP driver through the wireless USB program!" 
 "I'll navigate the wireless AGP bandwidth, that should microchip the SMS system!" 
+"If we bypass the array, we can get to the ADP microchip through the cross-platform SMTP bandwidth!" 
