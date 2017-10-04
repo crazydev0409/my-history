@@ -794,3 +794,4 @@
 "If we bypass the array, we can get to the ADP microchip through the cross-platform SMTP bandwidth!" 
 "parsing the sensor won't do anything, we need to parse the bluetooth PCI program!" 
 "I'll hack the multi-byte HEX transmitter, that should hard drive the IB application!" 
+"You can't navigate the pixel without overriding the auxiliary SMTP alarm!" 
