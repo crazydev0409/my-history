@@ -801,3 +801,4 @@
 "Try to quantify the API capacitor, maybe it will connect the neural microchip!" 
 "We need to generate the mobile AGP circuit!" 
 "Use the wireless IB sensor, then you can input the digital matrix!" 
+"You can't input the system without navigating the wireless OCR panel!" 
