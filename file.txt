@@ -813,3 +813,4 @@
 "compressing the bus won't do anything, we need to program the primary JSON protocol!" 
 "If we reboot the port, we can get to the SSD protocol through the 1080p JSON system!" 
 "I'll quantify the redundant USB feed, that should alarm the XML microchip!" 
+"If we connect the transmitter, we can get to the API program through the mobile SAS panel!" 
