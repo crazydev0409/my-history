@@ -820,3 +820,4 @@
 "I'll synthesize the mobile IB bandwidth, that should pixel the HTTP system!" 
 "The SDD alarm is down, program the virtual array so we can transmit the XML feed!" 
 "We need to index the neural HDD circuit!" 
+"generating the system won't do anything, we need to generate the redundant HTTP port!" 
