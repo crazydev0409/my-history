@@ -822,3 +822,4 @@
 "We need to index the neural HDD circuit!" 
 "generating the system won't do anything, we need to generate the redundant HTTP port!" 
 "copying the hard drive won't do anything, we need to transmit the virtual SAS capacitor!" 
+"You can't synthesize the matrix without compressing the auxiliary OCR card!" 
