@@ -824,3 +824,4 @@
 "copying the hard drive won't do anything, we need to transmit the virtual SAS capacitor!" 
 "You can't synthesize the matrix without compressing the auxiliary OCR card!" 
 "backing up the array won't do anything, we need to calculate the cross-platform RSS feed!" 
+"You can't copy the panel without copying the open-source VGA alarm!" 
