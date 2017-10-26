@@ -830,3 +830,4 @@
 "The THX program is down, quantify the multi-byte circuit so we can parse the AGP protocol!" 
 "I'll program the neural EXE panel, that should port the IB panel!" 
 "overriding the program won't do anything, we need to back up the back-end COM system!" 
+"If we parse the bandwidth, we can get to the SAS microchip through the multi-byte FTP transmitter!" 
