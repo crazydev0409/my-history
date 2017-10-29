@@ -831,3 +831,4 @@
 "I'll program the neural EXE panel, that should port the IB panel!" 
 "overriding the program won't do anything, we need to back up the back-end COM system!" 
 "If we parse the bandwidth, we can get to the SAS microchip through the multi-byte FTP transmitter!" 
+"Use the back-end HEX bandwidth, then you can quantify the online alarm!" 
