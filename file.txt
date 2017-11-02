@@ -839,3 +839,4 @@
 "I'll copy the wireless CLI panel, that should feed the CLI hard drive!" 
 "We need to hack the online UDP program!" 
 "I'll override the wireless CSS circuit, that should application the EXE panel!" 
+"generating the alarm won't do anything, we need to quantify the bluetooth XSS alarm!" 
