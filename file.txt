@@ -836,3 +836,4 @@
 "Use the digital FTP panel, then you can compress the online interface!" 
 "The PCI circuit is down, reboot the multi-byte transmitter so we can reboot the TCP capacitor!" 
 "connecting the driver won't do anything, we need to override the back-end PNG feed!" 
+"I'll copy the wireless CLI panel, that should feed the CLI hard drive!" 
