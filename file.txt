@@ -840,3 +840,4 @@
 "We need to hack the online UDP program!" 
 "I'll override the wireless CSS circuit, that should application the EXE panel!" 
 "generating the alarm won't do anything, we need to quantify the bluetooth XSS alarm!" 
+"connecting the bus won't do anything, we need to transmit the back-end THX alarm!" 
