@@ -846,3 +846,4 @@
 "The COM card is down, hack the primary sensor so we can calculate the AI circuit!" 
 "You can't synthesize the driver without indexing the bluetooth ASCII program!" 
 "We need to bypass the multi-byte SSL hard drive!" 
+"The AGP array is down, connect the digital application so we can transmit the SMTP bandwidth!" 
