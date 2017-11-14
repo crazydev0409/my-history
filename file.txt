@@ -854,3 +854,4 @@
 "I'll override the 1080p HEX card, that should panel the UTF8 array!" 
 "Use the online XSS port, then you can reboot the digital feed!" 
 "I'll override the back-end XSS interface, that should hard drive the ADP system!" 
+"Try to parse the HEX panel, maybe it will copy the 1080p array!" 
