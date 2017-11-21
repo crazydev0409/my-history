@@ -862,3 +862,4 @@
 "Use the mobile AGP system, then you can bypass the cross-platform sensor!" 
 "We need to transmit the mobile HDD panel!" 
 "If we transmit the panel, we can get to the CLI microchip through the open-source SSL interface!" 
+"The RSS transmitter is down, transmit the neural pixel so we can hack the TLS card!" 
