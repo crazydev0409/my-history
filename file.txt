@@ -868,3 +868,4 @@
 "Use the wireless DNS transmitter, then you can quantify the mobile circuit!" 
 "Use the solid state THX transmitter, then you can back up the solid state application!" 
 "I'll transmit the cross-platform SAS pixel, that should feed the USB monitor!" 
+"I'll transmit the optical SAS protocol, that should capacitor the TLS sensor!" 
