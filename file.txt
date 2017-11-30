@@ -879,3 +879,4 @@
 "hacking the bandwidth won't do anything, we need to transmit the auxiliary PCI driver!" 
 "You can't navigate the pixel without compressing the wireless CLI sensor!" 
 "Use the virtual AI card, then you can index the cross-platform alarm!" 
+"You can't input the bus without hacking the multi-byte DRAM capacitor!" 
