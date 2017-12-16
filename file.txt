@@ -898,3 +898,4 @@
 "The XSS program is down, index the online program so we can bypass the SDD card!" 
 "The AI circuit is down, reboot the wireless hard drive so we can back up the THX panel!" 
 "I'll compress the solid state SMS bandwidth, that should pixel the SDD card!" 
+"I'll program the multi-byte SMTP driver, that should sensor the SAS capacitor!" 
