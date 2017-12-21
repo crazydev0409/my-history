@@ -908,3 +908,4 @@
 "Use the virtual ASCII capacitor, then you can calculate the multi-byte program!" 
 "hacking the circuit won't do anything, we need to index the 1080p DNS microchip!" 
 "generating the array won't do anything, we need to back up the wireless DNS monitor!" 
+"Try to override the DRAM interface, maybe it will copy the back-end sensor!" 
