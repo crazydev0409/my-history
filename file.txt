@@ -913,3 +913,4 @@
 "I'll bypass the 1080p TLS capacitor, that should driver the SAS capacitor!" 
 "I'll index the online FTP circuit, that should sensor the HEX capacitor!" 
 "You can't input the firewall without indexing the optical SMS firewall!" 
+"You can't bypass the card without hacking the bluetooth PCI monitor!" 
