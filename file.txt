@@ -917,3 +917,4 @@
 "If we synthesize the program, we can get to the ASCII circuit through the bluetooth SDD protocol!" 
 "The ADP circuit is down, program the solid state interface so we can connect the CSS alarm!" 
 "Use the cross-platform API port, then you can compress the solid state panel!" 
+"Try to input the HEX circuit, maybe it will index the virtual system!" 
