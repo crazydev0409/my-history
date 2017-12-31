@@ -926,3 +926,4 @@
 "We need to quantify the online JBOD system!" 
 "If we copy the circuit, we can get to the HDD monitor through the auxiliary DRAM firewall!" 
 "programming the firewall won't do anything, we need to program the online PCI alarm!" 
+"Use the redundant SCSI system, then you can connect the primary program!" 
