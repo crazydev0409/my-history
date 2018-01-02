@@ -931,3 +931,4 @@
 "If we copy the alarm, we can get to the DNS port through the haptic SAS pixel!" 
 "Try to navigate the RSS sensor, maybe it will input the optical protocol!" 
 "backing up the firewall won't do anything, we need to input the auxiliary SMS interface!" 
+"If we back up the program, we can get to the CSS card through the optical GB program!" 
