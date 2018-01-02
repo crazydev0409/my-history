@@ -930,3 +930,4 @@
 "If we transmit the feed, we can get to the SMTP system through the primary GB interface!" 
 "If we copy the alarm, we can get to the DNS port through the haptic SAS pixel!" 
 "Try to navigate the RSS sensor, maybe it will input the optical protocol!" 
+"backing up the firewall won't do anything, we need to input the auxiliary SMS interface!" 
