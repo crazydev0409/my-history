@@ -933,3 +933,4 @@
 "backing up the firewall won't do anything, we need to input the auxiliary SMS interface!" 
 "If we back up the program, we can get to the CSS card through the optical GB program!" 
 "Use the open-source TLS port, then you can bypass the haptic microchip!" 
+"calculating the panel won't do anything, we need to program the optical HDD card!" 
