@@ -937,3 +937,4 @@
 "overriding the monitor won't do anything, we need to override the 1080p RSS driver!" 
 "Try to reboot the SCSI panel, maybe it will compress the back-end circuit!" 
 "If we override the port, we can get to the AGP transmitter through the back-end FTP program!" 
+"Use the redundant HDD system, then you can synthesize the mobile pixel!" 
