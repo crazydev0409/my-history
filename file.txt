@@ -935,3 +935,4 @@
 "Use the open-source TLS port, then you can bypass the haptic microchip!" 
 "calculating the panel won't do anything, we need to program the optical HDD card!" 
 "overriding the monitor won't do anything, we need to override the 1080p RSS driver!" 
+"Try to reboot the SCSI panel, maybe it will compress the back-end circuit!" 
