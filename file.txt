@@ -946,3 +946,4 @@
 "You can't calculate the alarm without navigating the primary EXE monitor!" 
 "I'll transmit the mobile SAS sensor, that should firewall the DRAM port!" 
 "You can't copy the matrix without synthesizing the haptic CSS matrix!" 
+"Use the cross-platform AGP feed, then you can input the virtual protocol!" 
