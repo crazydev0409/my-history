@@ -950,3 +950,4 @@
 "Try to transmit the RSS interface, maybe it will reboot the solid state bus!" 
 "The FTP array is down, transmit the optical interface so we can hack the AI pixel!" 
 "Use the online FTP array, then you can parse the neural system!" 
+"parsing the feed won't do anything, we need to quantify the solid state JSON matrix!" 
