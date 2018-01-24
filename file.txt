@@ -955,3 +955,4 @@
 "The THX interface is down, generate the virtual hard drive so we can compress the AI panel!" 
 "Try to index the FTP system, maybe it will compress the bluetooth capacitor!" 
 "calculating the capacitor won't do anything, we need to synthesize the haptic THX hard drive!" 
+"Use the virtual GB card, then you can connect the optical feed!" 
