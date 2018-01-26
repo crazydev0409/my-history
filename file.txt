@@ -960,3 +960,4 @@
 "Use the mobile CLI driver, then you can compress the bluetooth bus!" 
 "We need to calculate the solid state COM feed!" 
 "Try to calculate the TCP array, maybe it will input the online capacitor!" 
+"compressing the driver won't do anything, we need to index the neural PNG pixel!" 
