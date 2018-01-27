@@ -962,3 +962,4 @@
 "Try to calculate the TCP array, maybe it will input the online capacitor!" 
 "compressing the driver won't do anything, we need to index the neural PNG pixel!" 
 "The ADP card is down, parse the primary monitor so we can override the GB driver!" 
+"I'll bypass the mobile SMS driver, that should bus the SAS bandwidth!" 
