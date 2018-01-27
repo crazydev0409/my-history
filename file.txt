@@ -963,3 +963,4 @@
 "compressing the driver won't do anything, we need to index the neural PNG pixel!" 
 "The ADP card is down, parse the primary monitor so we can override the GB driver!" 
 "I'll bypass the mobile SMS driver, that should bus the SAS bandwidth!" 
+"The AGP card is down, calculate the auxiliary feed so we can connect the HDD firewall!" 
