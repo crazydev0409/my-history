@@ -964,3 +964,4 @@
 "The ADP card is down, parse the primary monitor so we can override the GB driver!" 
 "I'll bypass the mobile SMS driver, that should bus the SAS bandwidth!" 
 "The AGP card is down, calculate the auxiliary feed so we can connect the HDD firewall!" 
+"The ASCII alarm is down, hack the cross-platform alarm so we can reboot the JBOD sensor!" 
