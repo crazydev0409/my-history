@@ -966,3 +966,4 @@
 "The AGP card is down, calculate the auxiliary feed so we can connect the HDD firewall!" 
 "The ASCII alarm is down, hack the cross-platform alarm so we can reboot the JBOD sensor!" 
 "You can't program the program without compressing the digital JSON monitor!" 
+"Try to input the JSON circuit, maybe it will reboot the virtual port!" 
