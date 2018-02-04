@@ -968,3 +968,4 @@
 "You can't program the program without compressing the digital JSON monitor!" 
 "Try to input the JSON circuit, maybe it will reboot the virtual port!" 
 "You can't transmit the interface without compressing the wireless AGP port!" 
+"overriding the port won't do anything, we need to back up the open-source COM firewall!" 
