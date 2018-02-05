@@ -972,3 +972,4 @@
 "We need to navigate the neural AI port!" 
 "We need to override the online COM bus!" 
 "Try to copy the SAS interface, maybe it will calculate the 1080p pixel!" 
+"You can't reboot the monitor without overriding the online UTF8 monitor!" 
