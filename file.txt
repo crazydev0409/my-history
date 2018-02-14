@@ -985,3 +985,4 @@
 "Try to copy the ADP array, maybe it will compress the solid state feed!" 
 "Use the back-end XSS array, then you can parse the cross-platform card!" 
 "We need to back up the wireless SQL driver!" 
+"I'll copy the 1080p CSS monitor, that should hard drive the JSON monitor!" 
