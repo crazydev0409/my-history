@@ -989,3 +989,4 @@
 "We need to generate the digital EXE feed!" 
 "You can't program the protocol without calculating the mobile THX capacitor!" 
 "Try to transmit the COM driver, maybe it will synthesize the 1080p driver!" 
+"You can't copy the port without copying the primary FTP microchip!" 
