@@ -992,3 +992,4 @@
 "You can't copy the port without copying the primary FTP microchip!" 
 "hacking the array won't do anything, we need to index the mobile USB system!" 
 "Try to navigate the IB interface, maybe it will compress the online monitor!" 
+"overriding the program won't do anything, we need to bypass the solid state SAS capacitor!" 
