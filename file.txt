@@ -995,3 +995,4 @@
 "overriding the program won't do anything, we need to bypass the solid state SAS capacitor!" 
 "If we hack the array, we can get to the THX bandwidth through the cross-platform RSS microchip!" 
 "Use the redundant IP capacitor, then you can reboot the multi-byte bus!" 
+"I'll input the 1080p THX alarm, that should sensor the THX driver!" 
