@@ -994,3 +994,4 @@
 "Try to navigate the IB interface, maybe it will compress the online monitor!" 
 "overriding the program won't do anything, we need to bypass the solid state SAS capacitor!" 
 "If we hack the array, we can get to the THX bandwidth through the cross-platform RSS microchip!" 
+"Use the redundant IP capacitor, then you can reboot the multi-byte bus!" 
