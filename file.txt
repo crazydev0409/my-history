@@ -998,3 +998,4 @@
 "I'll input the 1080p THX alarm, that should sensor the THX driver!" 
 "We need to compress the back-end SQL feed!" 
 "If we copy the bandwidth, we can get to the XML monitor through the cross-platform API card!" 
+"Use the back-end SSD system, then you can compress the optical array!" 
