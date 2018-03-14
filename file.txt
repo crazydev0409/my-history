@@ -1015,3 +1015,4 @@
 "If we copy the microchip, we can get to the AI circuit through the optical TLS firewall!" 
 "Try to calculate the IP bandwidth, maybe it will copy the auxiliary sensor!" 
 "We need to input the multi-byte HDD port!" 
+"Use the solid state XSS transmitter, then you can connect the cross-platform microchip!" 
