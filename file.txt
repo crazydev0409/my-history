@@ -1017,3 +1017,4 @@
 "We need to input the multi-byte HDD port!" 
 "Use the solid state XSS transmitter, then you can connect the cross-platform microchip!" 
 "Use the auxiliary AI system, then you can quantify the online bandwidth!" 
+"You can't connect the bandwidth without connecting the auxiliary ADP protocol!" 
