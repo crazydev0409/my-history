@@ -1028,3 +1028,4 @@
 "The IP matrix is down, compress the haptic pixel so we can override the SMS matrix!" 
 "If we copy the protocol, we can get to the AGP capacitor through the optical CSS pixel!" 
 "We need to quantify the haptic SSL bandwidth!" 
+"We need to quantify the back-end EXE bus!" 
