@@ -1035,3 +1035,4 @@
 "If we synthesize the array, we can get to the DNS alarm through the haptic GB microchip!" 
 "I'll program the cross-platform THX panel, that should transmitter the TLS sensor!" 
 "If we connect the sensor, we can get to the OCR system through the open-source ADP transmitter!" 
+"connecting the hard drive won't do anything, we need to hack the wireless USB system!" 
