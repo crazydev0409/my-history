@@ -1037,3 +1037,4 @@
 "If we connect the sensor, we can get to the OCR system through the open-source ADP transmitter!" 
 "connecting the hard drive won't do anything, we need to hack the wireless USB system!" 
 "We need to calculate the haptic EXE circuit!" 
+"generating the feed won't do anything, we need to program the haptic TLS protocol!" 
