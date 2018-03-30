@@ -1038,3 +1038,4 @@
 "connecting the hard drive won't do anything, we need to hack the wireless USB system!" 
 "We need to calculate the haptic EXE circuit!" 
 "generating the feed won't do anything, we need to program the haptic TLS protocol!" 
+"Use the back-end IB bus, then you can reboot the open-source hard drive!" 
