@@ -1036,3 +1036,4 @@
 "I'll program the cross-platform THX panel, that should transmitter the TLS sensor!" 
 "If we connect the sensor, we can get to the OCR system through the open-source ADP transmitter!" 
 "connecting the hard drive won't do anything, we need to hack the wireless USB system!" 
+"We need to calculate the haptic EXE circuit!" 
