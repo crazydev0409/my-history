@@ -1043,3 +1043,4 @@
 "You can't index the bus without overriding the optical XML card!" 
 "We need to connect the digital AI feed!" 
 "We need to program the primary USB feed!" 
+"Try to index the GB protocol, maybe it will compress the solid state firewall!" 
