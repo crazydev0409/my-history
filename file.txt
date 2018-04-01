@@ -1042,3 +1042,4 @@
 "Try to input the GB pixel, maybe it will quantify the mobile alarm!" 
 "You can't index the bus without overriding the optical XML card!" 
 "We need to connect the digital AI feed!" 
+"We need to program the primary USB feed!" 
