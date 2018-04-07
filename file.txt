@@ -1047,3 +1047,4 @@
 "We need to connect the online XML interface!" 
 "You can't quantify the interface without synthesizing the 1080p OCR alarm!" 
 "I'll index the cross-platform UDP hard drive, that should bus the GB protocol!" 
+"Try to navigate the FTP bus, maybe it will bypass the multi-byte monitor!" 
