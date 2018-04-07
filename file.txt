@@ -1050,3 +1050,4 @@
 "Try to navigate the FTP bus, maybe it will bypass the multi-byte monitor!" 
 "If we calculate the firewall, we can get to the PNG alarm through the auxiliary SAS system!" 
 "The SAS panel is down, input the digital bandwidth so we can reboot the HDD array!" 
+"Use the virtual THX panel, then you can program the solid state transmitter!" 
