@@ -1054,3 +1054,4 @@
 "You can't hack the interface without overriding the online EXE monitor!" 
 "We need to quantify the cross-platform USB hard drive!" 
 "The FTP hard drive is down, quantify the digital port so we can navigate the PNG program!" 
+"We need to hack the digital PCI driver!" 
