@@ -1073,3 +1073,4 @@
 "programming the card won't do anything, we need to back up the haptic TLS circuit!" 
 "If we parse the system, we can get to the DNS array through the 1080p USB firewall!" 
 "If we index the feed, we can get to the UDP sensor through the multi-byte USB protocol!" 
+"If we navigate the alarm, we can get to the SAS alarm through the primary IP interface!" 
