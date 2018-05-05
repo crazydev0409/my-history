@@ -1083,3 +1083,4 @@
 "You can't generate the port without calculating the multi-byte USB transmitter!" 
 "We need to synthesize the bluetooth THX microchip!" 
 "The SMS capacitor is down, quantify the wireless port so we can copy the THX transmitter!" 
+"You can't input the sensor without quantifying the haptic ADP pixel!" 
