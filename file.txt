@@ -1098,3 +1098,4 @@
 "The SSD bandwidth is down, bypass the 1080p protocol so we can quantify the OCR sensor!" 
 "Use the redundant SAS bandwidth, then you can compress the auxiliary card!" 
 "Try to override the XML array, maybe it will quantify the open-source sensor!" 
+"You can't override the port without compressing the solid state CSS protocol!" 
