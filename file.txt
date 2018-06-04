@@ -1130,3 +1130,4 @@
 "If we program the bandwidth, we can get to the HTTP panel through the open-source RAM interface!" 
 "We need to program the bluetooth UDP transmitter!" 
 "If we hack the interface, we can get to the ASCII feed through the optical UDP matrix!" 
+"You can't index the driver without calculating the open-source PNG bus!" 
