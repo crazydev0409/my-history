@@ -1131,3 +1131,4 @@
 "We need to program the bluetooth UDP transmitter!" 
 "If we hack the interface, we can get to the ASCII feed through the optical UDP matrix!" 
 "You can't index the driver without calculating the open-source PNG bus!" 
+"The SCSI feed is down, override the redundant application so we can hack the EXE protocol!" 
