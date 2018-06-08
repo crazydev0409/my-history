@@ -1134,3 +1134,4 @@
 "The SCSI feed is down, override the redundant application so we can hack the EXE protocol!" 
 "Try to program the SSD circuit, maybe it will connect the online bus!" 
 "I'll back up the bluetooth SSD circuit, that should system the XML transmitter!" 
+"The JSON program is down, bypass the redundant application so we can hack the HDD application!" 
