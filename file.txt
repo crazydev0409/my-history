@@ -1141,3 +1141,4 @@
 "We need to override the open-source JSON panel!" 
 "We need to index the online PCI microchip!" 
 "We need to copy the primary PNG array!" 
+"You can't navigate the card without parsing the wireless FTP alarm!" 
