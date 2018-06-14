@@ -1143,3 +1143,4 @@
 "We need to copy the primary PNG array!" 
 "You can't navigate the card without parsing the wireless FTP alarm!" 
 "I'll connect the mobile JSON monitor, that should sensor the USB bus!" 
+"You can't connect the system without transmitting the online JBOD pixel!" 
