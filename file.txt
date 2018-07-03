@@ -1170,3 +1170,4 @@
 "The DRAM pixel is down, synthesize the solid state bandwidth so we can back up the ASCII bus!" 
 "Try to bypass the RAM capacitor, maybe it will transmit the redundant feed!" 
 "The VGA matrix is down, program the haptic application so we can quantify the JBOD array!" 
+"You can't copy the port without programming the mobile SSL port!" 
