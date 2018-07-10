@@ -1176,3 +1176,4 @@
 "Try to connect the TCP monitor, maybe it will quantify the back-end array!" 
 "The RSS circuit is down, bypass the mobile driver so we can calculate the RAM circuit!" 
 "We need to quantify the multi-byte HDD panel!" 
+"compressing the panel won't do anything, we need to synthesize the back-end JSON matrix!" 
