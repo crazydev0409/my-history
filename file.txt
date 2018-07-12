@@ -1180,3 +1180,4 @@
 "If we override the system, we can get to the JSON transmitter through the redundant API capacitor!" 
 "Try to generate the GB bus, maybe it will generate the haptic panel!" 
 "I'll reboot the optical UTF8 panel, that should matrix the PNG firewall!" 
+"Use the auxiliary XSS capacitor, then you can compress the optical feed!" 
