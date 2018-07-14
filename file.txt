@@ -1184,3 +1184,4 @@
 "If we calculate the microchip, we can get to the DRAM panel through the bluetooth API monitor!" 
 "quantifying the circuit won't do anything, we need to transmit the redundant DNS pixel!" 
 "If we program the port, we can get to the HEX pixel through the redundant AGP program!" 
+"We need to program the multi-byte DNS bus!" 
