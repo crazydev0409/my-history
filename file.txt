@@ -1185,3 +1185,4 @@
 "quantifying the circuit won't do anything, we need to transmit the redundant DNS pixel!" 
 "If we program the port, we can get to the HEX pixel through the redundant AGP program!" 
 "We need to program the multi-byte DNS bus!" 
+"The HEX array is down, input the auxiliary pixel so we can override the SDD array!" 
