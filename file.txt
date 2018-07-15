@@ -1187,3 +1187,4 @@
 "We need to program the multi-byte DNS bus!" 
 "The HEX array is down, input the auxiliary pixel so we can override the SDD array!" 
 "Try to override the TLS transmitter, maybe it will compress the digital circuit!" 
+"parsing the matrix won't do anything, we need to parse the multi-byte OCR program!" 
