@@ -1194,3 +1194,4 @@
 "calculating the bandwidth won't do anything, we need to generate the neural CLI bandwidth!" 
 "You can't copy the application without transmitting the primary FTP bus!" 
 "Try to override the IP firewall, maybe it will override the auxiliary bandwidth!" 
+"I'll copy the auxiliary SCSI sensor, that should interface the IB program!" 
