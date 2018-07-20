@@ -1195,3 +1195,4 @@
 "You can't copy the application without transmitting the primary FTP bus!" 
 "Try to override the IP firewall, maybe it will override the auxiliary bandwidth!" 
 "I'll copy the auxiliary SCSI sensor, that should interface the IB program!" 
+"The SQL alarm is down, program the primary driver so we can calculate the VGA sensor!" 
