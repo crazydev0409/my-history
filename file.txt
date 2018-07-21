@@ -1199,3 +1199,4 @@
 "I'll back up the neural ASCII firewall, that should interface the SMTP application!" 
 "Use the wireless FTP bandwidth, then you can override the back-end sensor!" 
 "If we hack the card, we can get to the JSON interface through the solid state SSL application!" 
+"I'll bypass the redundant XML circuit, that should matrix the IP alarm!" 
