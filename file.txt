@@ -1212,3 +1212,4 @@
 "Try to program the AGP port, maybe it will synthesize the solid state bus!" 
 "Try to calculate the SQL microchip, maybe it will connect the auxiliary interface!" 
 "The HEX driver is down, compress the virtual microchip so we can hack the SCSI system!" 
+"Use the cross-platform EXE bus, then you can parse the wireless panel!" 
