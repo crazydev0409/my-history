@@ -1214,3 +1214,4 @@
 "The HEX driver is down, compress the virtual microchip so we can hack the SCSI system!" 
 "Use the cross-platform EXE bus, then you can parse the wireless panel!" 
 "I'll hack the haptic EXE capacitor, that should system the HTTP hard drive!" 
+"Use the mobile COM bus, then you can parse the 1080p transmitter!" 
