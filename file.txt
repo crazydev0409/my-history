@@ -1219,3 +1219,4 @@
 "If we navigate the microchip, we can get to the AGP application through the auxiliary TCP bandwidth!" 
 "If we override the monitor, we can get to the COM program through the open-source CSS bus!" 
 "You can't input the program without hacking the cross-platform SDD matrix!" 
+"The COM capacitor is down, program the open-source pixel so we can override the API driver!" 
