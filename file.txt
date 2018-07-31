@@ -1220,3 +1220,4 @@
 "If we override the monitor, we can get to the COM program through the open-source CSS bus!" 
 "You can't input the program without hacking the cross-platform SDD matrix!" 
 "The COM capacitor is down, program the open-source pixel so we can override the API driver!" 
+"You can't copy the panel without programming the neural EXE feed!" 
