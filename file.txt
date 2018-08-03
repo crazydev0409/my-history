@@ -1224,3 +1224,4 @@
 "If we reboot the feed, we can get to the SQL transmitter through the bluetooth THX driver!" 
 "Try to navigate the HDD driver, maybe it will compress the auxiliary program!" 
 "navigating the firewall won't do anything, we need to bypass the back-end HEX driver!" 
+"Use the mobile COM sensor, then you can quantify the 1080p program!" 
