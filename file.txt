@@ -1241,3 +1241,4 @@
 "programming the alarm won't do anything, we need to index the neural SCSI alarm!" 
 "You can't parse the driver without indexing the primary ASCII interface!" 
 "I'll hack the solid state RSS transmitter, that should panel the AGP interface!" 
+"The JSON array is down, reboot the online application so we can program the DNS port!" 
