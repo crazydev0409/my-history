@@ -1242,3 +1242,4 @@
 "You can't parse the driver without indexing the primary ASCII interface!" 
 "I'll hack the solid state RSS transmitter, that should panel the AGP interface!" 
 "The JSON array is down, reboot the online application so we can program the DNS port!" 
+"You can't generate the protocol without hacking the multi-byte JSON panel!" 
