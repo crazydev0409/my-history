@@ -1248,3 +1248,4 @@
 "The SDD application is down, bypass the auxiliary firewall so we can bypass the JBOD array!" 
 "We need to calculate the solid state IB system!" 
 "Use the multi-byte AI alarm, then you can program the mobile capacitor!" 
+"You can't input the circuit without generating the open-source SMS circuit!" 
