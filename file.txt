@@ -1258,3 +1258,4 @@
 "We need to bypass the 1080p ASCII sensor!" 
 "We need to synthesize the open-source IB matrix!" 
 "You can't program the hard drive without connecting the virtual SDD program!" 
+"You can't override the matrix without bypassing the mobile HDD microchip!" 
