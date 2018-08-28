@@ -1262,3 +1262,4 @@
 "Try to calculate the XML system, maybe it will back up the wireless circuit!" 
 "Use the cross-platform HDD circuit, then you can index the auxiliary sensor!" 
 "transmitting the transmitter won't do anything, we need to index the online SQL hard drive!" 
+"You can't bypass the monitor without backing up the multi-byte RSS interface!" 
