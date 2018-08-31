@@ -1268,3 +1268,4 @@
 "Use the cross-platform GB protocol, then you can parse the back-end microchip!" 
 "overriding the circuit won't do anything, we need to input the bluetooth SDD circuit!" 
 "Use the virtual OCR matrix, then you can copy the redundant system!" 
+"The SDD panel is down, override the mobile protocol so we can calculate the SSD bandwidth!" 
