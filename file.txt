@@ -1272,3 +1272,4 @@
 "You can't index the bandwidth without backing up the optical SMTP driver!" 
 "If we calculate the program, we can get to the CLI monitor through the bluetooth UTF8 system!" 
 "I'll generate the digital CLI transmitter, that should array the ADP hard drive!" 
+"Use the bluetooth SMS pixel, then you can hack the primary panel!" 
