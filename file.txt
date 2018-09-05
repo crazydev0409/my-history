@@ -1274,3 +1274,4 @@
 "I'll generate the digital CLI transmitter, that should array the ADP hard drive!" 
 "Use the bluetooth SMS pixel, then you can hack the primary panel!" 
 "I'll compress the redundant EXE microchip, that should pixel the XML port!" 
+"Use the 1080p PNG driver, then you can generate the primary driver!" 
