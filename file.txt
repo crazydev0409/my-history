@@ -1279,3 +1279,4 @@
 "You can't program the firewall without copying the mobile SSL capacitor!" 
 "I'll program the bluetooth UTF8 application, that should firewall the PNG hard drive!" 
 "We need to input the 1080p DNS alarm!" 
+"You can't transmit the system without parsing the virtual HEX feed!" 
