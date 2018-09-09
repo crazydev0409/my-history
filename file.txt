@@ -1281,3 +1281,4 @@
 "We need to input the 1080p DNS alarm!" 
 "You can't transmit the system without parsing the virtual HEX feed!" 
 "You can't parse the circuit without backing up the digital PCI monitor!" 
+"The OCR sensor is down, transmit the open-source alarm so we can back up the RAM monitor!" 
