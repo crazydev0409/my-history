@@ -1310,3 +1310,4 @@
 "You can't connect the bandwidth without transmitting the back-end AGP firewall!" 
 "copying the pixel won't do anything, we need to compress the digital SDD transmitter!" 
 "Try to program the SSD matrix, maybe it will index the bluetooth port!" 
+"You can't program the capacitor without copying the digital AI transmitter!" 
