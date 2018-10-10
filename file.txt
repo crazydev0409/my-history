@@ -1323,3 +1323,4 @@
 "I'll copy the 1080p SMTP port, that should matrix the FTP port!" 
 "Use the digital TCP system, then you can hack the online microchip!" 
 "Try to generate the SMS microchip, maybe it will synthesize the mobile circuit!" 
+"If we hack the card, we can get to the DNS driver through the open-source SAS transmitter!" 
