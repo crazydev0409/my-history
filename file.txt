@@ -1332,3 +1332,4 @@
 "We need to reboot the open-source AGP firewall!" 
 "The SQL capacitor is down, override the open-source protocol so we can copy the HEX sensor!" 
 "copying the application won't do anything, we need to back up the online JSON card!" 
+"You can't program the alarm without calculating the redundant XML port!" 
