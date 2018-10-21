@@ -1345,3 +1345,4 @@
 "We need to quantify the primary XSS matrix!" 
 "You can't hack the transmitter without navigating the haptic SMTP panel!" 
 "We need to quantify the haptic DRAM circuit!" 
+"Try to parse the XML driver, maybe it will reboot the mobile monitor!" 
