@@ -1349,3 +1349,4 @@
 "parsing the matrix won't do anything, we need to reboot the mobile CLI transmitter!" 
 "I'll compress the virtual IP array, that should matrix the OCR protocol!" 
 "navigating the port won't do anything, we need to connect the optical SCSI port!" 
+"Use the virtual SCSI protocol, then you can copy the digital feed!" 
