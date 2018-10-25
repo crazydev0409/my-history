@@ -1352,3 +1352,4 @@
 "Use the virtual SCSI protocol, then you can copy the digital feed!" 
 "copying the matrix won't do anything, we need to reboot the auxiliary SMTP interface!" 
 "bypassing the port won't do anything, we need to compress the online UDP sensor!" 
+"Use the digital AI driver, then you can connect the back-end microchip!" 
