@@ -1357,3 +1357,4 @@
 "The JSON matrix is down, input the multi-byte interface so we can synthesize the SDD hard drive!" 
 "generating the interface won't do anything, we need to input the bluetooth CSS feed!" 
 "If we parse the alarm, we can get to the EXE circuit through the optical SMS array!" 
+"I'll synthesize the multi-byte THX feed, that should monitor the JSON circuit!" 
