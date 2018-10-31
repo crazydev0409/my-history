@@ -1,1 +1,2 @@
 "We need to reboot the optical ASCII driver!" 
+"You can't program the bus without backing up the mobile SSL capacitor!" 
