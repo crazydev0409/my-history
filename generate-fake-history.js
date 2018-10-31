@@ -1,26 +1,31 @@
 const { execSync } = require("child_process");
 const { faker } = require("@faker-js/faker");
 
-const startDate = new Date("2017-01-01");
+const startDate = new Date("2018-11-01");
 const endDate = new Date("2024-12-31");
 let currentDate = new Date(startDate);
 
 while (currentDate <= endDate) {
-  const commitsToday = faker.number.int({ min: 2, max: 4 });
+  const dayOfWeek = currentDate.getDay();
+  const isWeekend = dayOfWeek === 0 || dayOfWeek === 6;
 
-  for (let i = 0; i < commitsToday; i++) {
-    const commitTime = new Date(currentDate);
-    commitTime.setHours(10 + i, faker.number.int({ min: 0, max: 59 }));
+  if (!isWeekend) {
+    const commitsToday = faker.number.int({ min: 2, max: 4 });
 
-    const isoDate = commitTime.toISOString();
-    const message = faker.hacker.phrase();
+    for (let i = 0; i < commitsToday; i++) {
+      const commitTime = new Date(currentDate);
+      commitTime.setHours(10 + i, faker.number.int({ min: 0, max: 59 }));
 
-    execSync(`echo "${message}" >> file.txt`);
-    execSync(`git add .`);
-    execSync(`git commit --date="${isoDate}" -m "${message}"`);
+      const isoDate = commitTime.toISOString();
+      const message = faker.hacker.phrase();
+
+      execSync(`echo "${message}" >> file.txt`);
+      execSync(`git add .`);
+      execSync(`git commit --date="${isoDate}" -m "${message}"`);
+    }
   }
 
-  // Randomly skip 1 to 3 days before next commit day
+  // Skip 1–3 days ahead
   const skipDays = faker.number.int({ min: 1, max: 3 });
   currentDate.setDate(currentDate.getDate() + skipDays);
 }

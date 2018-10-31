@@ -1402,3 +1402,5 @@
 "Use the back-end SMS feed, then you can navigate the solid state port!" 
 "If we connect the circuit, we can get to the THX driver through the back-end FTP transmitter!" 
 "We need to input the bluetooth JBOD bandwidth!" 
+"Try to parse the SMTP bandwidth, maybe it will hack the back-end matrix!" 
+"If we index the interface, we can get to the IP alarm through the virtual USB matrix!" 
