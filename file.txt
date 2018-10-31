@@ -1368,3 +1368,4 @@
 "You can't transmit the hard drive without compressing the auxiliary HTTP card!" 
 "We need to override the solid state HDD microchip!" 
 "Use the primary HTTP protocol, then you can transmit the multi-byte application!" 
+"You can't back up the card without quantifying the auxiliary PNG program!" 
