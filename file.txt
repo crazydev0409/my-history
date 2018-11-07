@@ -1409,3 +1409,4 @@
 "Use the optical VGA capacitor, then you can calculate the cross-platform protocol!" 
 "Try to calculate the SAS program, maybe it will calculate the open-source pixel!" 
 "programming the pixel won't do anything, we need to bypass the optical JSON port!" 
+"connecting the protocol won't do anything, we need to transmit the auxiliary FTP interface!" 
