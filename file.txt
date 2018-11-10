@@ -1381,3 +1381,4 @@
 "Use the mobile HEX program, then you can navigate the redundant system!" 
 "The HTTP port is down, parse the mobile capacitor so we can override the CLI feed!" 
 "bypassing the capacitor won't do anything, we need to copy the redundant SAS pixel!" 
+"Use the multi-byte CSS protocol, then you can index the bluetooth card!" 
