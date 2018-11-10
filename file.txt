@@ -1378,3 +1378,4 @@
 "I'll program the 1080p OCR capacitor, that should feed the IB program!" 
 "Try to hack the XSS card, maybe it will connect the solid state sensor!" 
 "We need to bypass the solid state IP sensor!" 
+"Use the mobile HEX program, then you can navigate the redundant system!" 
