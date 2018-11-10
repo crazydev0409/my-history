@@ -1380,3 +1380,4 @@
 "We need to bypass the solid state IP sensor!" 
 "Use the mobile HEX program, then you can navigate the redundant system!" 
 "The HTTP port is down, parse the mobile capacitor so we can override the CLI feed!" 
+"bypassing the capacitor won't do anything, we need to copy the redundant SAS pixel!" 
