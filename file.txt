@@ -1411,3 +1411,4 @@
 "programming the pixel won't do anything, we need to bypass the optical JSON port!" 
 "connecting the protocol won't do anything, we need to transmit the auxiliary FTP interface!" 
 "The FTP transmitter is down, index the mobile capacitor so we can program the DRAM port!" 
+"If we override the alarm, we can get to the SMTP panel through the solid state PNG bus!" 
