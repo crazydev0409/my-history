@@ -1412,3 +1412,4 @@
 "connecting the protocol won't do anything, we need to transmit the auxiliary FTP interface!" 
 "The FTP transmitter is down, index the mobile capacitor so we can program the DRAM port!" 
 "If we override the alarm, we can get to the SMTP panel through the solid state PNG bus!" 
+"The SSL capacitor is down, calculate the open-source monitor so we can program the GB port!" 
