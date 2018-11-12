@@ -1386,3 +1386,4 @@
 "We need to input the open-source JSON feed!" 
 "You can't copy the port without quantifying the haptic JBOD transmitter!" 
 "The PNG application is down, program the optical panel so we can compress the SSD protocol!" 
+"copying the firewall won't do anything, we need to override the online JSON system!" 
