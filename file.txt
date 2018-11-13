@@ -6,3 +6,4 @@
 "Use the bluetooth SMS card, then you can copy the bluetooth panel!" 
 "The SMS hard drive is down, index the solid state firewall so we can synthesize the HDD port!" 
 "I'll quantify the bluetooth PCI bus, that should bandwidth the SDD protocol!" 
+"Use the cross-platform JBOD transmitter, then you can parse the primary sensor!" 
