@@ -8,3 +8,4 @@
 "I'll quantify the bluetooth PCI bus, that should bandwidth the SDD protocol!" 
 "Use the cross-platform JBOD transmitter, then you can parse the primary sensor!" 
 "backing up the feed won't do anything, we need to bypass the primary JSON interface!" 
+"If we input the interface, we can get to the SCSI sensor through the redundant THX protocol!" 
