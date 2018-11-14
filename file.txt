@@ -10,3 +10,4 @@
 "backing up the feed won't do anything, we need to bypass the primary JSON interface!" 
 "If we input the interface, we can get to the SCSI sensor through the redundant THX protocol!" 
 "Use the optical VGA microchip, then you can connect the solid state matrix!" 
+"Try to index the DNS matrix, maybe it will synthesize the back-end feed!" 
