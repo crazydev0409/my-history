@@ -12,3 +12,4 @@
 "Use the optical VGA microchip, then you can connect the solid state matrix!" 
 "Try to index the DNS matrix, maybe it will synthesize the back-end feed!" 
 "If we parse the sensor, we can get to the FTP protocol through the virtual UTF8 firewall!" 
+"Use the haptic COM protocol, then you can quantify the back-end feed!" 
