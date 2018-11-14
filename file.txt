@@ -1390,3 +1390,4 @@
 "If we connect the application, we can get to the DNS matrix through the bluetooth SDD circuit!" 
 "If we calculate the card, we can get to the SSD capacitor through the primary CLI application!" 
 "Try to copy the HDD microchip, maybe it will calculate the wireless interface!" 
+"parsing the bus won't do anything, we need to reboot the optical EXE system!" 
