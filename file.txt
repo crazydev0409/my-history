@@ -1414,3 +1414,4 @@
 "If we override the alarm, we can get to the SMTP panel through the solid state PNG bus!" 
 "The SSL capacitor is down, calculate the open-source monitor so we can program the GB port!" 
 "You can't back up the program without bypassing the multi-byte SAS sensor!" 
+"You can't generate the panel without compressing the auxiliary SSL bus!" 
