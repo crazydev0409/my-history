@@ -15,3 +15,4 @@
 "Use the haptic COM protocol, then you can quantify the back-end feed!" 
 "Try to input the SMS circuit, maybe it will index the solid state monitor!" 
 "I'll generate the back-end THX transmitter, that should transmitter the THX matrix!" 
+"bypassing the microchip won't do anything, we need to navigate the cross-platform OCR sensor!" 
