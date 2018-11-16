@@ -14,3 +14,4 @@
 "If we parse the sensor, we can get to the FTP protocol through the virtual UTF8 firewall!" 
 "Use the haptic COM protocol, then you can quantify the back-end feed!" 
 "Try to input the SMS circuit, maybe it will index the solid state monitor!" 
+"I'll generate the back-end THX transmitter, that should transmitter the THX matrix!" 
