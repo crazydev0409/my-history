@@ -1399,3 +1399,4 @@
 "We need to input the neural HDD array!" 
 "Try to reboot the JSON panel, maybe it will synthesize the bluetooth feed!" 
 "Try to parse the HTTP system, maybe it will reboot the neural sensor!" 
+"Use the back-end SMS feed, then you can navigate the solid state port!" 
