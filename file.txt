@@ -1416,3 +1416,4 @@
 "You can't back up the program without bypassing the multi-byte SAS sensor!" 
 "You can't generate the panel without compressing the auxiliary SSL bus!" 
 "If we calculate the bandwidth, we can get to the PNG transmitter through the redundant CLI capacitor!" 
+"We need to compress the back-end RSS panel!" 
