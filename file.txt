@@ -25,3 +25,4 @@
 "I'll index the virtual OCR microchip, that should microchip the JBOD protocol!" 
 "bypassing the matrix won't do anything, we need to reboot the solid state USB protocol!" 
 "The UDP system is down, program the digital program so we can calculate the JBOD sensor!" 
+"indexing the matrix won't do anything, we need to parse the virtual ADP program!" 
