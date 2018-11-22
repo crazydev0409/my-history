@@ -26,3 +26,4 @@
 "bypassing the matrix won't do anything, we need to reboot the solid state USB protocol!" 
 "The UDP system is down, program the digital program so we can calculate the JBOD sensor!" 
 "indexing the matrix won't do anything, we need to parse the virtual ADP program!" 
+"Try to override the XSS bandwidth, maybe it will hack the cross-platform transmitter!" 
