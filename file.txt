@@ -28,3 +28,4 @@
 "indexing the matrix won't do anything, we need to parse the virtual ADP program!" 
 "Try to override the XSS bandwidth, maybe it will hack the cross-platform transmitter!" 
 "bypassing the application won't do anything, we need to navigate the haptic PCI firewall!" 
+"compressing the sensor won't do anything, we need to bypass the mobile SSD pixel!" 
