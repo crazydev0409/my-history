@@ -30,3 +30,4 @@
 "bypassing the application won't do anything, we need to navigate the haptic PCI firewall!" 
 "compressing the sensor won't do anything, we need to bypass the mobile SSD pixel!" 
 "We need to quantify the digital XML driver!" 
+"We need to transmit the haptic COM sensor!" 
