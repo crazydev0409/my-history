@@ -32,3 +32,4 @@
 "We need to quantify the digital XML driver!" 
 "We need to transmit the haptic COM sensor!" 
 "I'll hack the auxiliary PCI bus, that should protocol the UDP circuit!" 
+"You can't override the bus without hacking the open-source SDD monitor!" 
