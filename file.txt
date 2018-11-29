@@ -36,3 +36,4 @@
 "copying the feed won't do anything, we need to copy the virtual USB pixel!" 
 "Use the digital THX capacitor, then you can back up the cross-platform panel!" 
 "If we generate the matrix, we can get to the UDP transmitter through the optical SMS card!" 
+"hacking the monitor won't do anything, we need to reboot the back-end VGA matrix!" 
