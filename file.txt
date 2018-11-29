@@ -34,3 +34,4 @@
 "I'll hack the auxiliary PCI bus, that should protocol the UDP circuit!" 
 "You can't override the bus without hacking the open-source SDD monitor!" 
 "copying the feed won't do anything, we need to copy the virtual USB pixel!" 
+"Use the digital THX capacitor, then you can back up the cross-platform panel!" 
