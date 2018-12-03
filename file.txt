@@ -1427,3 +1427,4 @@
 "You can't compress the application without copying the back-end XML transmitter!" 
 "navigating the interface won't do anything, we need to parse the haptic SSD port!" 
 "We need to bypass the auxiliary IB microchip!" 
+"I'll override the multi-byte THX driver, that should driver the HDD port!" 
