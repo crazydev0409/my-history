@@ -39,3 +39,4 @@
 "hacking the monitor won't do anything, we need to reboot the back-end VGA matrix!" 
 "parsing the program won't do anything, we need to copy the redundant HTTP bus!" 
 "We need to input the bluetooth TCP transmitter!" 
+"Try to bypass the JSON application, maybe it will generate the multi-byte transmitter!" 
