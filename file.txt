@@ -40,3 +40,4 @@
 "parsing the program won't do anything, we need to copy the redundant HTTP bus!" 
 "We need to input the bluetooth TCP transmitter!" 
 "Try to bypass the JSON application, maybe it will generate the multi-byte transmitter!" 
+"If we copy the interface, we can get to the IP application through the primary RAM alarm!" 
