@@ -50,3 +50,4 @@
 "If we compress the sensor, we can get to the SMS monitor through the mobile SDD monitor!" 
 "Try to back up the CSS array, maybe it will back up the primary alarm!" 
 "The SMS bus is down, navigate the online bandwidth so we can compress the SAS sensor!" 
+"The RAM microchip is down, compress the solid state alarm so we can quantify the JBOD protocol!" 
