@@ -1444,3 +1444,4 @@
 "We need to back up the virtual IB alarm!" 
 "You can't generate the matrix without parsing the solid state GB panel!" 
 "We need to compress the cross-platform COM application!" 
+"The SMTP port is down, copy the optical pixel so we can back up the IB bus!" 
