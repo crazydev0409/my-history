@@ -1445,3 +1445,4 @@
 "You can't generate the matrix without parsing the solid state GB panel!" 
 "We need to compress the cross-platform COM application!" 
 "The SMTP port is down, copy the optical pixel so we can back up the IB bus!" 
+"The UDP transmitter is down, reboot the solid state card so we can parse the HTTP firewall!" 
