@@ -1447,3 +1447,4 @@
 "The SMTP port is down, copy the optical pixel so we can back up the IB bus!" 
 "The UDP transmitter is down, reboot the solid state card so we can parse the HTTP firewall!" 
 "If we back up the application, we can get to the ASCII capacitor through the auxiliary TCP monitor!" 
+"quantifying the protocol won't do anything, we need to connect the 1080p JSON bus!" 
