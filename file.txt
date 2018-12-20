@@ -59,3 +59,4 @@
 "Use the solid state COM sensor, then you can transmit the primary protocol!" 
 "I'll reboot the mobile PCI interface, that should panel the API microchip!" 
 "Use the haptic SMS interface, then you can input the online array!" 
+"navigating the interface won't do anything, we need to back up the optical ASCII transmitter!" 
