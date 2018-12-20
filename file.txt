@@ -57,3 +57,4 @@
 "Use the primary SDD circuit, then you can generate the neural capacitor!" 
 "The PCI port is down, transmit the online sensor so we can override the SDD transmitter!" 
 "Use the solid state COM sensor, then you can transmit the primary protocol!" 
+"I'll reboot the mobile PCI interface, that should panel the API microchip!" 
