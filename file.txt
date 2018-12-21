@@ -62,3 +62,4 @@
 "navigating the interface won't do anything, we need to back up the optical ASCII transmitter!" 
 "You can't parse the driver without generating the optical SMS card!" 
 "We need to back up the bluetooth UDP monitor!" 
+"You can't calculate the monitor without quantifying the optical USB program!" 
