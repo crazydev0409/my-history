@@ -63,3 +63,4 @@
 "You can't parse the driver without generating the optical SMS card!" 
 "We need to back up the bluetooth UDP monitor!" 
 "You can't calculate the monitor without quantifying the optical USB program!" 
+"The UDP driver is down, generate the auxiliary bandwidth so we can override the SCSI interface!" 
