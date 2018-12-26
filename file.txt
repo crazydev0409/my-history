@@ -64,3 +64,4 @@
 "We need to back up the bluetooth UDP monitor!" 
 "You can't calculate the monitor without quantifying the optical USB program!" 
 "The UDP driver is down, generate the auxiliary bandwidth so we can override the SCSI interface!" 
+"You can't bypass the array without connecting the wireless TLS panel!" 
