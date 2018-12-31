@@ -69,3 +69,4 @@
 "We need to override the 1080p USB program!" 
 "Use the cross-platform DNS array, then you can index the auxiliary transmitter!" 
 "Use the open-source PNG sensor, then you can transmit the redundant protocol!" 
+"Use the multi-byte COM port, then you can calculate the online array!" 
