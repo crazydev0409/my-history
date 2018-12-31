@@ -67,3 +67,4 @@
 "You can't bypass the array without connecting the wireless TLS panel!" 
 "We need to calculate the optical CSS sensor!" 
 "We need to override the 1080p USB program!" 
+"Use the cross-platform DNS array, then you can index the auxiliary transmitter!" 
