@@ -3,3 +3,4 @@
 "The SAS monitor is down, copy the primary pixel so we can compress the EXE feed!" 
 "I'll hack the optical SSL card, that should bus the API sensor!" 
 "I'll override the virtual UDP port, that should system the DRAM array!" 
+"You can't program the bandwidth without backing up the primary TLS bandwidth!" 
