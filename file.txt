@@ -5,3 +5,4 @@
 "I'll override the virtual UDP port, that should system the DRAM array!" 
 "You can't program the bandwidth without backing up the primary TLS bandwidth!" 
 "We need to bypass the auxiliary PNG card!" 
+"I'll transmit the auxiliary CLI monitor, that should interface the ASCII bus!" 
