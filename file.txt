@@ -73,3 +73,4 @@
 "We need to calculate the virtual SSD array!" 
 "You can't input the alarm without quantifying the haptic XML feed!" 
 "I'll quantify the primary AGP capacitor, that should alarm the IB protocol!" 
+"hacking the port won't do anything, we need to navigate the 1080p ASCII sensor!" 
