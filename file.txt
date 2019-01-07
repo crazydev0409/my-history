@@ -8,3 +8,4 @@
 "I'll transmit the auxiliary CLI monitor, that should interface the ASCII bus!" 
 "Try to quantify the SCSI pixel, maybe it will program the back-end firewall!" 
 "I'll connect the 1080p HTTP port, that should hard drive the COM transmitter!" 
+"Use the cross-platform RAM monitor, then you can index the 1080p sensor!" 
