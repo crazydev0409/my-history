@@ -1462,3 +1462,4 @@
 "If we connect the program, we can get to the ASCII monitor through the mobile CSS transmitter!" 
 "If we transmit the pixel, we can get to the AGP port through the mobile CSS bus!" 
 "parsing the pixel won't do anything, we need to override the digital OCR capacitor!" 
+"Use the online HTTP protocol, then you can synthesize the bluetooth hard drive!" 
