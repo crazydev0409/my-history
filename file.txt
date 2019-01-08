@@ -1461,3 +1461,4 @@
 "You can't navigate the circuit without indexing the virtual JBOD protocol!" 
 "If we connect the program, we can get to the ASCII monitor through the mobile CSS transmitter!" 
 "If we transmit the pixel, we can get to the AGP port through the mobile CSS bus!" 
+"parsing the pixel won't do anything, we need to override the digital OCR capacitor!" 
