@@ -16,3 +16,4 @@
 "We need to copy the 1080p OCR interface!" 
 "If we program the array, we can get to the GB feed through the auxiliary SQL monitor!" 
 "I'll copy the haptic AGP alarm, that should bandwidth the CSS card!" 
+"Use the multi-byte SQL interface, then you can program the neural panel!" 
