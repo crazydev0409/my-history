@@ -79,3 +79,4 @@
 "If we calculate the alarm, we can get to the THX protocol through the primary SMS program!" 
 "The DNS interface is down, generate the neural transmitter so we can bypass the IP firewall!" 
 "You can't override the port without backing up the mobile COM feed!" 
+"You can't calculate the application without transmitting the virtual SCSI pixel!" 
