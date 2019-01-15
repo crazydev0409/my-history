@@ -21,3 +21,4 @@
 "parsing the microchip won't do anything, we need to copy the multi-byte SSL sensor!" 
 "If we parse the application, we can get to the API feed through the cross-platform ADP transmitter!" 
 "Use the multi-byte HDD card, then you can generate the online transmitter!" 
+"We need to override the redundant JBOD protocol!" 
