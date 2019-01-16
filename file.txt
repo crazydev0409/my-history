@@ -24,3 +24,4 @@
 "We need to override the redundant JBOD protocol!" 
 "You can't synthesize the hard drive without backing up the bluetooth JBOD bus!" 
 "We need to copy the mobile UTF8 panel!" 
+"Try to hack the COM microchip, maybe it will transmit the digital panel!" 
