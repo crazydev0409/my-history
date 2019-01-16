@@ -23,3 +23,4 @@
 "Use the multi-byte HDD card, then you can generate the online transmitter!" 
 "We need to override the redundant JBOD protocol!" 
 "You can't synthesize the hard drive without backing up the bluetooth JBOD bus!" 
+"We need to copy the mobile UTF8 panel!" 
