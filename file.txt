@@ -1472,3 +1472,4 @@
 "connecting the application won't do anything, we need to navigate the primary SDD pixel!" 
 "parsing the pixel won't do anything, we need to program the 1080p CSS bus!" 
 "We need to index the primary SSL array!" 
+"I'll bypass the neural SMS sensor, that should system the EXE application!" 
