@@ -26,3 +26,4 @@
 "We need to copy the mobile UTF8 panel!" 
 "Try to hack the COM microchip, maybe it will transmit the digital panel!" 
 "Use the mobile OCR hard drive, then you can override the auxiliary protocol!" 
+"Try to copy the IP matrix, maybe it will reboot the redundant circuit!" 
