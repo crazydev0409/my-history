@@ -1476,3 +1476,4 @@
 "If we override the alarm, we can get to the XSS card through the virtual THX monitor!" 
 "If we reboot the monitor, we can get to the HTTP firewall through the virtual TCP transmitter!" 
 "The SDD firewall is down, copy the wireless transmitter so we can navigate the JSON sensor!" 
+"copying the transmitter won't do anything, we need to compress the back-end RSS matrix!" 
