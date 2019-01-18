@@ -1473,3 +1473,4 @@
 "parsing the pixel won't do anything, we need to program the 1080p CSS bus!" 
 "We need to index the primary SSL array!" 
 "I'll bypass the neural SMS sensor, that should system the EXE application!" 
+"If we override the alarm, we can get to the XSS card through the virtual THX monitor!" 
