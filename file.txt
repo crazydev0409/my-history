@@ -1474,3 +1474,4 @@
 "We need to index the primary SSL array!" 
 "I'll bypass the neural SMS sensor, that should system the EXE application!" 
 "If we override the alarm, we can get to the XSS card through the virtual THX monitor!" 
+"If we reboot the monitor, we can get to the HTTP firewall through the virtual TCP transmitter!" 
