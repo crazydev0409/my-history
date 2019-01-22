@@ -85,3 +85,4 @@
 "We need to override the redundant HTTP system!" 
 "I'll hack the online GB circuit, that should panel the GB card!" 
 "I'll copy the virtual SDD panel, that should port the OCR capacitor!" 
+"programming the hard drive won't do anything, we need to parse the primary CSS system!" 
