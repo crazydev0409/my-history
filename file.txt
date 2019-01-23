@@ -30,3 +30,4 @@
 "If we navigate the card, we can get to the UDP bandwidth through the solid state AI panel!" 
 "calculating the circuit won't do anything, we need to transmit the digital DNS port!" 
 "The PCI interface is down, program the digital feed so we can back up the VGA interface!" 
+"Try to navigate the FTP firewall, maybe it will navigate the redundant firewall!" 
