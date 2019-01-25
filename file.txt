@@ -89,3 +89,4 @@
 "If we transmit the card, we can get to the ASCII program through the digital RAM port!" 
 "We need to input the bluetooth FTP firewall!" 
 "calculating the card won't do anything, we need to reboot the 1080p USB driver!" 
+"The JSON card is down, reboot the neural pixel so we can quantify the SAS sensor!" 
