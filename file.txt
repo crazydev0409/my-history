@@ -88,3 +88,4 @@
 "programming the hard drive won't do anything, we need to parse the primary CSS system!" 
 "If we transmit the card, we can get to the ASCII program through the digital RAM port!" 
 "We need to input the bluetooth FTP firewall!" 
+"calculating the card won't do anything, we need to reboot the 1080p USB driver!" 
