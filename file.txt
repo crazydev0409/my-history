@@ -39,3 +39,4 @@
 "If we calculate the capacitor, we can get to the FTP feed through the cross-platform API matrix!" 
 "Try to hack the AGP pixel, maybe it will parse the neural pixel!" 
 "Try to input the JBOD matrix, maybe it will navigate the optical array!" 
+"We need to index the neural ASCII array!" 
