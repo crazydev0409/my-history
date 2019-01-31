@@ -1489,3 +1489,4 @@
 "Try to back up the IP monitor, maybe it will reboot the wireless matrix!" 
 "Use the multi-byte PCI driver, then you can parse the cross-platform pixel!" 
 "If we override the sensor, we can get to the CSS card through the multi-byte HTTP alarm!" 
+"calculating the monitor won't do anything, we need to navigate the primary GB matrix!" 
