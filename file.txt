@@ -93,3 +93,4 @@
 "If we generate the panel, we can get to the SQL application through the optical EXE card!" 
 "If we copy the driver, we can get to the HDD sensor through the cross-platform GB alarm!" 
 "I'll reboot the back-end OCR transmitter, that should transmitter the PNG application!" 
+"The AI card is down, copy the 1080p firewall so we can reboot the UDP port!" 
