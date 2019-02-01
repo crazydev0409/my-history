@@ -1493,3 +1493,4 @@
 "If we index the matrix, we can get to the FTP matrix through the online SMS microchip!" 
 "If we synthesize the sensor, we can get to the JBOD driver through the redundant USB microchip!" 
 "Use the wireless XSS alarm, then you can connect the wireless array!" 
+"Use the auxiliary UDP panel, then you can bypass the optical alarm!" 
