@@ -40,3 +40,4 @@
 "Try to hack the AGP pixel, maybe it will parse the neural pixel!" 
 "Try to input the JBOD matrix, maybe it will navigate the optical array!" 
 "We need to index the neural ASCII array!" 
+"If we connect the interface, we can get to the ASCII port through the optical IB circuit!" 
