@@ -97,3 +97,4 @@
 "programming the bus won't do anything, we need to generate the open-source HDD alarm!" 
 "We need to hack the multi-byte AI bus!" 
 "The SMTP program is down, synthesize the virtual protocol so we can back up the USB circuit!" 
+"Try to calculate the AGP feed, maybe it will calculate the virtual circuit!" 
