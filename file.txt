@@ -41,3 +41,4 @@
 "Try to input the JBOD matrix, maybe it will navigate the optical array!" 
 "We need to index the neural ASCII array!" 
 "If we connect the interface, we can get to the ASCII port through the optical IB circuit!" 
+"We need to quantify the primary ASCII circuit!" 
