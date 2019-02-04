@@ -1496,3 +1496,4 @@
 "Use the auxiliary UDP panel, then you can bypass the optical alarm!" 
 "We need to back up the virtual SAS program!" 
 "We need to override the cross-platform HEX alarm!" 
+"You can't quantify the transmitter without hacking the primary SSD bus!" 
