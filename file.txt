@@ -99,3 +99,4 @@
 "The SMTP program is down, synthesize the virtual protocol so we can back up the USB circuit!" 
 "Try to calculate the AGP feed, maybe it will calculate the virtual circuit!" 
 "connecting the matrix won't do anything, we need to program the wireless JSON hard drive!" 
+"Use the auxiliary DRAM circuit, then you can input the digital system!" 
