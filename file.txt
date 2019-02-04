@@ -1494,3 +1494,4 @@
 "If we synthesize the sensor, we can get to the JBOD driver through the redundant USB microchip!" 
 "Use the wireless XSS alarm, then you can connect the wireless array!" 
 "Use the auxiliary UDP panel, then you can bypass the optical alarm!" 
+"We need to back up the virtual SAS program!" 
