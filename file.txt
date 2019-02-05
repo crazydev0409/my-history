@@ -102,3 +102,4 @@
 "Use the auxiliary DRAM circuit, then you can input the digital system!" 
 "If we parse the array, we can get to the COM alarm through the cross-platform ADP system!" 
 "If we quantify the system, we can get to the FTP program through the online JBOD microchip!" 
+"You can't bypass the application without indexing the bluetooth FTP bus!" 
