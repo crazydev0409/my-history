@@ -43,3 +43,4 @@
 "If we connect the interface, we can get to the ASCII port through the optical IB circuit!" 
 "We need to quantify the primary ASCII circuit!" 
 "Use the online SSD card, then you can input the haptic driver!" 
+"Try to back up the SQL feed, maybe it will generate the multi-byte array!" 
