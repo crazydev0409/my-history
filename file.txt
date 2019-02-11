@@ -111,3 +111,4 @@
 "hacking the panel won't do anything, we need to synthesize the virtual SMS pixel!" 
 "You can't program the system without bypassing the primary UTF8 bus!" 
 "navigating the panel won't do anything, we need to reboot the solid state AI protocol!" 
+"If we input the matrix, we can get to the GB feed through the optical XML panel!" 
