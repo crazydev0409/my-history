@@ -48,3 +48,4 @@
 "We need to quantify the haptic PNG panel!" 
 "I'll back up the auxiliary OCR application, that should feed the UDP transmitter!" 
 "We need to generate the auxiliary JSON interface!" 
+"Try to reboot the ASCII interface, maybe it will navigate the online feed!" 
