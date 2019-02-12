@@ -113,3 +113,4 @@
 "navigating the panel won't do anything, we need to reboot the solid state AI protocol!" 
 "If we input the matrix, we can get to the GB feed through the optical XML panel!" 
 "We need to back up the primary VGA circuit!" 
+"You can't compress the sensor without indexing the wireless IB sensor!" 
