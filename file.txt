@@ -52,3 +52,4 @@
 "I'll connect the primary TCP monitor, that should transmitter the COM firewall!" 
 "We need to generate the 1080p HDD pixel!" 
 "If we hack the driver, we can get to the CSS microchip through the primary SAS interface!" 
+"Use the 1080p JBOD microchip, then you can override the open-source transmitter!" 
