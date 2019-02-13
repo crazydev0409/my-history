@@ -51,3 +51,4 @@
 "Try to reboot the ASCII interface, maybe it will navigate the online feed!" 
 "I'll connect the primary TCP monitor, that should transmitter the COM firewall!" 
 "We need to generate the 1080p HDD pixel!" 
+"If we hack the driver, we can get to the CSS microchip through the primary SAS interface!" 
