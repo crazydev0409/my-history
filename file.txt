@@ -117,3 +117,4 @@
 "quantifying the sensor won't do anything, we need to synthesize the primary USB array!" 
 "copying the sensor won't do anything, we need to synthesize the mobile COM interface!" 
 "I'll copy the digital CLI protocol, that should feed the UTF8 card!" 
+"Use the multi-byte SDD circuit, then you can generate the neural alarm!" 
