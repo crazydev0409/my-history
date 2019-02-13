@@ -115,3 +115,4 @@
 "We need to back up the primary VGA circuit!" 
 "You can't compress the sensor without indexing the wireless IB sensor!" 
 "quantifying the sensor won't do anything, we need to synthesize the primary USB array!" 
+"copying the sensor won't do anything, we need to synthesize the mobile COM interface!" 
