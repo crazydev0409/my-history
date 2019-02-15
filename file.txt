@@ -1508,3 +1508,4 @@
 "Try to bypass the TLS sensor, maybe it will bypass the online driver!" 
 "Try to copy the API application, maybe it will quantify the 1080p circuit!" 
 "Use the auxiliary CSS interface, then you can connect the mobile protocol!" 
+"You can't program the matrix without indexing the optical JBOD hard drive!" 
