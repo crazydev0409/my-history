@@ -59,3 +59,4 @@
 "We need to connect the redundant ADP bandwidth!" 
 "We need to connect the solid state PNG card!" 
 "You can't parse the circuit without compressing the 1080p RSS panel!" 
+"You can't transmit the interface without copying the multi-byte PNG array!" 
