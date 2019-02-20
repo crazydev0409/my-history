@@ -124,3 +124,4 @@
 "Try to quantify the USB bandwidth, maybe it will copy the open-source program!" 
 "Use the multi-byte GB protocol, then you can calculate the haptic bandwidth!" 
 "If we parse the monitor, we can get to the SSL protocol through the digital CLI pixel!" 
+"I'll program the multi-byte CSS circuit, that should program the TCP interface!" 
