@@ -62,3 +62,4 @@
 "You can't transmit the interface without copying the multi-byte PNG array!" 
 "We need to transmit the digital UDP array!" 
 "indexing the array won't do anything, we need to bypass the optical AI feed!" 
+"You can't back up the transmitter without quantifying the multi-byte IB array!" 
