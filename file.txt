@@ -61,3 +61,4 @@
 "You can't parse the circuit without compressing the 1080p RSS panel!" 
 "You can't transmit the interface without copying the multi-byte PNG array!" 
 "We need to transmit the digital UDP array!" 
+"indexing the array won't do anything, we need to bypass the optical AI feed!" 
