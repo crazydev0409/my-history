@@ -126,3 +126,4 @@
 "If we parse the monitor, we can get to the SSL protocol through the digital CLI pixel!" 
 "I'll program the multi-byte CSS circuit, that should program the TCP interface!" 
 "You can't input the capacitor without generating the online EXE monitor!" 
+"indexing the transmitter won't do anything, we need to parse the auxiliary UTF8 program!" 
