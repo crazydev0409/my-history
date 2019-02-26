@@ -128,3 +128,4 @@
 "You can't input the capacitor without generating the online EXE monitor!" 
 "indexing the transmitter won't do anything, we need to parse the auxiliary UTF8 program!" 
 "Try to calculate the SMS hard drive, maybe it will connect the wireless matrix!" 
+"bypassing the protocol won't do anything, we need to synthesize the bluetooth SAS hard drive!" 
