@@ -66,3 +66,4 @@
 "hacking the hard drive won't do anything, we need to back up the primary SSD bandwidth!" 
 "Try to generate the TCP pixel, maybe it will compress the primary capacitor!" 
 "The THX protocol is down, calculate the redundant capacitor so we can transmit the SMTP program!" 
+"If we copy the program, we can get to the GB transmitter through the optical ASCII bus!" 
