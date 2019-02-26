@@ -64,3 +64,4 @@
 "indexing the array won't do anything, we need to bypass the optical AI feed!" 
 "You can't back up the transmitter without quantifying the multi-byte IB array!" 
 "hacking the hard drive won't do anything, we need to back up the primary SSD bandwidth!" 
+"Try to generate the TCP pixel, maybe it will compress the primary capacitor!" 
