@@ -1522,3 +1522,4 @@
 "We need to transmit the wireless ADP protocol!" 
 "backing up the driver won't do anything, we need to calculate the wireless TCP bus!" 
 "You can't connect the driver without generating the wireless XML transmitter!" 
+"The UDP protocol is down, parse the optical sensor so we can reboot the DNS feed!" 
