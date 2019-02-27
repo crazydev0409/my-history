@@ -1521,3 +1521,4 @@
 "I'll program the wireless FTP panel, that should feed the IP sensor!" 
 "We need to transmit the wireless ADP protocol!" 
 "backing up the driver won't do anything, we need to calculate the wireless TCP bus!" 
+"You can't connect the driver without generating the wireless XML transmitter!" 
