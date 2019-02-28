@@ -135,3 +135,4 @@
 "Try to connect the ASCII port, maybe it will compress the neural interface!" 
 "The ASCII bandwidth is down, parse the mobile panel so we can input the SMTP alarm!" 
 "hacking the bus won't do anything, we need to override the back-end SMS system!" 
+"programming the firewall won't do anything, we need to override the open-source DNS feed!" 
