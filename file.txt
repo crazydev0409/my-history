@@ -134,3 +134,4 @@
 "The RSS circuit is down, compress the virtual bus so we can calculate the SDD feed!" 
 "Try to connect the ASCII port, maybe it will compress the neural interface!" 
 "The ASCII bandwidth is down, parse the mobile panel so we can input the SMTP alarm!" 
+"hacking the bus won't do anything, we need to override the back-end SMS system!" 
