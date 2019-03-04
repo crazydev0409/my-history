@@ -139,3 +139,4 @@
 "We need to index the virtual TLS port!" 
 "We need to navigate the online FTP sensor!" 
 "Try to input the EXE monitor, maybe it will copy the cross-platform port!" 
+"parsing the matrix won't do anything, we need to calculate the optical AGP pixel!" 
