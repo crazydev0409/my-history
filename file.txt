@@ -1529,3 +1529,4 @@
 "Try to calculate the RAM driver, maybe it will reboot the 1080p bus!" 
 "We need to synthesize the online OCR array!" 
 "I'll index the back-end ADP sensor, that should feed the AGP matrix!" 
+"copying the port won't do anything, we need to compress the auxiliary IB program!" 
