@@ -142,3 +142,4 @@
 "parsing the matrix won't do anything, we need to calculate the optical AGP pixel!" 
 "We need to connect the virtual ADP feed!" 
 "The ADP microchip is down, hack the multi-byte feed so we can synthesize the FTP bandwidth!" 
+"If we override the port, we can get to the ASCII port through the bluetooth JBOD panel!" 
