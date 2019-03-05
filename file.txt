@@ -1528,3 +1528,4 @@
 "Try to back up the PCI bandwidth, maybe it will compress the mobile system!" 
 "Try to calculate the RAM driver, maybe it will reboot the 1080p bus!" 
 "We need to synthesize the online OCR array!" 
+"I'll index the back-end ADP sensor, that should feed the AGP matrix!" 
