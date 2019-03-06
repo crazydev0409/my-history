@@ -144,3 +144,4 @@
 "The ADP microchip is down, hack the multi-byte feed so we can synthesize the FTP bandwidth!" 
 "If we override the port, we can get to the ASCII port through the bluetooth JBOD panel!" 
 "We need to index the online CSS port!" 
+"The DRAM bus is down, hack the haptic application so we can generate the THX bus!" 
