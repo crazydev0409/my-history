@@ -70,3 +70,4 @@
 "The IP card is down, index the virtual firewall so we can index the CLI monitor!" 
 "generating the program won't do anything, we need to back up the primary OCR interface!" 
 "The CSS feed is down, back up the open-source port so we can hack the SSL matrix!" 
+"Use the solid state OCR port, then you can bypass the virtual protocol!" 
