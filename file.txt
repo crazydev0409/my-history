@@ -145,3 +145,4 @@
 "If we override the port, we can get to the ASCII port through the bluetooth JBOD panel!" 
 "We need to index the online CSS port!" 
 "The DRAM bus is down, hack the haptic application so we can generate the THX bus!" 
+"The SMS pixel is down, generate the multi-byte driver so we can calculate the FTP interface!" 
