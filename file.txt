@@ -150,3 +150,4 @@
 "connecting the matrix won't do anything, we need to generate the solid state SMS pixel!" 
 "indexing the transmitter won't do anything, we need to quantify the auxiliary SAS capacitor!" 
 "You can't copy the application without transmitting the digital SDD matrix!" 
+"If we calculate the driver, we can get to the JBOD transmitter through the cross-platform AGP capacitor!" 
