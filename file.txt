@@ -148,3 +148,4 @@
 "The SMS pixel is down, generate the multi-byte driver so we can calculate the FTP interface!" 
 "We need to parse the virtual SMS alarm!" 
 "connecting the matrix won't do anything, we need to generate the solid state SMS pixel!" 
+"indexing the transmitter won't do anything, we need to quantify the auxiliary SAS capacitor!" 
