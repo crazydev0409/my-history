@@ -151,3 +151,4 @@
 "indexing the transmitter won't do anything, we need to quantify the auxiliary SAS capacitor!" 
 "You can't copy the application without transmitting the digital SDD matrix!" 
 "If we calculate the driver, we can get to the JBOD transmitter through the cross-platform AGP capacitor!" 
+"Use the auxiliary SCSI card, then you can bypass the primary system!" 
