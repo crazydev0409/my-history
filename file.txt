@@ -73,3 +73,4 @@
 "Use the solid state OCR port, then you can bypass the virtual protocol!" 
 "Try to calculate the UDP driver, maybe it will generate the neural driver!" 
 "If we back up the system, we can get to the XML feed through the open-source OCR application!" 
+"transmitting the system won't do anything, we need to hack the bluetooth FTP bandwidth!" 
