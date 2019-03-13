@@ -76,3 +76,4 @@
 "transmitting the system won't do anything, we need to hack the bluetooth FTP bandwidth!" 
 "The UTF8 bus is down, navigate the neural bandwidth so we can copy the USB firewall!" 
 "Try to transmit the SCSI array, maybe it will connect the bluetooth microchip!" 
+"Try to override the TCP interface, maybe it will bypass the mobile card!" 
