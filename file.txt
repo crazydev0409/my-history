@@ -1533,3 +1533,4 @@
 "Use the optical API sensor, then you can override the digital microchip!" 
 "We need to calculate the solid state EXE feed!" 
 "Use the 1080p SMTP matrix, then you can reboot the redundant alarm!" 
+"bypassing the firewall won't do anything, we need to quantify the primary PNG firewall!" 
