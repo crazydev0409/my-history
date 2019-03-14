@@ -155,3 +155,4 @@
 "Use the bluetooth XSS firewall, then you can override the online driver!" 
 "transmitting the microchip won't do anything, we need to calculate the digital SDD capacitor!" 
 "If we input the application, we can get to the SQL pixel through the primary SCSI driver!" 
+"programming the matrix won't do anything, we need to override the primary SAS port!" 
