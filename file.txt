@@ -156,3 +156,4 @@
 "transmitting the microchip won't do anything, we need to calculate the digital SDD capacitor!" 
 "If we input the application, we can get to the SQL pixel through the primary SCSI driver!" 
 "programming the matrix won't do anything, we need to override the primary SAS port!" 
+"The RSS driver is down, synthesize the cross-platform card so we can program the OCR feed!" 
