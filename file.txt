@@ -1537,3 +1537,4 @@
 "copying the array won't do anything, we need to back up the redundant UDP firewall!" 
 "Try to hack the SCSI capacitor, maybe it will parse the online port!" 
 "Use the back-end HDD interface, then you can connect the redundant microchip!" 
+"The SDD card is down, parse the online bandwidth so we can generate the SMTP firewall!" 
