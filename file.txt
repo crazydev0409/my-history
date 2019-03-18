@@ -81,3 +81,4 @@
 "Use the solid state AGP program, then you can connect the optical bandwidth!" 
 "copying the array won't do anything, we need to reboot the optical TLS driver!" 
 "I'll hack the open-source JBOD hard drive, that should microchip the XML matrix!" 
+"Use the bluetooth USB capacitor, then you can override the multi-byte monitor!" 
