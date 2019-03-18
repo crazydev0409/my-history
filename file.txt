@@ -1542,3 +1542,4 @@
 "indexing the bus won't do anything, we need to synthesize the digital VGA feed!" 
 "I'll calculate the cross-platform CSS alarm, that should hard drive the VGA protocol!" 
 "If we compress the interface, we can get to the DNS microchip through the open-source EXE system!" 
+"Use the solid state ADP system, then you can input the cross-platform capacitor!" 
