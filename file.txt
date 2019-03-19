@@ -158,3 +158,4 @@
 "programming the matrix won't do anything, we need to override the primary SAS port!" 
 "The RSS driver is down, synthesize the cross-platform card so we can program the OCR feed!" 
 "Try to synthesize the CLI monitor, maybe it will generate the back-end application!" 
+"We need to navigate the back-end SDD microchip!" 
