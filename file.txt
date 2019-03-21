@@ -160,3 +160,4 @@
 "Try to synthesize the CLI monitor, maybe it will generate the back-end application!" 
 "We need to navigate the back-end SDD microchip!" 
 "synthesizing the transmitter won't do anything, we need to bypass the digital HTTP port!" 
+"Use the digital THX protocol, then you can index the bluetooth capacitor!" 
