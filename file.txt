@@ -166,3 +166,4 @@
 "If we navigate the firewall, we can get to the RAM panel through the optical RAM hard drive!" 
 "The RAM port is down, quantify the neural bus so we can reboot the HEX pixel!" 
 "I'll bypass the redundant XSS system, that should sensor the JSON port!" 
+"navigating the capacitor won't do anything, we need to program the virtual VGA matrix!" 
