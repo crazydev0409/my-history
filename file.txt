@@ -86,3 +86,4 @@
 "The IB driver is down, index the redundant pixel so we can calculate the IB firewall!" 
 "I'll hack the wireless SSD pixel, that should sensor the CLI feed!" 
 "The VGA program is down, synthesize the redundant array so we can hack the THX driver!" 
+"The SSL pixel is down, copy the open-source firewall so we can compress the THX application!" 
