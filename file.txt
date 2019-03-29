@@ -88,3 +88,4 @@
 "The VGA program is down, synthesize the redundant array so we can hack the THX driver!" 
 "The SSL pixel is down, copy the open-source firewall so we can compress the THX application!" 
 "We need to index the mobile SQL bandwidth!" 
+"You can't index the transmitter without programming the cross-platform IP hard drive!" 
