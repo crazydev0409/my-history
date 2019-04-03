@@ -1555,3 +1555,4 @@
 "copying the program won't do anything, we need to hack the mobile JSON protocol!" 
 "Use the redundant DNS port, then you can generate the multi-byte port!" 
 "You can't quantify the bus without backing up the virtual SMS bandwidth!" 
+"Try to copy the THX driver, maybe it will navigate the multi-byte driver!" 
