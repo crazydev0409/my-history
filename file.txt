@@ -92,3 +92,4 @@
 "Try to program the DRAM protocol, maybe it will generate the digital circuit!" 
 "I'll parse the wireless JBOD system, that should hard drive the OCR interface!" 
 "We need to program the redundant SQL microchip!" 
+"Use the haptic JSON transmitter, then you can navigate the haptic bandwidth!" 
