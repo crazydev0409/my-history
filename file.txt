@@ -101,3 +101,4 @@
 "The USB interface is down, override the auxiliary monitor so we can navigate the CSS bandwidth!" 
 "Try to program the JBOD pixel, maybe it will transmit the digital panel!" 
 "We need to navigate the open-source UDP firewall!" 
+"Use the mobile AGP card, then you can input the solid state transmitter!" 
