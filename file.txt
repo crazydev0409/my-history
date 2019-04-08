@@ -102,3 +102,4 @@
 "Try to program the JBOD pixel, maybe it will transmit the digital panel!" 
 "We need to navigate the open-source UDP firewall!" 
 "Use the mobile AGP card, then you can input the solid state transmitter!" 
+"connecting the driver won't do anything, we need to index the optical THX monitor!" 
