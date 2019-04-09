@@ -182,3 +182,4 @@
 "Try to hack the COM card, maybe it will quantify the optical alarm!" 
 "We need to hack the digital AI feed!" 
 "Use the solid state ADP array, then you can synthesize the multi-byte panel!" 
+"Try to quantify the SMTP firewall, maybe it will calculate the digital bandwidth!" 
