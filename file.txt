@@ -105,3 +105,4 @@
 "connecting the driver won't do anything, we need to index the optical THX monitor!" 
 "I'll quantify the primary SMS sensor, that should bandwidth the SSL hard drive!" 
 "You can't generate the array without transmitting the auxiliary TCP interface!" 
+"We need to program the virtual IB bandwidth!" 
