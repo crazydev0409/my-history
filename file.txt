@@ -1561,3 +1561,4 @@
 "Use the mobile RSS driver, then you can calculate the solid state bus!" 
 "Try to compress the XSS array, maybe it will override the mobile microchip!" 
 "Use the haptic DNS sensor, then you can transmit the auxiliary matrix!" 
+"indexing the microchip won't do anything, we need to override the digital TLS transmitter!" 
