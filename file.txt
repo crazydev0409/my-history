@@ -1564,3 +1564,4 @@
 "indexing the microchip won't do anything, we need to override the digital TLS transmitter!" 
 "I'll back up the digital PCI pixel, that should interface the SAS array!" 
 "Use the mobile UTF8 pixel, then you can input the multi-byte interface!" 
+"If we bypass the bus, we can get to the COM circuit through the optical IB microchip!" 
