@@ -186,3 +186,4 @@
 "Use the open-source SQL protocol, then you can program the virtual matrix!" 
 "The RSS microchip is down, bypass the solid state pixel so we can index the OCR card!" 
 "hacking the firewall won't do anything, we need to hack the mobile XML alarm!" 
+"The DNS matrix is down, copy the online pixel so we can bypass the XSS firewall!" 
