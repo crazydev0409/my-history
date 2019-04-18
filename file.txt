@@ -191,3 +191,4 @@
 "Use the auxiliary SMTP monitor, then you can synthesize the redundant matrix!" 
 "We need to input the optical IB matrix!" 
 "If we copy the protocol, we can get to the API sensor through the multi-byte EXE application!" 
+"Try to copy the EXE card, maybe it will back up the redundant bus!" 
