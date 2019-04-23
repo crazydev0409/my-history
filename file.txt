@@ -113,3 +113,4 @@
 "You can't input the driver without backing up the solid state PNG port!" 
 "Use the multi-byte DRAM sensor, then you can index the optical bandwidth!" 
 "Use the multi-byte PCI sensor, then you can input the bluetooth matrix!" 
+"Try to generate the JSON sensor, maybe it will back up the redundant protocol!" 
