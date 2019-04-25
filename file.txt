@@ -198,3 +198,4 @@
 "copying the bandwidth won't do anything, we need to connect the cross-platform OCR interface!" 
 "Use the optical HDD sensor, then you can compress the neural program!" 
 "Use the online HTTP matrix, then you can copy the 1080p application!" 
+"indexing the sensor won't do anything, we need to reboot the virtual HTTP hard drive!" 
