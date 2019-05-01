@@ -204,3 +204,4 @@
 "We need to copy the neural API panel!" 
 "Use the solid state ADP card, then you can navigate the auxiliary bus!" 
 "The XSS transmitter is down, back up the digital driver so we can navigate the CLI bandwidth!" 
+"We need to reboot the virtual EXE bus!" 
