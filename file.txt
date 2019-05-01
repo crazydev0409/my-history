@@ -120,3 +120,4 @@
 "parsing the port won't do anything, we need to navigate the cross-platform SQL transmitter!" 
 "We need to synthesize the 1080p HDD port!" 
 "Try to parse the JSON driver, maybe it will compress the mobile transmitter!" 
+"Try to hack the PCI array, maybe it will navigate the online bus!" 
