@@ -1581,3 +1581,4 @@
 "overriding the driver won't do anything, we need to bypass the wireless RSS transmitter!" 
 "We need to reboot the mobile OCR matrix!" 
 "Use the optical PNG circuit, then you can back up the wireless application!" 
+"I'll program the virtual FTP bandwidth, that should transmitter the DRAM card!" 
