@@ -207,3 +207,4 @@
 "We need to reboot the virtual EXE bus!" 
 "Use the wireless PCI hard drive, then you can reboot the online feed!" 
 "Try to transmit the PCI monitor, maybe it will synthesize the online bandwidth!" 
+"Try to copy the TCP hard drive, maybe it will quantify the wireless array!" 
