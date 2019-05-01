@@ -206,3 +206,4 @@
 "The XSS transmitter is down, back up the digital driver so we can navigate the CLI bandwidth!" 
 "We need to reboot the virtual EXE bus!" 
 "Use the wireless PCI hard drive, then you can reboot the online feed!" 
+"Try to transmit the PCI monitor, maybe it will synthesize the online bandwidth!" 
