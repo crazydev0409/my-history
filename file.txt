@@ -209,3 +209,4 @@
 "Try to transmit the PCI monitor, maybe it will synthesize the online bandwidth!" 
 "Try to copy the TCP hard drive, maybe it will quantify the wireless array!" 
 "copying the card won't do anything, we need to navigate the auxiliary OCR monitor!" 
+"The JBOD hard drive is down, input the bluetooth sensor so we can program the THX feed!" 
