@@ -208,3 +208,4 @@
 "Use the wireless PCI hard drive, then you can reboot the online feed!" 
 "Try to transmit the PCI monitor, maybe it will synthesize the online bandwidth!" 
 "Try to copy the TCP hard drive, maybe it will quantify the wireless array!" 
+"copying the card won't do anything, we need to navigate the auxiliary OCR monitor!" 
