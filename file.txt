@@ -125,3 +125,4 @@
 "If we back up the pixel, we can get to the IB circuit through the solid state TCP panel!" 
 "We need to program the mobile AI panel!" 
 "I'll calculate the auxiliary USB capacitor, that should feed the DNS sensor!" 
+"indexing the port won't do anything, we need to quantify the primary FTP monitor!" 
