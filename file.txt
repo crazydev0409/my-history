@@ -124,3 +124,4 @@
 "The HEX bandwidth is down, bypass the online program so we can quantify the SSL pixel!" 
 "If we back up the pixel, we can get to the IB circuit through the solid state TCP panel!" 
 "We need to program the mobile AI panel!" 
+"I'll calculate the auxiliary USB capacitor, that should feed the DNS sensor!" 
