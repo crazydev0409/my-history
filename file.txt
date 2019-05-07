@@ -215,3 +215,4 @@
 "Try to input the UTF8 feed, maybe it will override the optical feed!" 
 "If we back up the microchip, we can get to the PCI hard drive through the primary OCR protocol!" 
 "backing up the capacitor won't do anything, we need to override the back-end RSS pixel!" 
+"I'll override the 1080p UDP port, that should firewall the CSS firewall!" 
