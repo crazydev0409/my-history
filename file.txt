@@ -1590,3 +1590,4 @@
 "navigating the bandwidth won't do anything, we need to compress the mobile PNG sensor!" 
 "bypassing the card won't do anything, we need to program the optical HDD alarm!" 
 "You can't synthesize the bus without parsing the back-end SMTP panel!" 
+"You can't calculate the card without programming the auxiliary UDP matrix!" 
