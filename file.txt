@@ -128,3 +128,4 @@
 "indexing the port won't do anything, we need to quantify the primary FTP monitor!" 
 "Use the neural EXE protocol, then you can synthesize the 1080p feed!" 
 "connecting the bus won't do anything, we need to compress the solid state AGP bandwidth!" 
+"If we hack the microchip, we can get to the ADP system through the neural PCI microchip!" 
