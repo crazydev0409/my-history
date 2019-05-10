@@ -1588,3 +1588,4 @@
 "connecting the circuit won't do anything, we need to bypass the mobile DRAM program!" 
 "We need to navigate the neural ASCII array!" 
 "navigating the bandwidth won't do anything, we need to compress the mobile PNG sensor!" 
+"bypassing the card won't do anything, we need to program the optical HDD alarm!" 
