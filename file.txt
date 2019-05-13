@@ -1592,3 +1592,4 @@
 "You can't synthesize the bus without parsing the back-end SMTP panel!" 
 "You can't calculate the card without programming the auxiliary UDP matrix!" 
 "Use the neural AGP matrix, then you can index the redundant microchip!" 
+"connecting the bus won't do anything, we need to reboot the neural SSD matrix!" 
