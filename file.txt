@@ -1593,3 +1593,4 @@
 "You can't calculate the card without programming the auxiliary UDP matrix!" 
 "Use the neural AGP matrix, then you can index the redundant microchip!" 
 "connecting the bus won't do anything, we need to reboot the neural SSD matrix!" 
+"The HDD alarm is down, synthesize the neural hard drive so we can index the HEX pixel!" 
