@@ -221,3 +221,4 @@
 "bypassing the driver won't do anything, we need to input the neural FTP firewall!" 
 "If we connect the monitor, we can get to the SMS firewall through the 1080p TLS bus!" 
 "I'll compress the open-source SDD hard drive, that should pixel the UTF8 sensor!" 
+"Use the back-end TLS circuit, then you can quantify the neural card!" 
