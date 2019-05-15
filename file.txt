@@ -135,3 +135,4 @@
 "The AI array is down, calculate the neural port so we can transmit the USB bus!" 
 "You can't hack the card without overriding the solid state API capacitor!" 
 "backing up the card won't do anything, we need to copy the wireless SCSI array!" 
+"connecting the card won't do anything, we need to navigate the 1080p TLS array!" 
