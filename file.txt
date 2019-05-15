@@ -136,3 +136,4 @@
 "You can't hack the card without overriding the solid state API capacitor!" 
 "backing up the card won't do anything, we need to copy the wireless SCSI array!" 
 "connecting the card won't do anything, we need to navigate the 1080p TLS array!" 
+"We need to index the haptic SMS program!" 
