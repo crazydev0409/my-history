@@ -134,3 +134,4 @@
 "If we generate the circuit, we can get to the GB protocol through the cross-platform UTF8 capacitor!" 
 "The AI array is down, calculate the neural port so we can transmit the USB bus!" 
 "You can't hack the card without overriding the solid state API capacitor!" 
+"backing up the card won't do anything, we need to copy the wireless SCSI array!" 
