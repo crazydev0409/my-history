@@ -1602,3 +1602,4 @@
 "Try to index the COM program, maybe it will generate the optical bandwidth!" 
 "Use the mobile SAS firewall, then you can override the wireless bandwidth!" 
 "I'll bypass the neural COM monitor, that should circuit the TLS panel!" 
+"quantifying the array won't do anything, we need to compress the optical JBOD port!" 
