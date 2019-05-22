@@ -1610,3 +1610,4 @@
 "If we override the panel, we can get to the SAS hard drive through the mobile ASCII microchip!" 
 "You can't hack the application without indexing the auxiliary IB circuit!" 
 "bypassing the microchip won't do anything, we need to synthesize the auxiliary THX sensor!" 
+"If we hack the monitor, we can get to the SQL driver through the virtual UTF8 hard drive!" 
