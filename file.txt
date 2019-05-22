@@ -1612,3 +1612,4 @@
 "bypassing the microchip won't do anything, we need to synthesize the auxiliary THX sensor!" 
 "If we hack the monitor, we can get to the SQL driver through the virtual UTF8 hard drive!" 
 "If we override the system, we can get to the AI bus through the optical UTF8 card!" 
+"copying the capacitor won't do anything, we need to generate the solid state COM protocol!" 
