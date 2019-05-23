@@ -1615,3 +1615,4 @@
 "copying the capacitor won't do anything, we need to generate the solid state COM protocol!" 
 "I'll compress the primary IP array, that should interface the UDP port!" 
 "Use the virtual SCSI port, then you can copy the online driver!" 
+"If we reboot the alarm, we can get to the OCR array through the mobile COM protocol!" 
