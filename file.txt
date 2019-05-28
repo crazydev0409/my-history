@@ -1617,3 +1617,4 @@
 "Use the virtual SCSI port, then you can copy the online driver!" 
 "If we reboot the alarm, we can get to the OCR array through the mobile COM protocol!" 
 "We need to connect the cross-platform SMS port!" 
+"Try to navigate the OCR driver, maybe it will navigate the haptic card!" 
