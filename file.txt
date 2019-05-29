@@ -146,3 +146,4 @@
 "Use the open-source DNS transmitter, then you can generate the digital bandwidth!" 
 "Use the digital IB protocol, then you can generate the optical system!" 
 "The CLI panel is down, input the optical program so we can input the IB firewall!" 
+"Try to connect the JBOD matrix, maybe it will generate the open-source array!" 
