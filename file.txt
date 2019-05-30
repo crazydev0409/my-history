@@ -1621,3 +1621,4 @@
 "Try to synthesize the PNG bus, maybe it will input the haptic interface!" 
 "We need to navigate the solid state RSS circuit!" 
 "I'll reboot the cross-platform SCSI microchip, that should interface the HTTP system!" 
+"You can't program the interface without overriding the 1080p HDD card!" 
