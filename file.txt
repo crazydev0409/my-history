@@ -151,3 +151,4 @@
 "If we copy the firewall, we can get to the API application through the back-end RSS transmitter!" 
 "Try to hack the API array, maybe it will copy the bluetooth alarm!" 
 "We need to input the haptic SDD feed!" 
+"compressing the sensor won't do anything, we need to bypass the bluetooth UDP protocol!" 
