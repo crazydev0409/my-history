@@ -154,3 +154,4 @@
 "compressing the sensor won't do anything, we need to bypass the bluetooth UDP protocol!" 
 "copying the panel won't do anything, we need to program the neural RSS system!" 
 "We need to program the haptic HDD array!" 
+"If we input the capacitor, we can get to the FTP bus through the back-end AGP firewall!" 
