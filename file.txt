@@ -155,3 +155,4 @@
 "copying the panel won't do anything, we need to program the neural RSS system!" 
 "We need to program the haptic HDD array!" 
 "If we input the capacitor, we can get to the FTP bus through the back-end AGP firewall!" 
+"compressing the pixel won't do anything, we need to back up the redundant ADP bandwidth!" 
