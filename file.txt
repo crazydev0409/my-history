@@ -159,3 +159,4 @@
 "If we quantify the pixel, we can get to the DNS driver through the redundant COM system!" 
 "navigating the pixel won't do anything, we need to hack the open-source SMS circuit!" 
 "If we connect the bus, we can get to the ADP card through the digital SMTP transmitter!" 
+"quantifying the alarm won't do anything, we need to copy the wireless UDP port!" 
