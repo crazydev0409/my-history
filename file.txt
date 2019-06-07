@@ -1626,3 +1626,4 @@
 "Try to reboot the IP application, maybe it will compress the mobile protocol!" 
 "If we index the application, we can get to the SMS panel through the primary EXE firewall!" 
 "If we reboot the interface, we can get to the DNS card through the redundant IB card!" 
+"We need to parse the virtual AGP pixel!" 
