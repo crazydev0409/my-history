@@ -161,3 +161,4 @@
 "If we connect the bus, we can get to the ADP card through the digital SMTP transmitter!" 
 "quantifying the alarm won't do anything, we need to copy the wireless UDP port!" 
 "You can't generate the card without programming the haptic SDD protocol!" 
+"I'll index the haptic EXE application, that should pixel the RSS program!" 
