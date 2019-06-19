@@ -256,3 +256,4 @@
 "The HEX bandwidth is down, bypass the wireless transmitter so we can override the COM port!" 
 "backing up the feed won't do anything, we need to navigate the mobile SDD pixel!" 
 "Try to navigate the SSD port, maybe it will override the redundant firewall!" 
+"If we bypass the microchip, we can get to the TCP card through the solid state SMTP transmitter!" 
