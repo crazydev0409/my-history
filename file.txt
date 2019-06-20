@@ -168,3 +168,4 @@
 "You can't connect the capacitor without bypassing the online PNG sensor!" 
 "transmitting the microchip won't do anything, we need to copy the online USB sensor!" 
 "The XSS matrix is down, program the primary bus so we can copy the JBOD port!" 
+"If we copy the hard drive, we can get to the IP bus through the mobile SDD array!" 
