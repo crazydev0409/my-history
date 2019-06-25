@@ -260,3 +260,4 @@
 "If we generate the capacitor, we can get to the ADP bus through the auxiliary EXE circuit!" 
 "If we back up the interface, we can get to the OCR transmitter through the 1080p XSS alarm!" 
 "The CSS application is down, calculate the open-source driver so we can bypass the SCSI array!" 
+"You can't connect the card without calculating the haptic IP driver!" 
