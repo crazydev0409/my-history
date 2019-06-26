@@ -171,3 +171,4 @@
 "If we copy the hard drive, we can get to the IP bus through the mobile SDD array!" 
 "The AGP pixel is down, hack the back-end transmitter so we can reboot the SSL feed!" 
 "Use the primary JBOD array, then you can calculate the online hard drive!" 
+"Use the back-end ADP sensor, then you can calculate the mobile transmitter!" 
