@@ -172,3 +172,4 @@
 "The AGP pixel is down, hack the back-end transmitter so we can reboot the SSL feed!" 
 "Use the primary JBOD array, then you can calculate the online hard drive!" 
 "Use the back-end ADP sensor, then you can calculate the mobile transmitter!" 
+"bypassing the capacitor won't do anything, we need to index the virtual XSS port!" 
