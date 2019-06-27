@@ -263,3 +263,4 @@
 "You can't connect the card without calculating the haptic IP driver!" 
 "Try to transmit the PNG interface, maybe it will override the multi-byte microchip!" 
 "I'll compress the bluetooth FTP firewall, that should matrix the HTTP array!" 
+"You can't copy the driver without backing up the mobile USB bandwidth!" 
