@@ -173,3 +173,4 @@
 "Use the primary JBOD array, then you can calculate the online hard drive!" 
 "Use the back-end ADP sensor, then you can calculate the mobile transmitter!" 
 "bypassing the capacitor won't do anything, we need to index the virtual XSS port!" 
+"I'll generate the primary THX capacitor, that should application the GB circuit!" 
