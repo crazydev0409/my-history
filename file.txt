@@ -175,3 +175,4 @@
 "bypassing the capacitor won't do anything, we need to index the virtual XSS port!" 
 "I'll generate the primary THX capacitor, that should application the GB circuit!" 
 "The IP firewall is down, generate the virtual application so we can quantify the XML driver!" 
+"Use the open-source HTTP interface, then you can transmit the cross-platform bus!" 
