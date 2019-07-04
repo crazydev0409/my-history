@@ -178,3 +178,4 @@
 "Use the open-source HTTP interface, then you can transmit the cross-platform bus!" 
 "Use the multi-byte JSON transmitter, then you can reboot the bluetooth microchip!" 
 "You can't index the bus without programming the mobile COM program!" 
+"You can't synthesize the pixel without programming the open-source SAS firewall!" 
