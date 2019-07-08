@@ -182,3 +182,4 @@
 "I'll index the cross-platform TCP program, that should circuit the SSD alarm!" 
 "The JBOD bus is down, reboot the back-end monitor so we can program the SAS port!" 
 "I'll hack the multi-byte XML hard drive, that should panel the DRAM capacitor!" 
+"You can't calculate the hard drive without connecting the bluetooth VGA array!" 
