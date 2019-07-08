@@ -183,3 +183,4 @@
 "The JBOD bus is down, reboot the back-end monitor so we can program the SAS port!" 
 "I'll hack the multi-byte XML hard drive, that should panel the DRAM capacitor!" 
 "You can't calculate the hard drive without connecting the bluetooth VGA array!" 
+"overriding the capacitor won't do anything, we need to calculate the cross-platform HDD feed!" 
