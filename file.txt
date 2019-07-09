@@ -272,3 +272,4 @@
 "The SMTP circuit is down, program the primary alarm so we can generate the SAS microchip!" 
 "Try to synthesize the ADP hard drive, maybe it will input the optical interface!" 
 "I'll transmit the redundant PNG firewall, that should firewall the USB feed!" 
+"If we transmit the alarm, we can get to the HEX alarm through the neural IB transmitter!" 
