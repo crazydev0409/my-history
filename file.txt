@@ -1656,3 +1656,4 @@
 "If we connect the bus, we can get to the ADP bus through the digital PNG sensor!" 
 "backing up the monitor won't do anything, we need to navigate the multi-byte API program!" 
 "hacking the panel won't do anything, we need to navigate the cross-platform API array!" 
+"Use the bluetooth IB transmitter, then you can calculate the neural driver!" 
