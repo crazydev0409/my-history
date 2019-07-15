@@ -188,3 +188,4 @@
 "quantifying the transmitter won't do anything, we need to connect the mobile DNS array!" 
 "If we reboot the circuit, we can get to the OCR system through the mobile DNS matrix!" 
 "You can't hack the driver without navigating the online API program!" 
+"Use the redundant HTTP panel, then you can connect the cross-platform transmitter!" 
