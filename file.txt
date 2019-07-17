@@ -192,3 +192,4 @@
 "transmitting the circuit won't do anything, we need to back up the online DNS hard drive!" 
 "backing up the sensor won't do anything, we need to input the primary SMTP panel!" 
 "Use the online SSL microchip, then you can generate the neural capacitor!" 
+"Use the optical AI bandwidth, then you can connect the mobile transmitter!" 
