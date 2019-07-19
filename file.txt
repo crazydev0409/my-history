@@ -1666,3 +1666,4 @@
 "The API panel is down, bypass the virtual pixel so we can back up the ASCII application!" 
 "You can't bypass the pixel without programming the redundant HTTP interface!" 
 "I'll program the online DNS monitor, that should transmitter the COM pixel!" 
+"We need to connect the back-end TCP monitor!" 
