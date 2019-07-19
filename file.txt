@@ -194,3 +194,4 @@
 "Use the online SSL microchip, then you can generate the neural capacitor!" 
 "Use the optical AI bandwidth, then you can connect the mobile transmitter!" 
 "The JBOD protocol is down, compress the neural interface so we can navigate the UDP alarm!" 
+"generating the feed won't do anything, we need to parse the 1080p VGA bus!" 
