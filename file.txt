@@ -1673,3 +1673,4 @@
 "Use the redundant JBOD card, then you can compress the solid state matrix!" 
 "copying the alarm won't do anything, we need to connect the 1080p UTF8 card!" 
 "I'll transmit the mobile PCI panel, that should panel the USB capacitor!" 
+"Try to override the HEX program, maybe it will copy the optical circuit!" 
