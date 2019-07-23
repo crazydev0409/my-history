@@ -1671,3 +1671,4 @@
 "We need to copy the 1080p SQL array!" 
 "If we parse the matrix, we can get to the CSS program through the primary SQL alarm!" 
 "Use the redundant JBOD card, then you can compress the solid state matrix!" 
+"copying the alarm won't do anything, we need to connect the 1080p UTF8 card!" 
