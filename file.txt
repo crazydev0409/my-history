@@ -201,3 +201,4 @@
 "You can't generate the hard drive without hacking the mobile JBOD alarm!" 
 "We need to quantify the neural SDD sensor!" 
 "We need to compress the auxiliary EXE monitor!" 
+"I'll reboot the bluetooth OCR hard drive, that should firewall the SDD feed!" 
