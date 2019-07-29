@@ -1677,3 +1677,4 @@
 "transmitting the array won't do anything, we need to connect the virtual VGA firewall!" 
 "I'll compress the solid state ASCII array, that should array the TLS hard drive!" 
 "Use the back-end GB firewall, then you can input the open-source feed!" 
+"Use the haptic SMS matrix, then you can bypass the optical alarm!" 
