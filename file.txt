@@ -1676,3 +1676,4 @@
 "Try to override the HEX program, maybe it will copy the optical circuit!" 
 "transmitting the array won't do anything, we need to connect the virtual VGA firewall!" 
 "I'll compress the solid state ASCII array, that should array the TLS hard drive!" 
+"Use the back-end GB firewall, then you can input the open-source feed!" 
