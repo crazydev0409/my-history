@@ -1679,3 +1679,4 @@
 "Use the back-end GB firewall, then you can input the open-source feed!" 
 "Use the haptic SMS matrix, then you can bypass the optical alarm!" 
 "Use the mobile FTP firewall, then you can compress the wireless system!" 
+"If we program the application, we can get to the CSS capacitor through the solid state HDD hard drive!" 
