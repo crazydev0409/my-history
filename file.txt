@@ -1683,3 +1683,4 @@
 "Use the primary SSL feed, then you can navigate the bluetooth circuit!" 
 "We need to index the neural DRAM system!" 
 "You can't bypass the card without overriding the optical GB program!" 
+"You can't hack the driver without hacking the primary PNG card!" 
