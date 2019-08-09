@@ -219,3 +219,4 @@
 "You can't bypass the monitor without synthesizing the mobile TLS bandwidth!" 
 "You can't parse the program without compressing the primary SMS alarm!" 
 "connecting the circuit won't do anything, we need to synthesize the 1080p SAS array!" 
+"Use the mobile JSON pixel, then you can hack the auxiliary program!" 
