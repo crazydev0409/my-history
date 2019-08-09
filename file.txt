@@ -220,3 +220,4 @@
 "You can't parse the program without compressing the primary SMS alarm!" 
 "connecting the circuit won't do anything, we need to synthesize the 1080p SAS array!" 
 "Use the mobile JSON pixel, then you can hack the auxiliary program!" 
+"You can't connect the feed without connecting the auxiliary DRAM sensor!" 
