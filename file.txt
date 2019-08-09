@@ -1686,3 +1686,4 @@
 "You can't hack the driver without hacking the primary PNG card!" 
 "Try to navigate the TCP driver, maybe it will compress the primary interface!" 
 "We need to navigate the digital PCI capacitor!" 
+"We need to bypass the haptic PCI alarm!" 
