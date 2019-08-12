@@ -223,3 +223,4 @@
 "You can't connect the feed without connecting the auxiliary DRAM sensor!" 
 "I'll override the primary SMS card, that should sensor the THX bandwidth!" 
 "You can't calculate the bandwidth without programming the haptic JBOD capacitor!" 
+"Use the digital SSL circuit, then you can input the mobile card!" 
