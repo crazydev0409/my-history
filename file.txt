@@ -226,3 +226,4 @@
 "Use the digital SSL circuit, then you can input the mobile card!" 
 "If we reboot the monitor, we can get to the PCI bus through the back-end UDP transmitter!" 
 "Try to transmit the DNS alarm, maybe it will bypass the solid state capacitor!" 
+"Use the 1080p USB array, then you can hack the wireless firewall!" 
