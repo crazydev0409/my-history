@@ -234,3 +234,4 @@
 "Use the neural USB application, then you can bypass the auxiliary array!" 
 "Use the multi-byte RAM card, then you can compress the 1080p panel!" 
 "Use the virtual SCSI program, then you can input the digital interface!" 
+"bypassing the driver won't do anything, we need to quantify the 1080p USB card!" 
