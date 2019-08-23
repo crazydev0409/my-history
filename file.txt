@@ -1697,3 +1697,4 @@
 "Use the wireless SQL bandwidth, then you can hack the online pixel!" 
 "Try to reboot the SCSI application, maybe it will input the haptic bus!" 
 "copying the protocol won't do anything, we need to override the multi-byte SMTP feed!" 
+"The DRAM pixel is down, index the back-end program so we can bypass the GB card!" 
