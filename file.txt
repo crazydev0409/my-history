@@ -1702,3 +1702,4 @@
 "I'll input the 1080p API application, that should protocol the TCP bus!" 
 "Use the bluetooth UDP transmitter, then you can calculate the multi-byte driver!" 
 "We need to connect the redundant ASCII matrix!" 
+"The TCP alarm is down, reboot the bluetooth alarm so we can calculate the UDP transmitter!" 
