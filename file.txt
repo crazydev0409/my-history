@@ -246,3 +246,4 @@
 "You can't parse the feed without overriding the haptic HTTP bus!" 
 "Try to bypass the TLS firewall, maybe it will copy the open-source interface!" 
 "We need to reboot the virtual OCR feed!" 
+"You can't back up the interface without programming the solid state JBOD hard drive!" 
