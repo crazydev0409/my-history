@@ -247,3 +247,4 @@
 "Try to bypass the TLS firewall, maybe it will copy the open-source interface!" 
 "We need to reboot the virtual OCR feed!" 
 "You can't back up the interface without programming the solid state JBOD hard drive!" 
+"The CSS matrix is down, copy the digital transmitter so we can back up the UDP card!" 
