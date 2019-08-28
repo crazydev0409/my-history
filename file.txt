@@ -249,3 +249,4 @@
 "You can't back up the interface without programming the solid state JBOD hard drive!" 
 "The CSS matrix is down, copy the digital transmitter so we can back up the UDP card!" 
 "Use the 1080p DNS feed, then you can hack the digital sensor!" 
+"Try to program the IP port, maybe it will reboot the back-end interface!" 
