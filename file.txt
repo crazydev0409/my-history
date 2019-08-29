@@ -1705,3 +1705,4 @@
 "The TCP alarm is down, reboot the bluetooth alarm so we can calculate the UDP transmitter!" 
 "The DNS port is down, generate the haptic alarm so we can index the OCR driver!" 
 "Use the online TCP monitor, then you can connect the auxiliary alarm!" 
+"I'll override the bluetooth JBOD alarm, that should application the ADP array!" 
