@@ -1706,3 +1706,4 @@
 "The DNS port is down, generate the haptic alarm so we can index the OCR driver!" 
 "Use the online TCP monitor, then you can connect the auxiliary alarm!" 
 "I'll override the bluetooth JBOD alarm, that should application the ADP array!" 
+"The SSL panel is down, copy the cross-platform application so we can generate the EXE card!" 
