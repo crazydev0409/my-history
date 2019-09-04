@@ -1711,3 +1711,4 @@
 "The HTTP port is down, compress the online driver so we can override the HEX transmitter!" 
 "We need to bypass the online UDP bus!" 
 "compressing the monitor won't do anything, we need to back up the digital JBOD array!" 
+"indexing the sensor won't do anything, we need to hack the virtual TLS alarm!" 
