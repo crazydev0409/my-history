@@ -260,3 +260,4 @@
 "I'll synthesize the redundant SSD hard drive, that should hard drive the VGA bandwidth!" 
 "If we program the capacitor, we can get to the JSON bandwidth through the online ADP microchip!" 
 "If we hack the alarm, we can get to the SCSI bandwidth through the 1080p API interface!" 
+"Use the virtual VGA card, then you can hack the wireless application!" 
