@@ -1714,3 +1714,4 @@
 "indexing the sensor won't do anything, we need to hack the virtual TLS alarm!" 
 "backing up the array won't do anything, we need to override the solid state HEX application!" 
 "Use the neural THX bus, then you can back up the mobile matrix!" 
+"You can't navigate the monitor without quantifying the redundant AGP panel!" 
