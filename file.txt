@@ -267,3 +267,4 @@
 "We need to connect the back-end IB pixel!" 
 "We need to reboot the neural HTTP microchip!" 
 "I'll reboot the mobile IB card, that should alarm the UTF8 port!" 
+"We need to copy the online USB feed!" 
