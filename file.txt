@@ -1717,3 +1717,4 @@
 "You can't navigate the monitor without quantifying the redundant AGP panel!" 
 "We need to compress the bluetooth VGA firewall!" 
 "I'll reboot the wireless XML pixel, that should circuit the VGA matrix!" 
+"Try to reboot the CSS application, maybe it will quantify the primary array!" 
