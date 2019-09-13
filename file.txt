@@ -271,3 +271,4 @@
 "We need to override the back-end XSS system!" 
 "hacking the panel won't do anything, we need to navigate the solid state HEX driver!" 
 "Try to calculate the THX program, maybe it will copy the cross-platform hard drive!" 
+"synthesizing the hard drive won't do anything, we need to bypass the mobile HDD microchip!" 
