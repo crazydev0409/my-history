@@ -1719,3 +1719,4 @@
 "I'll reboot the wireless XML pixel, that should circuit the VGA matrix!" 
 "Try to reboot the CSS application, maybe it will quantify the primary array!" 
 "The API sensor is down, program the redundant monitor so we can navigate the DNS interface!" 
+"You can't input the hard drive without transmitting the online ADP feed!" 
