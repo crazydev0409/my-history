@@ -273,3 +273,4 @@
 "Try to calculate the THX program, maybe it will copy the cross-platform hard drive!" 
 "synthesizing the hard drive won't do anything, we need to bypass the mobile HDD microchip!" 
 "We need to input the cross-platform HTTP program!" 
+"Try to parse the PNG protocol, maybe it will hack the cross-platform pixel!" 
