@@ -278,3 +278,4 @@
 "Try to navigate the HTTP microchip, maybe it will parse the haptic array!" 
 "Try to index the JBOD firewall, maybe it will copy the open-source protocol!" 
 "Try to transmit the SCSI protocol, maybe it will bypass the neural sensor!" 
+"You can't bypass the protocol without navigating the 1080p PCI system!" 
