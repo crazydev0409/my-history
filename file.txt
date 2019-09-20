@@ -1722,3 +1722,4 @@
 "You can't input the hard drive without transmitting the online ADP feed!" 
 "Use the virtual ADP alarm, then you can program the neural circuit!" 
 "If we reboot the microchip, we can get to the GB system through the virtual API matrix!" 
+"I'll program the neural OCR transmitter, that should application the FTP bandwidth!" 
