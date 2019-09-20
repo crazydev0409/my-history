@@ -280,3 +280,4 @@
 "Try to transmit the SCSI protocol, maybe it will bypass the neural sensor!" 
 "You can't bypass the protocol without navigating the 1080p PCI system!" 
 "I'll copy the solid state IB monitor, that should alarm the USB protocol!" 
+"overriding the program won't do anything, we need to transmit the virtual HDD interface!" 
