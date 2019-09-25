@@ -1728,3 +1728,4 @@
 "navigating the alarm won't do anything, we need to compress the mobile RAM array!" 
 "You can't input the matrix without indexing the online SQL feed!" 
 "Try to back up the SMTP hard drive, maybe it will synthesize the bluetooth pixel!" 
+"The FTP program is down, compress the 1080p program so we can input the DRAM port!" 
