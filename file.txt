@@ -291,3 +291,4 @@
 "If we connect the circuit, we can get to the SSL array through the digital USB program!" 
 "Try to input the AI bandwidth, maybe it will override the auxiliary application!" 
 "Try to transmit the TCP pixel, maybe it will navigate the mobile transmitter!" 
+"bypassing the firewall won't do anything, we need to index the online IP interface!" 
