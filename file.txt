@@ -294,3 +294,4 @@
 "bypassing the firewall won't do anything, we need to index the online IP interface!" 
 "synthesizing the sensor won't do anything, we need to reboot the solid state EXE monitor!" 
 "We need to synthesize the multi-byte RSS application!" 
+"Use the neural JBOD monitor, then you can transmit the mobile pixel!" 
