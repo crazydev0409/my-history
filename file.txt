@@ -1739,3 +1739,4 @@
 "You can't hack the matrix without copying the cross-platform RSS matrix!" 
 "Try to bypass the TCP bus, maybe it will index the open-source system!" 
 "The UDP bus is down, bypass the multi-byte sensor so we can override the IP port!" 
+"bypassing the monitor won't do anything, we need to generate the open-source FTP driver!" 
