@@ -296,3 +296,4 @@
 "We need to synthesize the multi-byte RSS application!" 
 "Use the neural JBOD monitor, then you can transmit the mobile pixel!" 
 "We need to program the optical JSON pixel!" 
+"I'll quantify the solid state RSS interface, that should system the THX sensor!" 
