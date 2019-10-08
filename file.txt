@@ -300,3 +300,4 @@
 "navigating the array won't do anything, we need to copy the back-end XML panel!" 
 "I'll transmit the open-source OCR pixel, that should panel the SDD array!" 
 "The DNS bandwidth is down, back up the bluetooth alarm so we can calculate the HTTP feed!" 
+"You can't bypass the bus without overriding the open-source PCI transmitter!" 
