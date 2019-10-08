@@ -1742,3 +1742,4 @@
 "bypassing the monitor won't do anything, we need to generate the open-source FTP driver!" 
 "The THX microchip is down, calculate the back-end matrix so we can back up the CLI protocol!" 
 "If we calculate the interface, we can get to the RSS array through the multi-byte AGP monitor!" 
+"Use the back-end AGP bandwidth, then you can quantify the optical panel!" 
