@@ -1745,3 +1745,4 @@
 "Use the back-end AGP bandwidth, then you can quantify the optical panel!" 
 "You can't bypass the hard drive without indexing the digital CSS alarm!" 
 "Try to index the USB panel, maybe it will program the haptic card!" 
+"I'll calculate the wireless THX matrix, that should bus the ADP port!" 
