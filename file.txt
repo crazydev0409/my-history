@@ -1746,3 +1746,4 @@
 "You can't bypass the hard drive without indexing the digital CSS alarm!" 
 "Try to index the USB panel, maybe it will program the haptic card!" 
 "I'll calculate the wireless THX matrix, that should bus the ADP port!" 
+"If we hack the port, we can get to the AI driver through the cross-platform ADP bandwidth!" 
