@@ -303,3 +303,4 @@
 "You can't bypass the bus without overriding the open-source PCI transmitter!" 
 "You can't back up the alarm without quantifying the digital SSL interface!" 
 "I'll compress the open-source ADP interface, that should matrix the JBOD monitor!" 
+"Use the 1080p GB array, then you can program the back-end alarm!" 
