@@ -1748,3 +1748,4 @@
 "I'll calculate the wireless THX matrix, that should bus the ADP port!" 
 "If we hack the port, we can get to the AI driver through the cross-platform ADP bandwidth!" 
 "The AGP pixel is down, reboot the auxiliary array so we can bypass the HDD card!" 
+"Try to copy the HDD array, maybe it will navigate the solid state pixel!" 
