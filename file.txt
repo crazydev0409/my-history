@@ -1754,3 +1754,4 @@
 "Use the 1080p IP panel, then you can parse the redundant array!" 
 "You can't back up the circuit without compressing the primary IP sensor!" 
 "I'll input the cross-platform UDP bus, that should driver the DNS feed!" 
+"hacking the sensor won't do anything, we need to compress the back-end RSS capacitor!" 
