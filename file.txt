@@ -321,3 +321,4 @@
 "Use the cross-platform RSS card, then you can parse the wireless capacitor!" 
 "If we override the program, we can get to the XSS firewall through the auxiliary PCI protocol!" 
 "You can't copy the sensor without bypassing the redundant ASCII alarm!" 
+"programming the microchip won't do anything, we need to navigate the primary IP circuit!" 
