@@ -1771,3 +1771,4 @@
 "Try to generate the XSS array, maybe it will index the open-source feed!" 
 "Try to back up the IP panel, maybe it will program the neural sensor!" 
 "Try to back up the PCI alarm, maybe it will hack the auxiliary circuit!" 
+"Use the bluetooth HEX port, then you can program the neural interface!" 
