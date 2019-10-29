@@ -324,3 +324,4 @@
 "programming the microchip won't do anything, we need to navigate the primary IP circuit!" 
 "Use the primary CSS panel, then you can input the optical card!" 
 "Try to input the CLI driver, maybe it will input the back-end bus!" 
+"The SDD panel is down, quantify the mobile port so we can input the SAS hard drive!" 
