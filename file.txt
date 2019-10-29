@@ -323,3 +323,4 @@
 "You can't copy the sensor without bypassing the redundant ASCII alarm!" 
 "programming the microchip won't do anything, we need to navigate the primary IP circuit!" 
 "Use the primary CSS panel, then you can input the optical card!" 
+"Try to input the CLI driver, maybe it will input the back-end bus!" 
