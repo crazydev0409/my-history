@@ -1775,3 +1775,4 @@
 "overriding the program won't do anything, we need to transmit the auxiliary SSL array!" 
 "The SSD microchip is down, override the optical bandwidth so we can bypass the API firewall!" 
 "The HDD interface is down, parse the neural capacitor so we can quantify the JBOD pixel!" 
+"Use the multi-byte API sensor, then you can reboot the auxiliary feed!" 
