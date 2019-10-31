@@ -327,3 +327,4 @@
 "The SDD panel is down, quantify the mobile port so we can input the SAS hard drive!" 
 "If we reboot the bus, we can get to the ASCII feed through the open-source JBOD application!" 
 "You can't hack the protocol without compressing the auxiliary SDD matrix!" 
+"If we override the capacitor, we can get to the IB transmitter through the bluetooth IP bandwidth!" 
