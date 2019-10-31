@@ -325,3 +325,4 @@
 "Use the primary CSS panel, then you can input the optical card!" 
 "Try to input the CLI driver, maybe it will input the back-end bus!" 
 "The SDD panel is down, quantify the mobile port so we can input the SAS hard drive!" 
+"If we reboot the bus, we can get to the ASCII feed through the open-source JBOD application!" 
