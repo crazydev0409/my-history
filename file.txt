@@ -1783,3 +1783,4 @@
 "overriding the driver won't do anything, we need to program the open-source UTF8 pixel!" 
 "The DNS microchip is down, input the online alarm so we can back up the SCSI firewall!" 
 "We need to program the solid state SDD system!" 
+"Try to synthesize the DRAM transmitter, maybe it will reboot the auxiliary hard drive!" 
