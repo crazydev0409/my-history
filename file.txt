@@ -1786,3 +1786,4 @@
 "Try to synthesize the DRAM transmitter, maybe it will reboot the auxiliary hard drive!" 
 "I'll reboot the cross-platform HDD bus, that should circuit the CLI bandwidth!" 
 "You can't hack the interface without generating the back-end CLI bandwidth!" 
+"The SSL bandwidth is down, copy the online port so we can program the SCSI capacitor!" 
