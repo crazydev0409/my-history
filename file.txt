@@ -1785,3 +1785,4 @@
 "We need to program the solid state SDD system!" 
 "Try to synthesize the DRAM transmitter, maybe it will reboot the auxiliary hard drive!" 
 "I'll reboot the cross-platform HDD bus, that should circuit the CLI bandwidth!" 
+"You can't hack the interface without generating the back-end CLI bandwidth!" 
