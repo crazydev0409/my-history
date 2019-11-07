@@ -334,3 +334,4 @@
 "I'll connect the back-end DRAM panel, that should driver the SQL alarm!" 
 "We need to reboot the virtual RSS microchip!" 
 "Try to bypass the JBOD firewall, maybe it will calculate the haptic alarm!" 
+"calculating the protocol won't do anything, we need to hack the optical THX microchip!" 
