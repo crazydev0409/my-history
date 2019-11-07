@@ -333,3 +333,4 @@
 "The IB bus is down, program the haptic monitor so we can synthesize the RSS bus!" 
 "I'll connect the back-end DRAM panel, that should driver the SQL alarm!" 
 "We need to reboot the virtual RSS microchip!" 
+"Try to bypass the JBOD firewall, maybe it will calculate the haptic alarm!" 
