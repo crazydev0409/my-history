@@ -336,3 +336,4 @@
 "Try to bypass the JBOD firewall, maybe it will calculate the haptic alarm!" 
 "calculating the protocol won't do anything, we need to hack the optical THX microchip!" 
 "Try to calculate the AI pixel, maybe it will navigate the auxiliary sensor!" 
+"If we hack the array, we can get to the SMS port through the cross-platform SQL feed!" 
