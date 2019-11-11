@@ -341,3 +341,4 @@
 "We need to transmit the wireless SMS firewall!" 
 "If we input the program, we can get to the SSD array through the online SCSI alarm!" 
 "If we copy the matrix, we can get to the API bus through the wireless SQL hard drive!" 
+"If we copy the system, we can get to the DNS pixel through the back-end COM bus!" 
