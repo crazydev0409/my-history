@@ -339,3 +339,4 @@
 "If we hack the array, we can get to the SMS port through the cross-platform SQL feed!" 
 "Try to override the USB circuit, maybe it will hack the back-end firewall!" 
 "We need to transmit the wireless SMS firewall!" 
+"If we input the program, we can get to the SSD array through the online SCSI alarm!" 
