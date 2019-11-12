@@ -343,3 +343,4 @@
 "If we copy the matrix, we can get to the API bus through the wireless SQL hard drive!" 
 "If we copy the system, we can get to the DNS pixel through the back-end COM bus!" 
 "I'll navigate the optical VGA microchip, that should bandwidth the HEX hard drive!" 
+"We need to index the multi-byte PNG system!" 
