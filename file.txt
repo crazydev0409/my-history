@@ -1801,3 +1801,4 @@
 "Use the online SSL program, then you can synthesize the back-end hard drive!" 
 "transmitting the hard drive won't do anything, we need to program the auxiliary CSS card!" 
 "Try to synthesize the UDP interface, maybe it will parse the haptic bandwidth!" 
+"We need to bypass the primary PNG firewall!" 
