@@ -348,3 +348,4 @@
 "We need to connect the open-source ADP program!" 
 "The GB system is down, generate the bluetooth array so we can reboot the USB panel!" 
 "If we back up the system, we can get to the SCSI protocol through the haptic AGP card!" 
+"The HEX matrix is down, back up the mobile program so we can copy the EXE program!" 
