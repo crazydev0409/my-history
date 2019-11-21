@@ -350,3 +350,4 @@
 "If we back up the system, we can get to the SCSI protocol through the haptic AGP card!" 
 "The HEX matrix is down, back up the mobile program so we can copy the EXE program!" 
 "Use the auxiliary DNS microchip, then you can synthesize the haptic hard drive!" 
+"Try to program the GB panel, maybe it will bypass the redundant array!" 
