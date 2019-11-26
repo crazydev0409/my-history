@@ -354,3 +354,4 @@
 "Try to bypass the GB port, maybe it will copy the multi-byte panel!" 
 "You can't parse the system without overriding the mobile SCSI sensor!" 
 "If we copy the sensor, we can get to the CSS card through the multi-byte VGA capacitor!" 
+"You can't synthesize the application without hacking the open-source SMTP transmitter!" 
