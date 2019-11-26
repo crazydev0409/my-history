@@ -352,3 +352,4 @@
 "Use the auxiliary DNS microchip, then you can synthesize the haptic hard drive!" 
 "Try to program the GB panel, maybe it will bypass the redundant array!" 
 "Try to bypass the GB port, maybe it will copy the multi-byte panel!" 
+"You can't parse the system without overriding the mobile SCSI sensor!" 
