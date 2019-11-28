@@ -355,3 +355,4 @@
 "You can't parse the system without overriding the mobile SCSI sensor!" 
 "If we copy the sensor, we can get to the CSS card through the multi-byte VGA capacitor!" 
 "You can't synthesize the application without hacking the open-source SMTP transmitter!" 
+"I'll parse the mobile FTP capacitor, that should protocol the TLS card!" 
