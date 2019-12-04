@@ -1821,3 +1821,4 @@
 "navigating the protocol won't do anything, we need to bypass the mobile SMS capacitor!" 
 "Try to transmit the USB application, maybe it will calculate the online capacitor!" 
 "The HTTP matrix is down, connect the wireless interface so we can hack the FTP alarm!" 
+"transmitting the application won't do anything, we need to program the mobile SMTP alarm!" 
