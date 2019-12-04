@@ -368,3 +368,4 @@
 "Use the solid state CLI alarm, then you can program the auxiliary transmitter!" 
 "The HEX system is down, index the digital application so we can compress the CSS application!" 
 "compressing the program won't do anything, we need to connect the redundant CSS port!" 
+"You can't input the hard drive without quantifying the online SQL array!" 
