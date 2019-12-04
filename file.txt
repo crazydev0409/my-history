@@ -1822,3 +1822,4 @@
 "Try to transmit the USB application, maybe it will calculate the online capacitor!" 
 "The HTTP matrix is down, connect the wireless interface so we can hack the FTP alarm!" 
 "transmitting the application won't do anything, we need to program the mobile SMTP alarm!" 
+"Try to calculate the SDD protocol, maybe it will connect the 1080p system!" 
