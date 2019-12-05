@@ -372,3 +372,4 @@
 "The XSS capacitor is down, transmit the wireless feed so we can compress the SMS alarm!" 
 "If we quantify the program, we can get to the RSS array through the 1080p CLI monitor!" 
 "Use the 1080p IB pixel, then you can program the auxiliary hard drive!" 
+"I'll hack the primary PCI interface, that should panel the HDD interface!" 
