@@ -370,3 +370,4 @@
 "compressing the program won't do anything, we need to connect the redundant CSS port!" 
 "You can't input the hard drive without quantifying the online SQL array!" 
 "The XSS capacitor is down, transmit the wireless feed so we can compress the SMS alarm!" 
+"If we quantify the program, we can get to the RSS array through the 1080p CLI monitor!" 
