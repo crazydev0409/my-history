@@ -374,3 +374,4 @@
 "Use the 1080p IB pixel, then you can program the auxiliary hard drive!" 
 "I'll hack the primary PCI interface, that should panel the HDD interface!" 
 "parsing the hard drive won't do anything, we need to index the solid state IP panel!" 
+"bypassing the interface won't do anything, we need to calculate the open-source HDD panel!" 
