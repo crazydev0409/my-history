@@ -378,3 +378,4 @@
 "You can't override the bus without navigating the bluetooth API system!" 
 "Use the auxiliary PNG microchip, then you can quantify the haptic circuit!" 
 "The API circuit is down, bypass the optical system so we can reboot the SSL panel!" 
+"The GB driver is down, reboot the virtual matrix so we can transmit the VGA feed!" 
