@@ -380,3 +380,4 @@
 "The API circuit is down, bypass the optical system so we can reboot the SSL panel!" 
 "The GB driver is down, reboot the virtual matrix so we can transmit the VGA feed!" 
 "I'll transmit the auxiliary IP panel, that should microchip the ASCII capacitor!" 
+"I'll bypass the digital HEX bandwidth, that should firewall the API program!" 
