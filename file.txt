@@ -385,3 +385,4 @@
 "You can't generate the application without navigating the online TCP card!" 
 "You can't compress the transmitter without generating the multi-byte RAM circuit!" 
 "If we index the bus, we can get to the DNS panel through the auxiliary TCP panel!" 
+"If we override the monitor, we can get to the SQL matrix through the optical TCP card!" 
