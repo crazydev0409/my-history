@@ -1849,3 +1849,4 @@
 "We need to input the neural RSS firewall!" 
 "parsing the firewall won't do anything, we need to copy the multi-byte DNS pixel!" 
 "If we bypass the alarm, we can get to the COM sensor through the optical FTP sensor!" 
+"The HDD system is down, back up the mobile transmitter so we can override the SAS capacitor!" 
