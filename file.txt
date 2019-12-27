@@ -392,3 +392,4 @@
 "programming the interface won't do anything, we need to parse the digital SDD array!" 
 "We need to override the digital IB protocol!" 
 "Use the multi-byte VGA transmitter, then you can bypass the mobile alarm!" 
+"We need to back up the solid state SSD array!" 
