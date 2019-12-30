@@ -1856,3 +1856,4 @@
 "backing up the matrix won't do anything, we need to generate the solid state JBOD sensor!" 
 "We need to copy the back-end TLS application!" 
 "quantifying the interface won't do anything, we need to input the multi-byte TCP transmitter!" 
+"Try to copy the JBOD port, maybe it will connect the digital matrix!" 
