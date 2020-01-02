@@ -401,3 +401,4 @@
 "Use the solid state ADP bus, then you can reboot the solid state driver!" 
 "Try to compress the SDD panel, maybe it will override the digital microchip!" 
 "I'll parse the optical AGP transmitter, that should hard drive the EXE card!" 
+"The JSON program is down, index the redundant transmitter so we can program the XML feed!" 
