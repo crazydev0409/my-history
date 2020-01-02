@@ -400,3 +400,4 @@
 "If we quantify the array, we can get to the UDP firewall through the mobile RSS protocol!" 
 "Use the solid state ADP bus, then you can reboot the solid state driver!" 
 "Try to compress the SDD panel, maybe it will override the digital microchip!" 
+"I'll parse the optical AGP transmitter, that should hard drive the EXE card!" 
