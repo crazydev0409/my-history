@@ -405,3 +405,4 @@
 "You can't quantify the port without connecting the bluetooth XSS panel!" 
 "Try to bypass the SCSI panel, maybe it will quantify the virtual transmitter!" 
 "We need to calculate the cross-platform IB application!" 
+"calculating the alarm won't do anything, we need to transmit the primary HTTP card!" 
