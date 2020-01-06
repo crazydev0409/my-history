@@ -403,3 +403,4 @@
 "I'll parse the optical AGP transmitter, that should hard drive the EXE card!" 
 "The JSON program is down, index the redundant transmitter so we can program the XML feed!" 
 "You can't quantify the port without connecting the bluetooth XSS panel!" 
+"Try to bypass the SCSI panel, maybe it will quantify the virtual transmitter!" 
