@@ -1863,3 +1863,4 @@
 "The SQL bus is down, input the neural panel so we can bypass the SQL pixel!" 
 "Use the multi-byte VGA interface, then you can copy the bluetooth program!" 
 "overriding the array won't do anything, we need to override the 1080p JBOD panel!" 
+"I'll reboot the online IP transmitter, that should monitor the RSS bus!" 
