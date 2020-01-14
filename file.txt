@@ -409,3 +409,4 @@
 "Try to parse the CLI bus, maybe it will transmit the 1080p card!" 
 "overriding the pixel won't do anything, we need to input the primary DRAM pixel!" 
 "calculating the panel won't do anything, we need to override the optical CLI feed!" 
+"compressing the application won't do anything, we need to parse the multi-byte EXE bandwidth!" 
