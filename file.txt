@@ -408,3 +408,4 @@
 "calculating the alarm won't do anything, we need to transmit the primary HTTP card!" 
 "Try to parse the CLI bus, maybe it will transmit the 1080p card!" 
 "overriding the pixel won't do anything, we need to input the primary DRAM pixel!" 
+"calculating the panel won't do anything, we need to override the optical CLI feed!" 
