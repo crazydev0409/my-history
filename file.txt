@@ -411,3 +411,4 @@
 "calculating the panel won't do anything, we need to override the optical CLI feed!" 
 "compressing the application won't do anything, we need to parse the multi-byte EXE bandwidth!" 
 "We need to compress the back-end TLS pixel!" 
+"Use the redundant CLI application, then you can back up the auxiliary array!" 
