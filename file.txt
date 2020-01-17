@@ -416,3 +416,4 @@
 "The HEX bandwidth is down, hack the digital array so we can index the XML firewall!" 
 "Use the open-source RAM port, then you can generate the bluetooth panel!" 
 "I'll hack the wireless IB capacitor, that should capacitor the SSL protocol!" 
+"You can't index the pixel without programming the virtual RAM pixel!" 
