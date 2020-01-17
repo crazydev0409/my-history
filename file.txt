@@ -1873,3 +1873,4 @@
 "The FTP microchip is down, hack the neural driver so we can navigate the AI feed!" 
 "The ADP application is down, back up the 1080p circuit so we can transmit the PNG feed!" 
 "If we navigate the program, we can get to the THX matrix through the back-end USB feed!" 
+"connecting the circuit won't do anything, we need to compress the back-end SMS bus!" 
