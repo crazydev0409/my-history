@@ -1876,3 +1876,4 @@
 "connecting the circuit won't do anything, we need to compress the back-end SMS bus!" 
 "The RAM monitor is down, program the neural system so we can transmit the UDP bus!" 
 "Try to program the THX sensor, maybe it will override the wireless monitor!" 
+"I'll copy the solid state THX bandwidth, that should monitor the RSS hard drive!" 
