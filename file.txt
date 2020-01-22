@@ -417,3 +417,4 @@
 "Use the open-source RAM port, then you can generate the bluetooth panel!" 
 "I'll hack the wireless IB capacitor, that should capacitor the SSL protocol!" 
 "You can't index the pixel without programming the virtual RAM pixel!" 
+"If we generate the alarm, we can get to the PCI array through the back-end AI alarm!" 
