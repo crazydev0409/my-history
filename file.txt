@@ -1881,3 +1881,4 @@
 "quantifying the capacitor won't do anything, we need to copy the virtual VGA driver!" 
 "Try to bypass the SAS panel, maybe it will connect the cross-platform interface!" 
 "Try to bypass the RSS alarm, maybe it will synthesize the multi-byte matrix!" 
+"Use the open-source HEX interface, then you can generate the multi-byte bandwidth!" 
