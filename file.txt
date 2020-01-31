@@ -421,3 +421,4 @@
 "If we connect the alarm, we can get to the IP capacitor through the haptic COM feed!" 
 "programming the bus won't do anything, we need to synthesize the online JBOD monitor!" 
 "I'll hack the multi-byte XML card, that should feed the THX capacitor!" 
+"Try to index the AI microchip, maybe it will program the auxiliary monitor!" 
