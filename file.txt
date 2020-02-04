@@ -430,3 +430,4 @@
 "We need to synthesize the auxiliary JBOD bus!" 
 "We need to hack the back-end SMTP matrix!" 
 "You can't override the feed without calculating the back-end ADP panel!" 
+"If we hack the panel, we can get to the RAM driver through the primary SDD bus!" 
