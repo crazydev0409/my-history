@@ -432,3 +432,4 @@
 "You can't override the feed without calculating the back-end ADP panel!" 
 "If we hack the panel, we can get to the RAM driver through the primary SDD bus!" 
 "If we program the circuit, we can get to the ASCII interface through the open-source OCR monitor!" 
+"calculating the bus won't do anything, we need to quantify the auxiliary HEX protocol!" 
