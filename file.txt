@@ -434,3 +434,4 @@
 "If we program the circuit, we can get to the ASCII interface through the open-source OCR monitor!" 
 "calculating the bus won't do anything, we need to quantify the auxiliary HEX protocol!" 
 "The CLI system is down, synthesize the virtual system so we can bypass the PNG protocol!" 
+"Try to synthesize the UTF8 program, maybe it will generate the virtual bus!" 
