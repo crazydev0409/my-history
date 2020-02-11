@@ -1892,3 +1892,4 @@
 "If we quantify the sensor, we can get to the SDD program through the optical TCP driver!" 
 "We need to calculate the wireless SDD hard drive!" 
 "Try to program the VGA bus, maybe it will program the bluetooth transmitter!" 
+"The TCP system is down, transmit the solid state transmitter so we can quantify the USB panel!" 
