@@ -1897,3 +1897,4 @@
 "We need to synthesize the mobile EXE array!" 
 "You can't hack the application without compressing the mobile SSD port!" 
 "If we parse the pixel, we can get to the SAS interface through the digital PCI monitor!" 
+"We need to quantify the open-source VGA monitor!" 
