@@ -1901,3 +1901,4 @@
 "If we calculate the transmitter, we can get to the AGP application through the digital DRAM pixel!" 
 "I'll compress the primary SMS sensor, that should array the FTP interface!" 
 "The AGP bandwidth is down, parse the neural pixel so we can parse the VGA port!" 
+"You can't back up the program without copying the mobile GB array!" 
