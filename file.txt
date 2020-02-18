@@ -439,3 +439,4 @@
 "The XML matrix is down, override the open-source interface so we can override the THX card!" 
 "Try to copy the IP feed, maybe it will synthesize the digital bandwidth!" 
 "We need to compress the redundant OCR panel!" 
+"compressing the interface won't do anything, we need to navigate the online IP hard drive!" 
