@@ -1904,3 +1904,4 @@
 "You can't back up the program without copying the mobile GB array!" 
 "Try to program the SCSI transmitter, maybe it will synthesize the solid state bus!" 
 "If we hack the bus, we can get to the DRAM driver through the primary CSS program!" 
+"Try to synthesize the HDD array, maybe it will program the haptic feed!" 
