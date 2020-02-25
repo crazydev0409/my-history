@@ -1909,3 +1909,4 @@
 "If we index the feed, we can get to the TLS array through the virtual HDD pixel!" 
 "The THX circuit is down, navigate the virtual bus so we can compress the SMS driver!" 
 "The ADP driver is down, parse the primary alarm so we can generate the COM application!" 
+"copying the port won't do anything, we need to copy the digital OCR microchip!" 
