@@ -1911,3 +1911,4 @@
 "The ADP driver is down, parse the primary alarm so we can generate the COM application!" 
 "copying the port won't do anything, we need to copy the digital OCR microchip!" 
 "indexing the circuit won't do anything, we need to navigate the primary RSS protocol!" 
+"Try to reboot the XSS sensor, maybe it will connect the redundant system!" 
