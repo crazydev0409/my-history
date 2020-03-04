@@ -449,3 +449,4 @@
 "Use the auxiliary CLI application, then you can transmit the multi-byte interface!" 
 "We need to index the multi-byte EXE pixel!" 
 "Try to hack the GB matrix, maybe it will index the digital system!" 
+"We need to parse the digital ADP system!" 
