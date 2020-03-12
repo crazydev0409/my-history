@@ -1922,3 +1922,4 @@
 "You can't compress the array without compressing the 1080p AGP sensor!" 
 "Use the optical DNS protocol, then you can transmit the primary bus!" 
 "hacking the alarm won't do anything, we need to connect the redundant COM circuit!" 
+"You can't transmit the bandwidth without transmitting the open-source COM panel!" 
