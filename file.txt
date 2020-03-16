@@ -457,3 +457,4 @@
 "We need to synthesize the digital GB bandwidth!" 
 "I'll compress the open-source SQL application, that should feed the HTTP driver!" 
 "I'll navigate the wireless DNS feed, that should card the DRAM sensor!" 
+"We need to override the primary VGA application!" 
