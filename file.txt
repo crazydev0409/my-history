@@ -1926,3 +1926,4 @@
 "We need to parse the mobile XML capacitor!" 
 "We need to hack the primary CLI system!" 
 "Try to input the CLI matrix, maybe it will connect the primary card!" 
+"Try to connect the FTP interface, maybe it will index the online microchip!" 
