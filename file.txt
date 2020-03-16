@@ -1925,3 +1925,4 @@
 "You can't transmit the bandwidth without transmitting the open-source COM panel!" 
 "We need to parse the mobile XML capacitor!" 
 "We need to hack the primary CLI system!" 
+"Try to input the CLI matrix, maybe it will connect the primary card!" 
