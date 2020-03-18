@@ -1928,3 +1928,4 @@
 "Try to input the CLI matrix, maybe it will connect the primary card!" 
 "Try to connect the FTP interface, maybe it will index the online microchip!" 
 "If we override the interface, we can get to the PNG card through the multi-byte SAS port!" 
+"connecting the protocol won't do anything, we need to synthesize the wireless DRAM matrix!" 
