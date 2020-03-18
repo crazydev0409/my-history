@@ -461,3 +461,4 @@
 "Try to transmit the EXE transmitter, maybe it will copy the open-source port!" 
 "You can't compress the bus without overriding the wireless ASCII circuit!" 
 "transmitting the system won't do anything, we need to index the redundant FTP bus!" 
+"We need to bypass the redundant USB system!" 
