@@ -1930,3 +1930,4 @@
 "If we override the interface, we can get to the PNG card through the multi-byte SAS port!" 
 "connecting the protocol won't do anything, we need to synthesize the wireless DRAM matrix!" 
 "I'll back up the haptic RAM microchip, that should firewall the USB port!" 
+"I'll quantify the solid state HTTP bandwidth, that should hard drive the SSL system!" 
