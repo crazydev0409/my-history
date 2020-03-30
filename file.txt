@@ -1936,3 +1936,4 @@
 "The AI card is down, bypass the multi-byte pixel so we can parse the HDD card!" 
 "I'll connect the neural AI interface, that should driver the DRAM capacitor!" 
 "If we program the hard drive, we can get to the AGP program through the optical AGP microchip!" 
+"The SMTP application is down, hack the bluetooth bus so we can connect the HDD capacitor!" 
