@@ -1937,3 +1937,4 @@
 "I'll connect the neural AI interface, that should driver the DRAM capacitor!" 
 "If we program the hard drive, we can get to the AGP program through the optical AGP microchip!" 
 "The SMTP application is down, hack the bluetooth bus so we can connect the HDD capacitor!" 
+"If we compress the matrix, we can get to the USB driver through the optical ADP card!" 
