@@ -1938,3 +1938,4 @@
 "If we program the hard drive, we can get to the AGP program through the optical AGP microchip!" 
 "The SMTP application is down, hack the bluetooth bus so we can connect the HDD capacitor!" 
 "If we compress the matrix, we can get to the USB driver through the optical ADP card!" 
+"The AI circuit is down, back up the solid state hard drive so we can back up the HDD bandwidth!" 
