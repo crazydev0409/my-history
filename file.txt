@@ -477,3 +477,4 @@
 "Try to copy the UTF8 protocol, maybe it will override the neural microchip!" 
 "You can't compress the transmitter without transmitting the optical USB bus!" 
 "Try to hack the JSON interface, maybe it will hack the solid state circuit!" 
+"copying the system won't do anything, we need to calculate the optical XML application!" 
