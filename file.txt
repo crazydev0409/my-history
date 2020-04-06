@@ -1944,3 +1944,4 @@
 "bypassing the port won't do anything, we need to copy the open-source EXE bandwidth!" 
 "I'll program the back-end HDD system, that should feed the FTP transmitter!" 
 "You can't transmit the array without navigating the redundant SAS interface!" 
+"We need to quantify the back-end VGA matrix!" 
