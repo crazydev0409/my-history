@@ -1941,3 +1941,4 @@
 "The AI circuit is down, back up the solid state hard drive so we can back up the HDD bandwidth!" 
 "If we reboot the array, we can get to the FTP feed through the primary ADP array!" 
 "If we navigate the system, we can get to the EXE pixel through the multi-byte CSS capacitor!" 
+"bypassing the port won't do anything, we need to copy the open-source EXE bandwidth!" 
