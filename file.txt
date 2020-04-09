@@ -481,3 +481,4 @@
 "We need to synthesize the auxiliary HEX feed!" 
 "You can't reboot the program without bypassing the neural AGP application!" 
 "I'll parse the optical UDP sensor, that should program the SSD matrix!" 
+"If we override the panel, we can get to the ADP matrix through the auxiliary GB matrix!" 
