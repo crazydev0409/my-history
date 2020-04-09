@@ -483,3 +483,4 @@
 "I'll parse the optical UDP sensor, that should program the SSD matrix!" 
 "If we override the panel, we can get to the ADP matrix through the auxiliary GB matrix!" 
 "quantifying the sensor won't do anything, we need to override the neural GB monitor!" 
+"programming the card won't do anything, we need to input the haptic JBOD array!" 
