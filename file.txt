@@ -484,3 +484,4 @@
 "If we override the panel, we can get to the ADP matrix through the auxiliary GB matrix!" 
 "quantifying the sensor won't do anything, we need to override the neural GB monitor!" 
 "programming the card won't do anything, we need to input the haptic JBOD array!" 
+"I'll connect the redundant CSS port, that should array the UTF8 application!" 
