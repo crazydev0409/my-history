@@ -485,3 +485,4 @@
 "quantifying the sensor won't do anything, we need to override the neural GB monitor!" 
 "programming the card won't do anything, we need to input the haptic JBOD array!" 
 "I'll connect the redundant CSS port, that should array the UTF8 application!" 
+"backing up the hard drive won't do anything, we need to back up the multi-byte DRAM alarm!" 
