@@ -1960,3 +1960,4 @@
 "I'll copy the mobile SMTP driver, that should application the HDD interface!" 
 "You can't calculate the alarm without parsing the open-source DNS sensor!" 
 "I'll input the multi-byte RSS array, that should microchip the ASCII bus!" 
+"You can't bypass the hard drive without hacking the online COM card!" 
