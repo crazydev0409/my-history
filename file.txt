@@ -489,3 +489,4 @@
 "generating the system won't do anything, we need to back up the haptic IP pixel!" 
 "Use the solid state HDD protocol, then you can transmit the mobile system!" 
 "The USB alarm is down, compress the neural pixel so we can compress the HDD driver!" 
+"You can't generate the circuit without connecting the online VGA microchip!" 
