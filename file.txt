@@ -491,3 +491,4 @@
 "The USB alarm is down, compress the neural pixel so we can compress the HDD driver!" 
 "You can't generate the circuit without connecting the online VGA microchip!" 
 "I'll index the solid state OCR program, that should driver the HTTP port!" 
+"The SMS application is down, compress the mobile hard drive so we can bypass the CSS application!" 
