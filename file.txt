@@ -496,3 +496,4 @@
 "If we back up the microchip, we can get to the AGP port through the multi-byte IP panel!" 
 "Use the multi-byte UTF8 circuit, then you can connect the mobile sensor!" 
 "I'll compress the virtual TCP matrix, that should application the JBOD sensor!" 
+"I'll override the primary GB card, that should circuit the DRAM card!" 
