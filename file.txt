@@ -495,3 +495,4 @@
 "Use the online UDP feed, then you can synthesize the virtual pixel!" 
 "If we back up the microchip, we can get to the AGP port through the multi-byte IP panel!" 
 "Use the multi-byte UTF8 circuit, then you can connect the mobile sensor!" 
+"I'll compress the virtual TCP matrix, that should application the JBOD sensor!" 
