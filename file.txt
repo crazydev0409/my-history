@@ -498,3 +498,4 @@
 "I'll compress the virtual TCP matrix, that should application the JBOD sensor!" 
 "I'll override the primary GB card, that should circuit the DRAM card!" 
 "If we hack the card, we can get to the UDP sensor through the auxiliary HDD panel!" 
+"If we input the array, we can get to the SCSI interface through the solid state TCP driver!" 
