@@ -503,3 +503,4 @@
 "You can't bypass the transmitter without connecting the haptic USB port!" 
 "You can't copy the program without transmitting the cross-platform API program!" 
 "If we override the sensor, we can get to the OCR matrix through the digital SMS alarm!" 
+"If we hack the panel, we can get to the TCP array through the solid state SSD port!" 
