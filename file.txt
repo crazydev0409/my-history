@@ -506,3 +506,4 @@
 "If we hack the panel, we can get to the TCP array through the solid state SSD port!" 
 "parsing the application won't do anything, we need to hack the haptic AGP circuit!" 
 "The SSD program is down, program the online array so we can program the SDD bus!" 
+"You can't hack the bandwidth without indexing the primary ADP monitor!" 
