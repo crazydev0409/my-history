@@ -511,3 +511,4 @@
 "The XSS port is down, navigate the neural pixel so we can reboot the DNS bandwidth!" 
 "The SMS capacitor is down, calculate the online microchip so we can quantify the GB feed!" 
 "If we back up the pixel, we can get to the XML array through the primary SMS protocol!" 
+"synthesizing the protocol won't do anything, we need to copy the solid state SSL microchip!" 
