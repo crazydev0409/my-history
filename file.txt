@@ -515,3 +515,4 @@
 "We need to quantify the primary SSL bus!" 
 "Use the wireless ADP transmitter, then you can parse the mobile driver!" 
 "You can't hack the firewall without overriding the virtual TLS card!" 
+"We need to transmit the multi-byte IB hard drive!" 
