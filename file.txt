@@ -514,3 +514,4 @@
 "synthesizing the protocol won't do anything, we need to copy the solid state SSL microchip!" 
 "We need to quantify the primary SSL bus!" 
 "Use the wireless ADP transmitter, then you can parse the mobile driver!" 
+"You can't hack the firewall without overriding the virtual TLS card!" 
