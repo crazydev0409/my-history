@@ -513,3 +513,4 @@
 "If we back up the pixel, we can get to the XML array through the primary SMS protocol!" 
 "synthesizing the protocol won't do anything, we need to copy the solid state SSL microchip!" 
 "We need to quantify the primary SSL bus!" 
+"Use the wireless ADP transmitter, then you can parse the mobile driver!" 
