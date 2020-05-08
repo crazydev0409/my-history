@@ -516,3 +516,4 @@
 "Use the wireless ADP transmitter, then you can parse the mobile driver!" 
 "You can't hack the firewall without overriding the virtual TLS card!" 
 "We need to transmit the multi-byte IB hard drive!" 
+"I'll compress the back-end HTTP matrix, that should port the EXE transmitter!" 
