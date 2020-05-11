@@ -1978,3 +1978,4 @@
 "hacking the pixel won't do anything, we need to reboot the bluetooth TCP microchip!" 
 "Try to index the SCSI monitor, maybe it will copy the wireless firewall!" 
 "If we compress the panel, we can get to the GB firewall through the cross-platform CLI feed!" 
+"Use the online HTTP matrix, then you can transmit the primary transmitter!" 
