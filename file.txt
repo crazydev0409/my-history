@@ -1983,3 +1983,4 @@
 "Try to index the AGP port, maybe it will override the solid state circuit!" 
 "Use the mobile AGP microchip, then you can connect the haptic sensor!" 
 "You can't bypass the hard drive without hacking the multi-byte SMS program!" 
+"If we override the interface, we can get to the SCSI panel through the haptic TLS sensor!" 
