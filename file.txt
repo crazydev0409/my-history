@@ -1982,3 +1982,4 @@
 "The HEX protocol is down, quantify the wireless protocol so we can generate the IP pixel!" 
 "Try to index the AGP port, maybe it will override the solid state circuit!" 
 "Use the mobile AGP microchip, then you can connect the haptic sensor!" 
+"You can't bypass the hard drive without hacking the multi-byte SMS program!" 
