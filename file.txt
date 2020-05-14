@@ -520,3 +520,4 @@
 "We need to back up the back-end DNS interface!" 
 "You can't reboot the protocol without calculating the auxiliary HDD firewall!" 
 "overriding the pixel won't do anything, we need to override the optical SDD panel!" 
+"Try to synthesize the XML bus, maybe it will connect the virtual sensor!" 
