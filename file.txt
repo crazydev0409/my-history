@@ -519,3 +519,4 @@
 "I'll compress the back-end HTTP matrix, that should port the EXE transmitter!" 
 "We need to back up the back-end DNS interface!" 
 "You can't reboot the protocol without calculating the auxiliary HDD firewall!" 
+"overriding the pixel won't do anything, we need to override the optical SDD panel!" 
