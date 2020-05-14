@@ -521,3 +521,4 @@
 "You can't reboot the protocol without calculating the auxiliary HDD firewall!" 
 "overriding the pixel won't do anything, we need to override the optical SDD panel!" 
 "Try to synthesize the XML bus, maybe it will connect the virtual sensor!" 
+"If we compress the program, we can get to the API panel through the virtual CLI card!" 
