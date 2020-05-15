@@ -524,3 +524,4 @@
 "If we compress the program, we can get to the API panel through the virtual CLI card!" 
 "We need to parse the cross-platform RAM firewall!" 
 "We need to bypass the wireless ASCII interface!" 
+"I'll parse the back-end SMS firewall, that should capacitor the DRAM interface!" 
