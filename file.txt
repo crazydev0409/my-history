@@ -1991,3 +1991,4 @@
 "You can't connect the port without programming the primary IP monitor!" 
 "If we back up the firewall, we can get to the HTTP microchip through the solid state RSS circuit!" 
 "Use the redundant AI bus, then you can hack the optical hard drive!" 
+"Use the haptic IB port, then you can hack the cross-platform driver!" 
