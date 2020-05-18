@@ -525,3 +525,4 @@
 "We need to parse the cross-platform RAM firewall!" 
 "We need to bypass the wireless ASCII interface!" 
 "I'll parse the back-end SMS firewall, that should capacitor the DRAM interface!" 
+"copying the array won't do anything, we need to index the wireless DRAM array!" 
