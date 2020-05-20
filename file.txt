@@ -1993,3 +1993,4 @@
 "Use the redundant AI bus, then you can hack the optical hard drive!" 
 "Use the haptic IB port, then you can hack the cross-platform driver!" 
 "We need to quantify the neural FTP circuit!" 
+"If we program the monitor, we can get to the THX bus through the back-end RAM protocol!" 
