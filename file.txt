@@ -1996,3 +1996,4 @@
 "If we program the monitor, we can get to the THX bus through the back-end RAM protocol!" 
 "Use the solid state RSS program, then you can input the neural array!" 
 "I'll navigate the mobile SMS port, that should matrix the ASCII port!" 
+"If we bypass the bandwidth, we can get to the ADP pixel through the 1080p SAS circuit!" 
