@@ -2001,3 +2001,4 @@
 "Try to copy the RAM card, maybe it will compress the online driver!" 
 "We need to calculate the bluetooth COM feed!" 
 "I'll back up the mobile AGP protocol, that should matrix the ASCII feed!" 
+"If we copy the protocol, we can get to the FTP firewall through the optical PNG interface!" 
