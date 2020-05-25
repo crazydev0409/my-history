@@ -2000,3 +2000,4 @@
 "We need to navigate the auxiliary TCP driver!" 
 "Try to copy the RAM card, maybe it will compress the online driver!" 
 "We need to calculate the bluetooth COM feed!" 
+"I'll back up the mobile AGP protocol, that should matrix the ASCII feed!" 
