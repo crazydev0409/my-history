@@ -536,3 +536,4 @@
 "The CLI card is down, reboot the cross-platform transmitter so we can bypass the UTF8 capacitor!" 
 "navigating the matrix won't do anything, we need to copy the open-source SAS capacitor!" 
 "You can't copy the monitor without copying the 1080p UDP circuit!" 
+"You can't bypass the capacitor without programming the neural DRAM microchip!" 
