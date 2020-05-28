@@ -2007,3 +2007,4 @@
 "You can't override the feed without transmitting the solid state ADP hard drive!" 
 "We need to parse the online VGA alarm!" 
 "Use the redundant HDD port, then you can compress the multi-byte interface!" 
+"You can't generate the firewall without copying the auxiliary ADP driver!" 
