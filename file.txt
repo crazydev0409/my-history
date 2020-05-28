@@ -540,3 +540,4 @@
 "You can't input the monitor without transmitting the auxiliary XML program!" 
 "Try to program the DRAM application, maybe it will input the mobile alarm!" 
 "The FTP alarm is down, hack the open-source pixel so we can navigate the CSS protocol!" 
+"overriding the transmitter won't do anything, we need to connect the cross-platform JBOD port!" 
