@@ -545,3 +545,4 @@
 "We need to index the mobile PNG circuit!" 
 "Try to reboot the SMTP feed, maybe it will override the back-end transmitter!" 
 "hacking the feed won't do anything, we need to quantify the auxiliary JBOD bus!" 
+"bypassing the matrix won't do anything, we need to reboot the open-source IP system!" 
