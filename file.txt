@@ -547,3 +547,4 @@
 "hacking the feed won't do anything, we need to quantify the auxiliary JBOD bus!" 
 "bypassing the matrix won't do anything, we need to reboot the open-source IP system!" 
 "If we quantify the card, we can get to the API sensor through the back-end USB driver!" 
+"Try to parse the SDD alarm, maybe it will hack the auxiliary card!" 
