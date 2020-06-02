@@ -2010,3 +2010,4 @@
 "You can't generate the firewall without copying the auxiliary ADP driver!" 
 "You can't copy the panel without parsing the open-source SCSI pixel!" 
 "You can't back up the system without bypassing the 1080p GB capacitor!" 
+"Try to bypass the SMS circuit, maybe it will parse the cross-platform protocol!" 
