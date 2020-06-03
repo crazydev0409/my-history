@@ -550,3 +550,4 @@
 "Try to parse the SDD alarm, maybe it will hack the auxiliary card!" 
 "You can't connect the system without programming the online VGA bandwidth!" 
 "Use the online FTP microchip, then you can generate the digital system!" 
+"You can't transmit the firewall without hacking the online PNG panel!" 
