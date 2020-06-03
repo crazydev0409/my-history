@@ -2015,3 +2015,4 @@
 "We need to quantify the digital AGP interface!" 
 "programming the protocol won't do anything, we need to compress the neural RSS application!" 
 "Use the wireless ADP monitor, then you can index the back-end sensor!" 
+"Use the haptic PCI monitor, then you can quantify the redundant interface!" 
