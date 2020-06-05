@@ -2017,3 +2017,4 @@
 "Use the wireless ADP monitor, then you can index the back-end sensor!" 
 "Use the haptic PCI monitor, then you can quantify the redundant interface!" 
 "If we bypass the transmitter, we can get to the PCI monitor through the optical GB sensor!" 
+"Use the primary UDP pixel, then you can input the primary interface!" 
