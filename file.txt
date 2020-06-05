@@ -2016,3 +2016,4 @@
 "programming the protocol won't do anything, we need to compress the neural RSS application!" 
 "Use the wireless ADP monitor, then you can index the back-end sensor!" 
 "Use the haptic PCI monitor, then you can quantify the redundant interface!" 
+"If we bypass the transmitter, we can get to the PCI monitor through the optical GB sensor!" 
