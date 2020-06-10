@@ -554,3 +554,4 @@
 "Try to override the USB protocol, maybe it will reboot the solid state pixel!" 
 "bypassing the driver won't do anything, we need to bypass the solid state JSON monitor!" 
 "hacking the system won't do anything, we need to connect the solid state JBOD card!" 
+"Try to transmit the ADP bus, maybe it will copy the redundant port!" 
