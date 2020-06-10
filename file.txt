@@ -557,3 +557,4 @@
 "Try to transmit the ADP bus, maybe it will copy the redundant port!" 
 "We need to hack the multi-byte TLS driver!" 
 "We need to quantify the bluetooth SSD panel!" 
+"If we parse the card, we can get to the IP monitor through the back-end XSS sensor!" 
