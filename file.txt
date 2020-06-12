@@ -565,3 +565,4 @@
 "We need to calculate the 1080p SMTP interface!" 
 "The FTP circuit is down, transmit the multi-byte pixel so we can override the EXE microchip!" 
 "We need to bypass the bluetooth USB port!" 
+"indexing the feed won't do anything, we need to input the neural HTTP feed!" 
