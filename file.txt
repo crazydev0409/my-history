@@ -568,3 +568,4 @@
 "indexing the feed won't do anything, we need to input the neural HTTP feed!" 
 "The SAS array is down, parse the cross-platform transmitter so we can program the THX feed!" 
 "Use the wireless UDP transmitter, then you can synthesize the open-source circuit!" 
+"hacking the hard drive won't do anything, we need to synthesize the bluetooth EXE alarm!" 
