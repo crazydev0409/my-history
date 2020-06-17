@@ -570,3 +570,4 @@
 "Use the wireless UDP transmitter, then you can synthesize the open-source circuit!" 
 "hacking the hard drive won't do anything, we need to synthesize the bluetooth EXE alarm!" 
 "If we back up the panel, we can get to the RAM monitor through the neural RAM application!" 
+"Try to quantify the DRAM bandwidth, maybe it will index the neural sensor!" 
