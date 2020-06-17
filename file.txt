@@ -569,3 +569,4 @@
 "The SAS array is down, parse the cross-platform transmitter so we can program the THX feed!" 
 "Use the wireless UDP transmitter, then you can synthesize the open-source circuit!" 
 "hacking the hard drive won't do anything, we need to synthesize the bluetooth EXE alarm!" 
+"If we back up the panel, we can get to the RAM monitor through the neural RAM application!" 
