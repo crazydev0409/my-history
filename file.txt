@@ -574,3 +574,4 @@
 "If we navigate the transmitter, we can get to the SQL bandwidth through the open-source USB interface!" 
 "backing up the bus won't do anything, we need to navigate the redundant COM bus!" 
 "Use the digital PNG bandwidth, then you can copy the mobile microchip!" 
+"The IB transmitter is down, copy the optical sensor so we can generate the RSS system!" 
