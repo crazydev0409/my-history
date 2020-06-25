@@ -2036,3 +2036,4 @@
 "Try to hack the AI bus, maybe it will calculate the cross-platform sensor!" 
 "We need to program the optical SSD panel!" 
 "We need to reboot the back-end RSS transmitter!" 
+"Use the back-end JSON matrix, then you can hack the virtual program!" 
