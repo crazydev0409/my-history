@@ -2037,3 +2037,4 @@
 "We need to program the optical SSD panel!" 
 "We need to reboot the back-end RSS transmitter!" 
 "Use the back-end JSON matrix, then you can hack the virtual program!" 
+"If we index the system, we can get to the SMTP hard drive through the mobile SMTP transmitter!" 
