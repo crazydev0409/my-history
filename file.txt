@@ -2040,3 +2040,4 @@
 "If we index the system, we can get to the SMTP hard drive through the mobile SMTP transmitter!" 
 "synthesizing the pixel won't do anything, we need to generate the haptic XSS bus!" 
 "The CLI card is down, compress the haptic transmitter so we can reboot the USB monitor!" 
+"Use the neural AGP interface, then you can connect the primary port!" 
