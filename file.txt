@@ -2041,3 +2041,4 @@
 "synthesizing the pixel won't do anything, we need to generate the haptic XSS bus!" 
 "The CLI card is down, compress the haptic transmitter so we can reboot the USB monitor!" 
 "Use the neural AGP interface, then you can connect the primary port!" 
+"Use the redundant IP matrix, then you can generate the bluetooth monitor!" 
