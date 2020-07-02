@@ -584,3 +584,4 @@
 "The SSL panel is down, generate the online port so we can calculate the JSON matrix!" 
 "The ASCII protocol is down, override the multi-byte array so we can navigate the SCSI bus!" 
 "Use the neural JBOD capacitor, then you can input the haptic program!" 
+"Try to index the RAM sensor, maybe it will bypass the multi-byte feed!" 
