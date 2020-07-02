@@ -585,3 +585,4 @@
 "The ASCII protocol is down, override the multi-byte array so we can navigate the SCSI bus!" 
 "Use the neural JBOD capacitor, then you can input the haptic program!" 
 "Try to index the RAM sensor, maybe it will bypass the multi-byte feed!" 
+"We need to hack the virtual JBOD interface!" 
