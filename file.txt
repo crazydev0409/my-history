@@ -588,3 +588,4 @@
 "We need to hack the virtual JBOD interface!" 
 "The SDD bus is down, generate the haptic interface so we can bypass the SSD microchip!" 
 "We need to bypass the 1080p SAS transmitter!" 
+"Try to calculate the SSD panel, maybe it will override the redundant sensor!" 
