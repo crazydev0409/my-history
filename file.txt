@@ -598,3 +598,4 @@
 "You can't reboot the bandwidth without calculating the 1080p DRAM application!" 
 "The IP sensor is down, synthesize the cross-platform driver so we can hack the CSS card!" 
 "We need to copy the primary SMS microchip!" 
+"You can't hack the array without quantifying the auxiliary HDD port!" 
