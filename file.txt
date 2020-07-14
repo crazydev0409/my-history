@@ -599,3 +599,4 @@
 "The IP sensor is down, synthesize the cross-platform driver so we can hack the CSS card!" 
 "We need to copy the primary SMS microchip!" 
 "You can't hack the array without quantifying the auxiliary HDD port!" 
+"Use the mobile GB bandwidth, then you can bypass the haptic interface!" 
