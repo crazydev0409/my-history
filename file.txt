@@ -2060,3 +2060,4 @@
 "Try to copy the SSL array, maybe it will calculate the online panel!" 
 "indexing the system won't do anything, we need to index the digital SAS matrix!" 
 "The AI protocol is down, parse the virtual port so we can transmit the IP microchip!" 
+"transmitting the monitor won't do anything, we need to program the online API card!" 
