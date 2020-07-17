@@ -600,3 +600,4 @@
 "We need to copy the primary SMS microchip!" 
 "You can't hack the array without quantifying the auxiliary HDD port!" 
 "Use the mobile GB bandwidth, then you can bypass the haptic interface!" 
+"We need to reboot the solid state HTTP bus!" 
