@@ -601,3 +601,4 @@
 "You can't hack the array without quantifying the auxiliary HDD port!" 
 "Use the mobile GB bandwidth, then you can bypass the haptic interface!" 
 "We need to reboot the solid state HTTP bus!" 
+"If we copy the application, we can get to the GB sensor through the neural SSL alarm!" 
