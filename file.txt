@@ -2062,3 +2062,4 @@
 "The AI protocol is down, parse the virtual port so we can transmit the IP microchip!" 
 "transmitting the monitor won't do anything, we need to program the online API card!" 
 "If we override the hard drive, we can get to the OCR array through the auxiliary SMS monitor!" 
+"If we generate the sensor, we can get to the RAM array through the primary IB monitor!" 
