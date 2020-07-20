@@ -606,3 +606,4 @@
 "programming the program won't do anything, we need to parse the auxiliary TLS matrix!" 
 "If we hack the sensor, we can get to the RSS panel through the wireless USB driver!" 
 "calculating the sensor won't do anything, we need to generate the bluetooth FTP system!" 
+"Use the open-source SCSI bus, then you can parse the multi-byte protocol!" 
