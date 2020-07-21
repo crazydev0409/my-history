@@ -2063,3 +2063,4 @@
 "transmitting the monitor won't do anything, we need to program the online API card!" 
 "If we override the hard drive, we can get to the OCR array through the auxiliary SMS monitor!" 
 "If we generate the sensor, we can get to the RAM array through the primary IB monitor!" 
+"Try to generate the ADP array, maybe it will hack the solid state monitor!" 
