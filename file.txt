@@ -2069,3 +2069,4 @@
 "If we input the sensor, we can get to the UTF8 program through the solid state SSD circuit!" 
 "We need to transmit the multi-byte UTF8 driver!" 
 "hacking the transmitter won't do anything, we need to bypass the online XSS panel!" 
+"I'll generate the 1080p JBOD interface, that should port the FTP system!" 
