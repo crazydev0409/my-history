@@ -2070,3 +2070,4 @@
 "We need to transmit the multi-byte UTF8 driver!" 
 "hacking the transmitter won't do anything, we need to bypass the online XSS panel!" 
 "I'll generate the 1080p JBOD interface, that should port the FTP system!" 
+"The SMTP program is down, transmit the online system so we can transmit the API transmitter!" 
