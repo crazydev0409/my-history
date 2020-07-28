@@ -612,3 +612,4 @@
 "Try to copy the JBOD system, maybe it will hack the 1080p pixel!" 
 "We need to back up the digital HTTP feed!" 
 "I'll back up the auxiliary ADP interface, that should bus the SDD sensor!" 
+"You can't calculate the panel without synthesizing the primary CLI array!" 
