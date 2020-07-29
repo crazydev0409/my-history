@@ -616,3 +616,4 @@
 "Use the wireless SQL interface, then you can generate the solid state sensor!" 
 "You can't input the alarm without parsing the bluetooth EXE port!" 
 "Use the open-source IB array, then you can hack the optical interface!" 
+"The USB panel is down, index the haptic driver so we can index the IP program!" 
