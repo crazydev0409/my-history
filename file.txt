@@ -2077,3 +2077,4 @@
 "I'll override the 1080p AI hard drive, that should interface the SSL card!" 
 "compressing the transmitter won't do anything, we need to override the online SQL card!" 
 "If we navigate the system, we can get to the PCI driver through the primary UTF8 port!" 
+"The GB hard drive is down, transmit the digital hard drive so we can navigate the RSS interface!" 
