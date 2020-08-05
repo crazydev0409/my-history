@@ -2078,3 +2078,4 @@
 "compressing the transmitter won't do anything, we need to override the online SQL card!" 
 "If we navigate the system, we can get to the PCI driver through the primary UTF8 port!" 
 "The GB hard drive is down, transmit the digital hard drive so we can navigate the RSS interface!" 
+"The UDP protocol is down, navigate the redundant transmitter so we can parse the IB bus!" 
