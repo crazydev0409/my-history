@@ -623,3 +623,4 @@
 "Try to quantify the THX interface, maybe it will index the mobile interface!" 
 "We need to synthesize the cross-platform VGA application!" 
 "You can't connect the pixel without copying the auxiliary USB transmitter!" 
+"I'll back up the digital IB transmitter, that should monitor the AGP matrix!" 
