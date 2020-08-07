@@ -2082,3 +2082,4 @@
 "connecting the program won't do anything, we need to compress the optical ASCII monitor!" 
 "Use the solid state HEX pixel, then you can program the auxiliary panel!" 
 "The OCR circuit is down, generate the redundant hard drive so we can synthesize the AGP matrix!" 
+"You can't override the pixel without navigating the primary HTTP program!" 
