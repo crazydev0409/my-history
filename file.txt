@@ -2081,3 +2081,4 @@
 "The UDP protocol is down, navigate the redundant transmitter so we can parse the IB bus!" 
 "connecting the program won't do anything, we need to compress the optical ASCII monitor!" 
 "Use the solid state HEX pixel, then you can program the auxiliary panel!" 
+"The OCR circuit is down, generate the redundant hard drive so we can synthesize the AGP matrix!" 
