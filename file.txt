@@ -625,3 +625,4 @@
 "You can't connect the pixel without copying the auxiliary USB transmitter!" 
 "I'll back up the digital IB transmitter, that should monitor the AGP matrix!" 
 "hacking the feed won't do anything, we need to quantify the bluetooth OCR alarm!" 
+"The PCI pixel is down, generate the auxiliary hard drive so we can reboot the COM bandwidth!" 
