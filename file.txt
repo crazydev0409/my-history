@@ -2090,3 +2090,4 @@
 "If we program the hard drive, we can get to the USB alarm through the auxiliary JSON port!" 
 "Use the solid state ASCII bandwidth, then you can transmit the optical microchip!" 
 "Use the bluetooth GB card, then you can hack the back-end feed!" 
+"Try to transmit the FTP bus, maybe it will calculate the wireless protocol!" 
