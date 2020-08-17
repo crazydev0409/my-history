@@ -2089,3 +2089,4 @@
 "We need to quantify the digital VGA system!" 
 "If we program the hard drive, we can get to the USB alarm through the auxiliary JSON port!" 
 "Use the solid state ASCII bandwidth, then you can transmit the optical microchip!" 
+"Use the bluetooth GB card, then you can hack the back-end feed!" 
