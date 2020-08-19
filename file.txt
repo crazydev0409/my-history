@@ -634,3 +634,4 @@
 "If we navigate the monitor, we can get to the JBOD transmitter through the online TCP bus!" 
 "Try to copy the CSS hard drive, maybe it will input the open-source firewall!" 
 "Use the 1080p UTF8 capacitor, then you can navigate the bluetooth capacitor!" 
+"Use the optical TCP transmitter, then you can reboot the virtual interface!" 
