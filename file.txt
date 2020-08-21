@@ -2094,3 +2094,4 @@
 "I'll override the optical SQL hard drive, that should transmitter the SQL program!" 
 "I'll hack the wireless JSON application, that should feed the UTF8 sensor!" 
 "We need to index the primary XSS driver!" 
+"If we compress the pixel, we can get to the SSL hard drive through the digital XSS feed!" 
