@@ -2099,3 +2099,4 @@
 "copying the alarm won't do anything, we need to override the mobile SAS bandwidth!" 
 "Try to input the SAS firewall, maybe it will transmit the multi-byte system!" 
 "The EXE interface is down, calculate the virtual panel so we can hack the RAM protocol!" 
+"We need to generate the multi-byte CLI panel!" 
