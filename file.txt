@@ -640,3 +640,4 @@
 "parsing the sensor won't do anything, we need to input the mobile FTP circuit!" 
 "Use the digital HDD sensor, then you can hack the neural program!" 
 "We need to input the mobile IB pixel!" 
+"Use the solid state USB interface, then you can reboot the primary firewall!" 
