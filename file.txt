@@ -638,3 +638,4 @@
 "We need to input the bluetooth API sensor!" 
 "I'll bypass the digital IP system, that should driver the SSL matrix!" 
 "parsing the sensor won't do anything, we need to input the mobile FTP circuit!" 
+"Use the digital HDD sensor, then you can hack the neural program!" 
