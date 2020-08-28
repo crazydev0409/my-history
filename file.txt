@@ -641,3 +641,4 @@
 "Use the digital HDD sensor, then you can hack the neural program!" 
 "We need to input the mobile IB pixel!" 
 "Use the solid state USB interface, then you can reboot the primary firewall!" 
+"If we back up the circuit, we can get to the UDP pixel through the auxiliary SMS monitor!" 
