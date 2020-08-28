@@ -642,3 +642,4 @@
 "We need to input the mobile IB pixel!" 
 "Use the solid state USB interface, then you can reboot the primary firewall!" 
 "If we back up the circuit, we can get to the UDP pixel through the auxiliary SMS monitor!" 
+"We need to connect the redundant DNS panel!" 
