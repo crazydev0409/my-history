@@ -644,3 +644,4 @@
 "If we back up the circuit, we can get to the UDP pixel through the auxiliary SMS monitor!" 
 "We need to connect the redundant DNS panel!" 
 "Try to reboot the OCR sensor, maybe it will calculate the virtual array!" 
+"The CLI program is down, back up the auxiliary card so we can connect the PNG matrix!" 
