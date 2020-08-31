@@ -645,3 +645,4 @@
 "We need to connect the redundant DNS panel!" 
 "Try to reboot the OCR sensor, maybe it will calculate the virtual array!" 
 "The CLI program is down, back up the auxiliary card so we can connect the PNG matrix!" 
+"bypassing the pixel won't do anything, we need to override the mobile GB pixel!" 
