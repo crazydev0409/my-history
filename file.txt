@@ -646,3 +646,4 @@
 "Try to reboot the OCR sensor, maybe it will calculate the virtual array!" 
 "The CLI program is down, back up the auxiliary card so we can connect the PNG matrix!" 
 "bypassing the pixel won't do anything, we need to override the mobile GB pixel!" 
+"You can't navigate the program without calculating the redundant GB port!" 
