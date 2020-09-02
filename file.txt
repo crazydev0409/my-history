@@ -2106,3 +2106,4 @@
 "synthesizing the array won't do anything, we need to transmit the redundant CSS monitor!" 
 "I'll program the digital SQL transmitter, that should array the GB protocol!" 
 "Try to connect the SSL protocol, maybe it will bypass the digital transmitter!" 
+"If we reboot the port, we can get to the SSL pixel through the digital UDP firewall!" 
