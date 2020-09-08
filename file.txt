@@ -2109,3 +2109,4 @@
 "If we reboot the port, we can get to the SSL pixel through the digital UDP firewall!" 
 "You can't connect the protocol without copying the redundant VGA transmitter!" 
 "I'll synthesize the auxiliary IB feed, that should matrix the SMS bandwidth!" 
+"The VGA microchip is down, generate the bluetooth card so we can program the HEX driver!" 
