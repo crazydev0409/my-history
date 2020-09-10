@@ -659,3 +659,4 @@
 "You can't synthesize the bandwidth without copying the neural HDD hard drive!" 
 "The AI hard drive is down, parse the redundant bandwidth so we can hack the ADP panel!" 
 "I'll calculate the back-end JBOD driver, that should matrix the RSS card!" 
+"transmitting the hard drive won't do anything, we need to program the neural SQL bus!" 
