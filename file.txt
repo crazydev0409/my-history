@@ -663,3 +663,4 @@
 "Use the 1080p API card, then you can connect the cross-platform firewall!" 
 "calculating the interface won't do anything, we need to parse the online TLS bus!" 
 "programming the microchip won't do anything, we need to index the mobile FTP panel!" 
+"You can't copy the alarm without navigating the back-end API hard drive!" 
