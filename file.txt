@@ -2121,3 +2121,4 @@
 "You can't calculate the feed without programming the cross-platform AGP bus!" 
 "Use the primary HTTP capacitor, then you can navigate the digital circuit!" 
 "You can't parse the hard drive without backing up the redundant SAS pixel!" 
+"You can't transmit the transmitter without hacking the virtual GB feed!" 
