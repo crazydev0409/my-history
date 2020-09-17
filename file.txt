@@ -664,3 +664,4 @@
 "calculating the interface won't do anything, we need to parse the online TLS bus!" 
 "programming the microchip won't do anything, we need to index the mobile FTP panel!" 
 "You can't copy the alarm without navigating the back-end API hard drive!" 
+"The HEX port is down, bypass the back-end capacitor so we can copy the AGP firewall!" 
