@@ -2122,3 +2122,4 @@
 "Use the primary HTTP capacitor, then you can navigate the digital circuit!" 
 "You can't parse the hard drive without backing up the redundant SAS pixel!" 
 "You can't transmit the transmitter without hacking the virtual GB feed!" 
+"calculating the transmitter won't do anything, we need to program the solid state OCR circuit!" 
