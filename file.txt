@@ -2124,3 +2124,4 @@
 "You can't transmit the transmitter without hacking the virtual GB feed!" 
 "calculating the transmitter won't do anything, we need to program the solid state OCR circuit!" 
 "The DRAM interface is down, synthesize the 1080p panel so we can connect the FTP card!" 
+"I'll hack the auxiliary UDP array, that should monitor the SMTP panel!" 
