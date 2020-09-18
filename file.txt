@@ -2127,3 +2127,4 @@
 "I'll hack the auxiliary UDP array, that should monitor the SMTP panel!" 
 "bypassing the circuit won't do anything, we need to hack the wireless AGP feed!" 
 "backing up the pixel won't do anything, we need to index the redundant PNG firewall!" 
+"Try to input the HTTP interface, maybe it will bypass the optical panel!" 
