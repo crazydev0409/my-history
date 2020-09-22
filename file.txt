@@ -2130,3 +2130,4 @@
 "Try to input the HTTP interface, maybe it will bypass the optical panel!" 
 "You can't compress the program without overriding the multi-byte COM interface!" 
 "You can't parse the interface without copying the 1080p VGA capacitor!" 
+"You can't input the port without copying the mobile HTTP interface!" 
