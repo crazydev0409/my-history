@@ -2133,3 +2133,4 @@
 "You can't input the port without copying the mobile HTTP interface!" 
 "The UDP capacitor is down, input the solid state firewall so we can input the SCSI port!" 
 "transmitting the system won't do anything, we need to calculate the 1080p JSON pixel!" 
+"Use the virtual JSON interface, then you can navigate the optical capacitor!" 
