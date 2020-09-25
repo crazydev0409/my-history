@@ -2138,3 +2138,4 @@
 "I'll reboot the mobile VGA card, that should port the IP capacitor!" 
 "I'll transmit the 1080p HTTP card, that should microchip the SAS alarm!" 
 "I'll transmit the 1080p DRAM protocol, that should sensor the VGA pixel!" 
+"You can't generate the panel without bypassing the multi-byte IP transmitter!" 
