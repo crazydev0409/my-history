@@ -2141,3 +2141,4 @@
 "You can't generate the panel without bypassing the multi-byte IP transmitter!" 
 "The USB program is down, connect the virtual protocol so we can generate the SCSI application!" 
 "We need to synthesize the auxiliary TLS bus!" 
+"Try to generate the DRAM bus, maybe it will override the 1080p protocol!" 
