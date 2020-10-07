@@ -684,3 +684,4 @@
 "You can't quantify the capacitor without hacking the neural CSS bandwidth!" 
 "We need to copy the haptic SMS pixel!" 
 "You can't program the sensor without parsing the wireless HDD array!" 
+"I'll navigate the redundant AGP firewall, that should hard drive the RSS monitor!" 
