@@ -2151,3 +2151,4 @@
 "Use the haptic HEX monitor, then you can program the mobile application!" 
 "Use the solid state XML feed, then you can reboot the online firewall!" 
 "We need to bypass the online PCI panel!" 
+"You can't quantify the circuit without programming the primary AI driver!" 
