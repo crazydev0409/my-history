@@ -2152,3 +2152,4 @@
 "Use the solid state XML feed, then you can reboot the online firewall!" 
 "We need to bypass the online PCI panel!" 
 "You can't quantify the circuit without programming the primary AI driver!" 
+"Try to quantify the ADP system, maybe it will copy the bluetooth feed!" 
