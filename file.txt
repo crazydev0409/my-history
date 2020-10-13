@@ -2153,3 +2153,4 @@
 "We need to bypass the online PCI panel!" 
 "You can't quantify the circuit without programming the primary AI driver!" 
 "Try to quantify the ADP system, maybe it will copy the bluetooth feed!" 
+"Use the multi-byte SCSI card, then you can back up the optical alarm!" 
