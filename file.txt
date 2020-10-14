@@ -688,3 +688,4 @@
 "Use the virtual TCP microchip, then you can quantify the neural sensor!" 
 "We need to synthesize the bluetooth AI hard drive!" 
 "Use the multi-byte HEX protocol, then you can copy the primary panel!" 
+"If we connect the alarm, we can get to the IB panel through the bluetooth SQL transmitter!" 
