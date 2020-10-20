@@ -2166,3 +2166,4 @@
 "If we hack the pixel, we can get to the OCR system through the redundant ASCII port!" 
 "Try to connect the HTTP program, maybe it will reboot the solid state matrix!" 
 "You can't navigate the array without navigating the solid state EXE bandwidth!" 
+"If we parse the sensor, we can get to the OCR alarm through the primary FTP interface!" 
