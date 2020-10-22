@@ -2172,3 +2172,4 @@
 "The TLS feed is down, synthesize the cross-platform interface so we can synthesize the ADP capacitor!" 
 "I'll input the haptic SMS transmitter, that should system the IP driver!" 
 "The ADP port is down, reboot the online card so we can copy the DNS matrix!" 
+"bypassing the program won't do anything, we need to hack the haptic SMTP card!" 
