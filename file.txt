@@ -2175,3 +2175,4 @@
 "bypassing the program won't do anything, we need to hack the haptic SMTP card!" 
 "The THX firewall is down, transmit the haptic alarm so we can index the PNG transmitter!" 
 "Try to navigate the SMTP microchip, maybe it will quantify the digital firewall!" 
+"You can't transmit the interface without connecting the mobile CLI bandwidth!" 
