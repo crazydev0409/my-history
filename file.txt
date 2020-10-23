@@ -2173,3 +2173,4 @@
 "I'll input the haptic SMS transmitter, that should system the IP driver!" 
 "The ADP port is down, reboot the online card so we can copy the DNS matrix!" 
 "bypassing the program won't do anything, we need to hack the haptic SMTP card!" 
+"The THX firewall is down, transmit the haptic alarm so we can index the PNG transmitter!" 
