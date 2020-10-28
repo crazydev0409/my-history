@@ -2180,3 +2180,4 @@
 "I'll program the haptic AGP port, that should system the RAM firewall!" 
 "I'll bypass the virtual XML protocol, that should pixel the OCR protocol!" 
 "backing up the protocol won't do anything, we need to copy the 1080p SQL hard drive!" 
+"Use the redundant JSON protocol, then you can parse the primary monitor!" 
