@@ -713,3 +713,4 @@
 "We need to back up the mobile AGP card!" 
 "generating the system won't do anything, we need to index the mobile IB application!" 
 "Try to transmit the EXE array, maybe it will copy the open-source capacitor!" 
+"indexing the monitor won't do anything, we need to navigate the digital USB hard drive!" 
