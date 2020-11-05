@@ -2194,3 +2194,4 @@
 "I'll transmit the solid state DRAM feed, that should sensor the HDD hard drive!" 
 "Use the wireless DRAM port, then you can synthesize the optical pixel!" 
 "You can't quantify the array without backing up the primary CSS pixel!" 
+"backing up the bandwidth won't do anything, we need to copy the multi-byte GB circuit!" 
