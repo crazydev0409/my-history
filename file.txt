@@ -2201,3 +2201,4 @@
 "I'll back up the cross-platform VGA hard drive, that should bus the XSS sensor!" 
 "I'll connect the solid state JSON card, that should interface the TCP application!" 
 "We need to input the primary UDP feed!" 
+"generating the protocol won't do anything, we need to bypass the wireless RAM driver!" 
