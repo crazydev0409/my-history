@@ -721,3 +721,4 @@
 "The SMTP matrix is down, calculate the mobile transmitter so we can generate the JBOD capacitor!" 
 "Try to parse the SCSI sensor, maybe it will transmit the solid state application!" 
 "I'll reboot the haptic OCR microchip, that should bandwidth the FTP feed!" 
+"You can't hack the matrix without hacking the auxiliary SCSI port!" 
