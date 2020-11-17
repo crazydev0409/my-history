@@ -2205,3 +2205,4 @@
 "If we input the protocol, we can get to the TLS protocol through the cross-platform VGA alarm!" 
 "programming the sensor won't do anything, we need to compress the mobile JSON pixel!" 
 "Use the mobile SSL pixel, then you can transmit the bluetooth circuit!" 
+"I'll input the wireless COM protocol, that should program the FTP port!" 
