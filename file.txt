@@ -2206,3 +2206,4 @@
 "programming the sensor won't do anything, we need to compress the mobile JSON pixel!" 
 "Use the mobile SSL pixel, then you can transmit the bluetooth circuit!" 
 "I'll input the wireless COM protocol, that should program the FTP port!" 
+"If we bypass the card, we can get to the SDD system through the haptic AGP capacitor!" 
