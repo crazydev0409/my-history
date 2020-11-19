@@ -729,3 +729,4 @@
 "The EXE sensor is down, program the primary monitor so we can back up the RAM firewall!" 
 "calculating the array won't do anything, we need to navigate the back-end FTP interface!" 
 "Use the neural UDP pixel, then you can hack the haptic hard drive!" 
+"I'll input the wireless SCSI array, that should feed the SSL feed!" 
