@@ -727,3 +727,4 @@
 "You can't reboot the pixel without indexing the bluetooth AI hard drive!" 
 "The UTF8 application is down, parse the 1080p port so we can generate the UDP capacitor!" 
 "The EXE sensor is down, program the primary monitor so we can back up the RAM firewall!" 
+"calculating the array won't do anything, we need to navigate the back-end FTP interface!" 
