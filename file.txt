@@ -2210,3 +2210,4 @@
 "We need to navigate the optical AGP transmitter!" 
 "We need to transmit the virtual API sensor!" 
 "You can't transmit the system without bypassing the optical JSON protocol!" 
+"We need to connect the auxiliary RAM protocol!" 
