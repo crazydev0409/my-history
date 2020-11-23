@@ -731,3 +731,4 @@
 "Use the neural UDP pixel, then you can hack the haptic hard drive!" 
 "I'll input the wireless SCSI array, that should feed the SSL feed!" 
 "You can't navigate the card without parsing the redundant HDD pixel!" 
+"If we compress the matrix, we can get to the VGA pixel through the solid state USB panel!" 
