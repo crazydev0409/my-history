@@ -735,3 +735,4 @@
 "We need to transmit the multi-byte API sensor!" 
 "I'll connect the wireless SDD system, that should card the SSL hard drive!" 
 "You can't connect the monitor without connecting the online SDD bandwidth!" 
+"Use the redundant JBOD bandwidth, then you can generate the online application!" 
