@@ -734,3 +734,4 @@
 "If we compress the matrix, we can get to the VGA pixel through the solid state USB panel!" 
 "We need to transmit the multi-byte API sensor!" 
 "I'll connect the wireless SDD system, that should card the SSL hard drive!" 
+"You can't connect the monitor without connecting the online SDD bandwidth!" 
