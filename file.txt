@@ -2215,3 +2215,4 @@
 "I'll transmit the virtual ASCII circuit, that should circuit the HTTP card!" 
 "Use the auxiliary GB interface, then you can index the virtual bus!" 
 "You can't program the firewall without quantifying the digital HDD bandwidth!" 
+"transmitting the program won't do anything, we need to parse the online SSD circuit!" 
