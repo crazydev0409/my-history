@@ -2212,3 +2212,4 @@
 "You can't transmit the system without bypassing the optical JSON protocol!" 
 "We need to connect the auxiliary RAM protocol!" 
 "navigating the interface won't do anything, we need to parse the 1080p SDD protocol!" 
+"I'll transmit the virtual ASCII circuit, that should circuit the HTTP card!" 
