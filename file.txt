@@ -745,3 +745,4 @@
 "We need to connect the optical RAM feed!" 
 "The RAM transmitter is down, navigate the primary feed so we can calculate the IB pixel!" 
 "Use the optical API sensor, then you can back up the redundant pixel!" 
+"I'll reboot the redundant PCI array, that should bus the OCR program!" 
