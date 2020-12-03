@@ -742,3 +742,4 @@
 "You can't connect the pixel without synthesizing the haptic SCSI matrix!" 
 "Try to back up the SMTP bandwidth, maybe it will transmit the virtual sensor!" 
 "I'll index the back-end UTF8 card, that should program the SMTP bus!" 
+"We need to connect the optical RAM feed!" 
