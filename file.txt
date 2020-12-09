@@ -747,3 +747,4 @@
 "Use the optical API sensor, then you can back up the redundant pixel!" 
 "I'll reboot the redundant PCI array, that should bus the OCR program!" 
 "Use the cross-platform FTP bus, then you can hack the haptic hard drive!" 
+"hacking the array won't do anything, we need to copy the solid state JSON bus!" 
