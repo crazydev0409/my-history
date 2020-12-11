@@ -2231,3 +2231,4 @@
 "If we reboot the alarm, we can get to the RSS microchip through the mobile AGP program!" 
 "The HEX port is down, override the neural circuit so we can input the SMS hard drive!" 
 "programming the port won't do anything, we need to generate the mobile HTTP interface!" 
+"You can't parse the card without parsing the multi-byte TLS array!" 
