@@ -750,3 +750,4 @@
 "hacking the array won't do anything, we need to copy the solid state JSON bus!" 
 "Try to bypass the SSD alarm, maybe it will quantify the open-source capacitor!" 
 "We need to bypass the 1080p DRAM matrix!" 
+"Try to override the VGA driver, maybe it will synthesize the optical pixel!" 
