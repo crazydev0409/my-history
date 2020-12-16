@@ -752,3 +752,4 @@
 "We need to bypass the 1080p DRAM matrix!" 
 "Try to override the VGA driver, maybe it will synthesize the optical pixel!" 
 "The RSS monitor is down, program the auxiliary sensor so we can input the HTTP array!" 
+"calculating the driver won't do anything, we need to hack the haptic SMTP bus!" 
