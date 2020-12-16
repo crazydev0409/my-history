@@ -751,3 +751,4 @@
 "Try to bypass the SSD alarm, maybe it will quantify the open-source capacitor!" 
 "We need to bypass the 1080p DRAM matrix!" 
 "Try to override the VGA driver, maybe it will synthesize the optical pixel!" 
+"The RSS monitor is down, program the auxiliary sensor so we can input the HTTP array!" 
