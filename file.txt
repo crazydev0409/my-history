@@ -755,3 +755,4 @@
 "calculating the driver won't do anything, we need to hack the haptic SMTP bus!" 
 "I'll program the redundant JBOD capacitor, that should panel the ASCII alarm!" 
 "Use the neural PCI firewall, then you can index the solid state transmitter!" 
+"indexing the panel won't do anything, we need to program the auxiliary PNG microchip!" 
