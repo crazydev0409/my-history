@@ -756,3 +756,4 @@
 "I'll program the redundant JBOD capacitor, that should panel the ASCII alarm!" 
 "Use the neural PCI firewall, then you can index the solid state transmitter!" 
 "indexing the panel won't do anything, we need to program the auxiliary PNG microchip!" 
+"Try to input the FTP port, maybe it will back up the 1080p matrix!" 
