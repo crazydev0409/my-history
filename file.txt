@@ -2239,3 +2239,4 @@
 "We need to program the primary UTF8 driver!" 
 "If we parse the transmitter, we can get to the VGA pixel through the neural PCI pixel!" 
 "We need to reboot the mobile DNS capacitor!" 
+"transmitting the program won't do anything, we need to transmit the optical SDD firewall!" 
