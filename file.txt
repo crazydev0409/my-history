@@ -759,3 +759,4 @@
 "Try to input the FTP port, maybe it will back up the 1080p matrix!" 
 "We need to program the virtual PCI driver!" 
 "We need to hack the solid state SCSI microchip!" 
+"synthesizing the firewall won't do anything, we need to program the neural AI card!" 
