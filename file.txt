@@ -762,3 +762,4 @@
 "synthesizing the firewall won't do anything, we need to program the neural AI card!" 
 "I'll compress the open-source GB protocol, that should program the AGP bus!" 
 "If we input the capacitor, we can get to the SAS circuit through the auxiliary AI monitor!" 
+"The HEX microchip is down, input the multi-byte port so we can hack the IB program!" 
