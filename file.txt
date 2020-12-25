@@ -766,3 +766,4 @@
 "Try to parse the PCI port, maybe it will bypass the wireless pixel!" 
 "Use the virtual DNS panel, then you can back up the back-end firewall!" 
 "Try to override the HDD application, maybe it will copy the virtual protocol!" 
+"If we hack the pixel, we can get to the JSON program through the open-source XSS application!" 
