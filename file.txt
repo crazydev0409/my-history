@@ -764,3 +764,4 @@
 "If we input the capacitor, we can get to the SAS circuit through the auxiliary AI monitor!" 
 "The HEX microchip is down, input the multi-byte port so we can hack the IB program!" 
 "Try to parse the PCI port, maybe it will bypass the wireless pixel!" 
+"Use the virtual DNS panel, then you can back up the back-end firewall!" 
