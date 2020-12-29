@@ -767,3 +767,4 @@
 "Use the virtual DNS panel, then you can back up the back-end firewall!" 
 "Try to override the HDD application, maybe it will copy the virtual protocol!" 
 "If we hack the pixel, we can get to the JSON program through the open-source XSS application!" 
+"The IB monitor is down, calculate the digital circuit so we can reboot the COM circuit!" 
