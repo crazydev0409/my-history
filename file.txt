@@ -2247,3 +2247,4 @@
 "I'll override the primary SMS hard drive, that should bandwidth the VGA monitor!" 
 "The CLI pixel is down, back up the wireless sensor so we can hack the COM pixel!" 
 "You can't bypass the hard drive without compressing the online CLI capacitor!" 
+"If we transmit the interface, we can get to the EXE capacitor through the virtual DNS hard drive!" 
