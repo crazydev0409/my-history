@@ -2251,3 +2251,4 @@
 "We need to parse the haptic TCP interface!" 
 "Try to reboot the CLI firewall, maybe it will hack the auxiliary panel!" 
 "We need to calculate the optical DNS application!" 
+"You can't index the system without programming the optical UTF8 array!" 
