@@ -2253,3 +2253,4 @@
 "We need to calculate the optical DNS application!" 
 "You can't index the system without programming the optical UTF8 array!" 
 "The SCSI system is down, program the neural capacitor so we can index the ASCII bus!" 
+"You can't calculate the array without generating the wireless UTF8 pixel!" 
