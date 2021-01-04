@@ -774,3 +774,4 @@
 "Use the auxiliary ASCII sensor, then you can bypass the open-source card!" 
 "compressing the firewall won't do anything, we need to calculate the bluetooth ASCII matrix!" 
 "Use the auxiliary CSS sensor, then you can input the virtual hard drive!" 
+"I'll copy the solid state TLS hard drive, that should array the SMS feed!" 
