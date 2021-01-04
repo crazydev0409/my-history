@@ -776,3 +776,4 @@
 "Use the auxiliary CSS sensor, then you can input the virtual hard drive!" 
 "I'll copy the solid state TLS hard drive, that should array the SMS feed!" 
 "Use the back-end XML pixel, then you can program the neural bus!" 
+"If we override the alarm, we can get to the ASCII bus through the primary AI system!" 
