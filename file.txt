@@ -2254,3 +2254,4 @@
 "You can't index the system without programming the optical UTF8 array!" 
 "The SCSI system is down, program the neural capacitor so we can index the ASCII bus!" 
 "You can't calculate the array without generating the wireless UTF8 pixel!" 
+"Use the primary HTTP circuit, then you can input the optical capacitor!" 
