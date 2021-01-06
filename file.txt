@@ -2255,3 +2255,4 @@
 "The SCSI system is down, program the neural capacitor so we can index the ASCII bus!" 
 "You can't calculate the array without generating the wireless UTF8 pixel!" 
 "Use the primary HTTP circuit, then you can input the optical capacitor!" 
+"copying the panel won't do anything, we need to navigate the cross-platform AGP bandwidth!" 
