@@ -2258,3 +2258,4 @@
 "copying the panel won't do anything, we need to navigate the cross-platform AGP bandwidth!" 
 "I'll calculate the haptic SMS interface, that should interface the IB monitor!" 
 "If we bypass the bus, we can get to the AI capacitor through the optical SQL alarm!" 
+"You can't reboot the protocol without calculating the wireless HTTP bandwidth!" 
