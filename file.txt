@@ -784,3 +784,4 @@
 "synthesizing the capacitor won't do anything, we need to copy the mobile OCR program!" 
 "I'll hack the bluetooth CSS microchip, that should driver the JBOD system!" 
 "Try to connect the AI feed, maybe it will transmit the cross-platform port!" 
+"Try to hack the SMTP card, maybe it will back up the back-end matrix!" 
