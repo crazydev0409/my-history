@@ -782,3 +782,4 @@
 "hacking the hard drive won't do anything, we need to copy the 1080p ADP driver!" 
 "We need to connect the online XSS program!" 
 "synthesizing the capacitor won't do anything, we need to copy the mobile OCR program!" 
+"I'll hack the bluetooth CSS microchip, that should driver the JBOD system!" 
