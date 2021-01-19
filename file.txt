@@ -785,3 +785,4 @@
 "I'll hack the bluetooth CSS microchip, that should driver the JBOD system!" 
 "Try to connect the AI feed, maybe it will transmit the cross-platform port!" 
 "Try to hack the SMTP card, maybe it will back up the back-end matrix!" 
+"Use the virtual CSS monitor, then you can transmit the auxiliary hard drive!" 
