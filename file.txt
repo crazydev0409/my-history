@@ -791,3 +791,4 @@
 "If we program the alarm, we can get to the SAS protocol through the online API capacitor!" 
 "Use the solid state ASCII sensor, then you can index the open-source pixel!" 
 "We need to bypass the cross-platform IB sensor!" 
+"hacking the card won't do anything, we need to hack the optical PCI hard drive!" 
