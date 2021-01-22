@@ -794,3 +794,4 @@
 "hacking the card won't do anything, we need to hack the optical PCI hard drive!" 
 "Use the open-source API bandwidth, then you can reboot the mobile transmitter!" 
 "indexing the panel won't do anything, we need to back up the optical GB bandwidth!" 
+"Use the solid state ADP pixel, then you can input the multi-byte driver!" 
