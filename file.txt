@@ -795,3 +795,4 @@
 "Use the open-source API bandwidth, then you can reboot the mobile transmitter!" 
 "indexing the panel won't do anything, we need to back up the optical GB bandwidth!" 
 "Use the solid state ADP pixel, then you can input the multi-byte driver!" 
+"You can't bypass the pixel without transmitting the open-source AI circuit!" 
