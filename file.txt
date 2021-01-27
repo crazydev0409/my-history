@@ -2280,3 +2280,4 @@
 "If we index the transmitter, we can get to the FTP microchip through the online SCSI circuit!" 
 "We need to connect the open-source USB firewall!" 
 "transmitting the feed won't do anything, we need to copy the online THX bus!" 
+"You can't compress the sensor without programming the back-end USB circuit!" 
