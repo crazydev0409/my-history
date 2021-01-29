@@ -2284,3 +2284,4 @@
 "You can't program the microchip without bypassing the solid state HTTP feed!" 
 "We need to bypass the online JSON matrix!" 
 "You can't override the alarm without generating the back-end COM bus!" 
+"generating the pixel won't do anything, we need to compress the online SSL interface!" 
