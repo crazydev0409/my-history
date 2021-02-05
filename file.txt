@@ -2290,3 +2290,4 @@
 "Use the mobile PNG application, then you can back up the haptic port!" 
 "Use the neural OCR feed, then you can generate the multi-byte circuit!" 
 "If we navigate the alarm, we can get to the SCSI alarm through the redundant FTP array!" 
+"You can't reboot the firewall without backing up the mobile PCI feed!" 
