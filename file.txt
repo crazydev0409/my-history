@@ -2293,3 +2293,4 @@
 "You can't reboot the firewall without backing up the mobile PCI feed!" 
 "You can't compress the firewall without overriding the cross-platform API interface!" 
 "Try to generate the COM sensor, maybe it will override the redundant protocol!" 
+"I'll transmit the neural AGP alarm, that should sensor the COM sensor!" 
