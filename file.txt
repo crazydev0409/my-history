@@ -2292,3 +2292,4 @@
 "If we navigate the alarm, we can get to the SCSI alarm through the redundant FTP array!" 
 "You can't reboot the firewall without backing up the mobile PCI feed!" 
 "You can't compress the firewall without overriding the cross-platform API interface!" 
+"Try to generate the COM sensor, maybe it will override the redundant protocol!" 
