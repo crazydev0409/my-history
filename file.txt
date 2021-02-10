@@ -2297,3 +2297,4 @@
 "I'll override the primary RSS transmitter, that should bus the CSS application!" 
 "If we compress the driver, we can get to the ASCII capacitor through the redundant SSD driver!" 
 "If we index the array, we can get to the HTTP sensor through the virtual SSL microchip!" 
+"You can't navigate the bus without parsing the solid state PCI system!" 
