@@ -810,3 +810,4 @@
 "We need to input the optical EXE feed!" 
 "quantifying the bandwidth won't do anything, we need to input the 1080p DNS system!" 
 "I'll navigate the bluetooth CSS capacitor, that should program the CLI feed!" 
+"You can't connect the transmitter without hacking the mobile HTTP matrix!" 
