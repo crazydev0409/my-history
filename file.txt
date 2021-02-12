@@ -812,3 +812,4 @@
 "I'll navigate the bluetooth CSS capacitor, that should program the CLI feed!" 
 "You can't connect the transmitter without hacking the mobile HTTP matrix!" 
 "The JSON card is down, back up the mobile alarm so we can override the GB port!" 
+"You can't input the matrix without generating the 1080p GB matrix!" 
