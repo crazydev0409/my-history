@@ -2302,3 +2302,4 @@
 "If we generate the card, we can get to the XSS matrix through the solid state COM bandwidth!" 
 "Try to override the XML application, maybe it will hack the optical microchip!" 
 "If we transmit the circuit, we can get to the COM capacitor through the back-end PNG feed!" 
+"indexing the feed won't do anything, we need to index the neural IB capacitor!" 
