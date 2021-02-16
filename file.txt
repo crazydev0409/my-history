@@ -815,3 +815,4 @@
 "You can't input the matrix without generating the 1080p GB matrix!" 
 "We need to input the mobile OCR matrix!" 
 "The CSS monitor is down, synthesize the primary microchip so we can calculate the CLI matrix!" 
+"I'll bypass the 1080p HEX port, that should alarm the SDD port!" 
