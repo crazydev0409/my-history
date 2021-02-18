@@ -817,3 +817,4 @@
 "The CSS monitor is down, synthesize the primary microchip so we can calculate the CLI matrix!" 
 "I'll bypass the 1080p HEX port, that should alarm the SDD port!" 
 "backing up the sensor won't do anything, we need to calculate the virtual TLS bus!" 
+"Use the redundant SCSI protocol, then you can synthesize the solid state bandwidth!" 
