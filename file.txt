@@ -820,3 +820,4 @@
 "Use the redundant SCSI protocol, then you can synthesize the solid state bandwidth!" 
 "I'll generate the haptic GB microchip, that should array the ADP system!" 
 "Use the optical SMS circuit, then you can parse the digital program!" 
+"You can't back up the bandwidth without programming the cross-platform SDD hard drive!" 
