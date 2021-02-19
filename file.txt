@@ -821,3 +821,4 @@
 "I'll generate the haptic GB microchip, that should array the ADP system!" 
 "Use the optical SMS circuit, then you can parse the digital program!" 
 "You can't back up the bandwidth without programming the cross-platform SDD hard drive!" 
+"calculating the array won't do anything, we need to hack the primary USB bandwidth!" 
