@@ -2312,3 +2312,4 @@
 "The EXE circuit is down, connect the multi-byte program so we can connect the JBOD hard drive!" 
 "I'll hack the wireless JSON application, that should interface the ASCII port!" 
 "Try to bypass the VGA circuit, maybe it will bypass the online circuit!" 
+"If we copy the driver, we can get to the COM program through the neural HEX bus!" 
