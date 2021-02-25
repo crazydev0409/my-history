@@ -2313,3 +2313,4 @@
 "I'll hack the wireless JSON application, that should interface the ASCII port!" 
 "Try to bypass the VGA circuit, maybe it will bypass the online circuit!" 
 "If we copy the driver, we can get to the COM program through the neural HEX bus!" 
+"I'll parse the back-end CSS panel, that should card the AI array!" 
