@@ -2314,3 +2314,4 @@
 "Try to bypass the VGA circuit, maybe it will bypass the online circuit!" 
 "If we copy the driver, we can get to the COM program through the neural HEX bus!" 
 "I'll parse the back-end CSS panel, that should card the AI array!" 
+"You can't generate the capacitor without generating the mobile SAS port!" 
