@@ -2326,3 +2326,4 @@
 "programming the port won't do anything, we need to index the neural PCI panel!" 
 "Try to input the PCI firewall, maybe it will bypass the multi-byte port!" 
 "If we compress the feed, we can get to the HDD microchip through the neural XML protocol!" 
+"Try to hack the COM array, maybe it will generate the neural driver!" 
