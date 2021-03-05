@@ -2328,3 +2328,4 @@
 "If we compress the feed, we can get to the HDD microchip through the neural XML protocol!" 
 "Try to hack the COM array, maybe it will generate the neural driver!" 
 "The AI alarm is down, transmit the cross-platform firewall so we can override the EXE array!" 
+"I'll back up the primary RAM card, that should firewall the PNG port!" 
