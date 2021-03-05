@@ -835,3 +835,4 @@
 "I'll calculate the neural FTP interface, that should bandwidth the ASCII feed!" 
 "I'll connect the 1080p DRAM bus, that should matrix the EXE port!" 
 "I'll bypass the auxiliary RAM capacitor, that should interface the IB alarm!" 
+"If we navigate the bandwidth, we can get to the IP microchip through the back-end RAM hard drive!" 
