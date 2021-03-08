@@ -838,3 +838,4 @@
 "If we navigate the bandwidth, we can get to the IP microchip through the back-end RAM hard drive!" 
 "compressing the bandwidth won't do anything, we need to override the virtual USB monitor!" 
 "We need to program the back-end IP hard drive!" 
+"If we connect the alarm, we can get to the EXE matrix through the virtual IB circuit!" 
