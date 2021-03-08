@@ -840,3 +840,4 @@
 "We need to program the back-end IP hard drive!" 
 "If we connect the alarm, we can get to the EXE matrix through the virtual IB circuit!" 
 "If we reboot the hard drive, we can get to the AI protocol through the digital UDP driver!" 
+"I'll compress the solid state ASCII alarm, that should interface the GB bus!" 
