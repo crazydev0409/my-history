@@ -2337,3 +2337,4 @@
 "Use the back-end EXE microchip, then you can parse the cross-platform firewall!" 
 "If we connect the microchip, we can get to the DNS sensor through the bluetooth HEX hard drive!" 
 "Use the mobile HTTP microchip, then you can navigate the mobile bus!" 
+"Try to synthesize the DNS system, maybe it will reboot the optical interface!" 
