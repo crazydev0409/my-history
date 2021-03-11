@@ -2339,3 +2339,4 @@
 "Use the mobile HTTP microchip, then you can navigate the mobile bus!" 
 "Try to synthesize the DNS system, maybe it will reboot the optical interface!" 
 "You can't copy the microchip without synthesizing the bluetooth CSS capacitor!" 
+"parsing the protocol won't do anything, we need to program the open-source API card!" 
