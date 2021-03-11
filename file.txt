@@ -843,3 +843,4 @@
 "I'll compress the solid state ASCII alarm, that should interface the GB bus!" 
 "If we program the array, we can get to the XSS driver through the haptic JBOD circuit!" 
 "If we quantify the port, we can get to the TCP pixel through the digital ASCII panel!" 
+"I'll compress the multi-byte HEX circuit, that should transmitter the DRAM bus!" 
