@@ -841,3 +841,4 @@
 "If we connect the alarm, we can get to the EXE matrix through the virtual IB circuit!" 
 "If we reboot the hard drive, we can get to the AI protocol through the digital UDP driver!" 
 "I'll compress the solid state ASCII alarm, that should interface the GB bus!" 
+"If we program the array, we can get to the XSS driver through the haptic JBOD circuit!" 
