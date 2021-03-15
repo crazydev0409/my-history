@@ -2341,3 +2341,4 @@
 "You can't copy the microchip without synthesizing the bluetooth CSS capacitor!" 
 "parsing the protocol won't do anything, we need to program the open-source API card!" 
 "backing up the alarm won't do anything, we need to synthesize the optical DRAM hard drive!" 
+"You can't quantify the feed without programming the haptic ASCII capacitor!" 
