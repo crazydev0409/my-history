@@ -2347,3 +2347,4 @@
 "The HTTP circuit is down, connect the online port so we can index the AGP panel!" 
 "You can't generate the hard drive without compressing the back-end DRAM alarm!" 
 "You can't parse the protocol without copying the auxiliary CSS circuit!" 
+"Try to back up the GB sensor, maybe it will quantify the 1080p card!" 
