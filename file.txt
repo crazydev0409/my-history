@@ -2346,3 +2346,4 @@
 "Try to navigate the OCR transmitter, maybe it will parse the optical capacitor!" 
 "The HTTP circuit is down, connect the online port so we can index the AGP panel!" 
 "You can't generate the hard drive without compressing the back-end DRAM alarm!" 
+"You can't parse the protocol without copying the auxiliary CSS circuit!" 
