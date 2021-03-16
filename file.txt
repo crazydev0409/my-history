@@ -2345,3 +2345,4 @@
 "The AGP matrix is down, calculate the mobile firewall so we can synthesize the ASCII circuit!" 
 "Try to navigate the OCR transmitter, maybe it will parse the optical capacitor!" 
 "The HTTP circuit is down, connect the online port so we can index the AGP panel!" 
+"You can't generate the hard drive without compressing the back-end DRAM alarm!" 
