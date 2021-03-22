@@ -853,3 +853,4 @@
 "The SMS circuit is down, navigate the back-end pixel so we can navigate the SCSI hard drive!" 
 "I'll compress the bluetooth COM hard drive, that should driver the CSS monitor!" 
 "You can't connect the program without bypassing the online CSS interface!" 
+"Use the redundant XML interface, then you can hack the 1080p matrix!" 
