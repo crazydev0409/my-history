@@ -861,3 +861,4 @@
 "You can't parse the matrix without bypassing the back-end THX sensor!" 
 "I'll copy the 1080p CLI driver, that should interface the EXE alarm!" 
 "The UDP feed is down, copy the virtual circuit so we can program the IB system!" 
+"We need to bypass the online JBOD pixel!" 
