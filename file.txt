@@ -864,3 +864,4 @@
 "We need to bypass the online JBOD pixel!" 
 "indexing the application won't do anything, we need to parse the 1080p AGP firewall!" 
 "We need to bypass the cross-platform SAS application!" 
+"Try to generate the OCR application, maybe it will program the redundant application!" 
