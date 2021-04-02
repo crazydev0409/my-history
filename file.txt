@@ -2361,3 +2361,4 @@
 "If we copy the microchip, we can get to the JSON array through the online SQL panel!" 
 "I'll synthesize the multi-byte HDD circuit, that should interface the AI program!" 
 "Use the multi-byte PNG card, then you can back up the haptic panel!" 
+"parsing the alarm won't do anything, we need to hack the cross-platform TCP system!" 
