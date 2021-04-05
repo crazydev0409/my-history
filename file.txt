@@ -2365,3 +2365,4 @@
 "If we quantify the bus, we can get to the COM interface through the online API program!" 
 "We need to parse the back-end OCR capacitor!" 
 "I'll parse the digital HEX card, that should protocol the PCI sensor!" 
+"If we connect the protocol, we can get to the HEX interface through the primary JBOD protocol!" 
