@@ -873,3 +873,4 @@
 "backing up the array won't do anything, we need to index the auxiliary SQL bus!" 
 "hacking the panel won't do anything, we need to synthesize the solid state IB driver!" 
 "I'll hack the digital AGP bus, that should capacitor the SAS hard drive!" 
+"You can't compress the alarm without connecting the bluetooth FTP card!" 
