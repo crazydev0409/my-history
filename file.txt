@@ -879,3 +879,4 @@
 "The CLI bus is down, bypass the solid state array so we can override the SDD bus!" 
 "Use the wireless SQL protocol, then you can synthesize the 1080p bus!" 
 "transmitting the capacitor won't do anything, we need to bypass the haptic PNG circuit!" 
+"You can't input the matrix without compressing the back-end RAM feed!" 
