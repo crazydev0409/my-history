@@ -2376,3 +2376,4 @@
 "If we bypass the bus, we can get to the TLS pixel through the digital RSS transmitter!" 
 "If we override the card, we can get to the SQL bandwidth through the online SCSI hard drive!" 
 "We need to transmit the redundant API circuit!" 
+"You can't hack the transmitter without generating the neural HEX application!" 
