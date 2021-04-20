@@ -2379,3 +2379,4 @@
 "You can't hack the transmitter without generating the neural HEX application!" 
 "If we generate the protocol, we can get to the OCR hard drive through the redundant AGP microchip!" 
 "You can't transmit the system without compressing the digital TCP bus!" 
+"You can't bypass the array without transmitting the solid state THX protocol!" 
