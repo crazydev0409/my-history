@@ -2382,3 +2382,4 @@
 "You can't bypass the array without transmitting the solid state THX protocol!" 
 "You can't reboot the firewall without programming the mobile TCP array!" 
 "You can't bypass the monitor without bypassing the haptic SAS protocol!" 
+"We need to back up the online PNG pixel!" 
