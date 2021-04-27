@@ -2389,3 +2389,4 @@
 "Use the bluetooth IP array, then you can compress the online hard drive!" 
 "If we override the capacitor, we can get to the SQL alarm through the auxiliary TCP monitor!" 
 "You can't override the array without overriding the virtual SAS firewall!" 
+"Try to override the API system, maybe it will back up the haptic port!" 
