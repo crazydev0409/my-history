@@ -889,3 +889,4 @@
 "transmitting the bus won't do anything, we need to compress the 1080p SMTP sensor!" 
 "You can't reboot the pixel without programming the haptic IP hard drive!" 
 "hacking the interface won't do anything, we need to calculate the multi-byte VGA panel!" 
+"connecting the protocol won't do anything, we need to override the online SMS driver!" 
