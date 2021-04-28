@@ -891,3 +891,4 @@
 "hacking the interface won't do anything, we need to calculate the multi-byte VGA panel!" 
 "connecting the protocol won't do anything, we need to override the online SMS driver!" 
 "Use the redundant SQL matrix, then you can override the back-end firewall!" 
+"Try to connect the TLS interface, maybe it will hack the digital card!" 
