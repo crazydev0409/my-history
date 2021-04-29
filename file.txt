@@ -892,3 +892,4 @@
 "connecting the protocol won't do anything, we need to override the online SMS driver!" 
 "Use the redundant SQL matrix, then you can override the back-end firewall!" 
 "Try to connect the TLS interface, maybe it will hack the digital card!" 
+"You can't reboot the hard drive without hacking the bluetooth UTF8 sensor!" 
