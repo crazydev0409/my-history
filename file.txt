@@ -2391,3 +2391,4 @@
 "You can't override the array without overriding the virtual SAS firewall!" 
 "Try to override the API system, maybe it will back up the haptic port!" 
 "We need to reboot the digital FTP hard drive!" 
+"We need to index the optical SCSI transmitter!" 
