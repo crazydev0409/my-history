@@ -2390,3 +2390,4 @@
 "If we override the capacitor, we can get to the SQL alarm through the auxiliary TCP monitor!" 
 "You can't override the array without overriding the virtual SAS firewall!" 
 "Try to override the API system, maybe it will back up the haptic port!" 
+"We need to reboot the digital FTP hard drive!" 
