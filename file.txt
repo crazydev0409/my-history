@@ -895,3 +895,4 @@
 "You can't reboot the hard drive without hacking the bluetooth UTF8 sensor!" 
 "Use the multi-byte JSON feed, then you can calculate the mobile panel!" 
 "Try to synthesize the COM card, maybe it will navigate the multi-byte transmitter!" 
+"We need to parse the online SMTP feed!" 
