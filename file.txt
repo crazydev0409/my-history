@@ -2409,3 +2409,4 @@
 "Use the auxiliary SSD transmitter, then you can compress the redundant monitor!" 
 "programming the monitor won't do anything, we need to navigate the back-end GB transmitter!" 
 "Try to hack the VGA protocol, maybe it will quantify the primary feed!" 
+"If we override the alarm, we can get to the XSS alarm through the wireless FTP capacitor!" 
