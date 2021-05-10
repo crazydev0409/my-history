@@ -899,3 +899,4 @@
 "If we calculate the panel, we can get to the COM alarm through the 1080p COM microchip!" 
 "You can't index the card without transmitting the multi-byte PCI transmitter!" 
 "Try to index the DRAM card, maybe it will compress the neural monitor!" 
+"The THX circuit is down, bypass the open-source panel so we can connect the SMS transmitter!" 
