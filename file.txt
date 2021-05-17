@@ -2423,3 +2423,4 @@
 "The XSS panel is down, parse the redundant interface so we can quantify the CSS pixel!" 
 "Try to index the USB pixel, maybe it will transmit the auxiliary sensor!" 
 "I'll generate the back-end CSS card, that should protocol the SMS system!" 
+"Use the auxiliary RAM card, then you can navigate the open-source transmitter!" 
