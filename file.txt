@@ -2426,3 +2426,4 @@
 "Use the auxiliary RAM card, then you can navigate the open-source transmitter!" 
 "Use the bluetooth SQL array, then you can parse the open-source sensor!" 
 "You can't compress the alarm without transmitting the open-source UDP hard drive!" 
+"You can't connect the matrix without connecting the online PCI program!" 
