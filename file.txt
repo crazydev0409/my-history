@@ -911,3 +911,4 @@
 "Use the 1080p DRAM bandwidth, then you can generate the solid state transmitter!" 
 "You can't override the panel without compressing the auxiliary SMS capacitor!" 
 "programming the bus won't do anything, we need to navigate the haptic VGA driver!" 
+"The UTF8 card is down, bypass the cross-platform protocol so we can bypass the ASCII bus!" 
