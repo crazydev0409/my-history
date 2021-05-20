@@ -2425,3 +2425,4 @@
 "I'll generate the back-end CSS card, that should protocol the SMS system!" 
 "Use the auxiliary RAM card, then you can navigate the open-source transmitter!" 
 "Use the bluetooth SQL array, then you can parse the open-source sensor!" 
+"You can't compress the alarm without transmitting the open-source UDP hard drive!" 
