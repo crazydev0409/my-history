@@ -910,3 +910,4 @@
 "Try to bypass the RAM port, maybe it will program the solid state pixel!" 
 "Use the 1080p DRAM bandwidth, then you can generate the solid state transmitter!" 
 "You can't override the panel without compressing the auxiliary SMS capacitor!" 
+"programming the bus won't do anything, we need to navigate the haptic VGA driver!" 
