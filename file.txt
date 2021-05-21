@@ -2431,3 +2431,4 @@
 "programming the pixel won't do anything, we need to synthesize the mobile CSS monitor!" 
 "If we program the array, we can get to the VGA card through the haptic XML driver!" 
 "Use the primary UDP matrix, then you can transmit the primary transmitter!" 
+"Use the primary USB card, then you can bypass the back-end card!" 
