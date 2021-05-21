@@ -2429,3 +2429,4 @@
 "You can't connect the matrix without connecting the online PCI program!" 
 "I'll navigate the solid state RSS interface, that should hard drive the ASCII protocol!" 
 "programming the pixel won't do anything, we need to synthesize the mobile CSS monitor!" 
+"If we program the array, we can get to the VGA card through the haptic XML driver!" 
