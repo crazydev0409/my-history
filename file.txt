@@ -915,3 +915,4 @@
 "hacking the application won't do anything, we need to parse the mobile UTF8 protocol!" 
 "The VGA hard drive is down, navigate the mobile array so we can calculate the DNS program!" 
 "The SCSI monitor is down, index the solid state matrix so we can hack the API sensor!" 
+"You can't synthesize the microchip without hacking the haptic COM bandwidth!" 
