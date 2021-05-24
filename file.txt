@@ -913,3 +913,4 @@
 "programming the bus won't do anything, we need to navigate the haptic VGA driver!" 
 "The UTF8 card is down, bypass the cross-platform protocol so we can bypass the ASCII bus!" 
 "hacking the application won't do anything, we need to parse the mobile UTF8 protocol!" 
+"The VGA hard drive is down, navigate the mobile array so we can calculate the DNS program!" 
