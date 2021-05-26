@@ -917,3 +917,4 @@
 "The SCSI monitor is down, index the solid state matrix so we can hack the API sensor!" 
 "You can't synthesize the microchip without hacking the haptic COM bandwidth!" 
 "Use the back-end JSON card, then you can parse the multi-byte alarm!" 
+"If we override the driver, we can get to the IP transmitter through the wireless HTTP capacitor!" 
