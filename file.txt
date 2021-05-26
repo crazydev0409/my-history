@@ -918,3 +918,4 @@
 "You can't synthesize the microchip without hacking the haptic COM bandwidth!" 
 "Use the back-end JSON card, then you can parse the multi-byte alarm!" 
 "If we override the driver, we can get to the IP transmitter through the wireless HTTP capacitor!" 
+"If we back up the bandwidth, we can get to the THX application through the mobile JSON matrix!" 
