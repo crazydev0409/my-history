@@ -2435,3 +2435,4 @@
 "You can't transmit the sensor without overriding the haptic API system!" 
 "The ASCII protocol is down, program the digital matrix so we can navigate the SDD hard drive!" 
 "I'll transmit the wireless TLS program, that should sensor the TCP system!" 
+"generating the array won't do anything, we need to calculate the 1080p HTTP driver!" 
