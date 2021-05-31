@@ -920,3 +920,4 @@
 "If we override the driver, we can get to the IP transmitter through the wireless HTTP capacitor!" 
 "If we back up the bandwidth, we can get to the THX application through the mobile JSON matrix!" 
 "Use the haptic SQL transmitter, then you can index the open-source monitor!" 
+"hacking the application won't do anything, we need to parse the 1080p GB bus!" 
