@@ -924,3 +924,4 @@
 "You can't bypass the capacitor without indexing the solid state VGA application!" 
 "compressing the driver won't do anything, we need to parse the auxiliary JBOD matrix!" 
 "If we override the card, we can get to the XSS microchip through the multi-byte AGP sensor!" 
+"The SSL array is down, parse the 1080p panel so we can connect the ASCII circuit!" 
