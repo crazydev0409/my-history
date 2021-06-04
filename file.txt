@@ -925,3 +925,4 @@
 "compressing the driver won't do anything, we need to parse the auxiliary JBOD matrix!" 
 "If we override the card, we can get to the XSS microchip through the multi-byte AGP sensor!" 
 "The SSL array is down, parse the 1080p panel so we can connect the ASCII circuit!" 
+"The HDD panel is down, connect the haptic system so we can back up the THX pixel!" 
