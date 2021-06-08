@@ -929,3 +929,4 @@
 "You can't compress the matrix without parsing the wireless JBOD application!" 
 "I'll generate the 1080p IB feed, that should microchip the SSL port!" 
 "If we reboot the array, we can get to the IP pixel through the virtual SSL bus!" 
+"We need to connect the virtual UTF8 array!" 
