@@ -931,3 +931,4 @@
 "If we reboot the array, we can get to the IP pixel through the virtual SSL bus!" 
 "We need to connect the virtual UTF8 array!" 
 "Try to quantify the API alarm, maybe it will override the back-end transmitter!" 
+"Use the solid state FTP port, then you can reboot the haptic system!" 
