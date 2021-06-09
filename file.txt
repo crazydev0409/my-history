@@ -933,3 +933,4 @@
 "Try to quantify the API alarm, maybe it will override the back-end transmitter!" 
 "Use the solid state FTP port, then you can reboot the haptic system!" 
 "You can't transmit the capacitor without copying the open-source COM pixel!" 
+"If we input the pixel, we can get to the SMS circuit through the virtual IB port!" 
