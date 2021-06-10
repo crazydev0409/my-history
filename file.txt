@@ -2446,3 +2446,4 @@
 "The IP array is down, reboot the bluetooth panel so we can parse the UTF8 driver!" 
 "I'll connect the haptic FTP system, that should hard drive the HDD port!" 
 "If we program the hard drive, we can get to the SMTP alarm through the optical SCSI driver!" 
+"I'll back up the mobile EXE program, that should interface the SMTP monitor!" 
