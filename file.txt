@@ -935,3 +935,4 @@
 "You can't transmit the capacitor without copying the open-source COM pixel!" 
 "If we input the pixel, we can get to the SMS circuit through the virtual IB port!" 
 "connecting the application won't do anything, we need to input the redundant ADP program!" 
+"Try to compress the EXE hard drive, maybe it will override the multi-byte matrix!" 
