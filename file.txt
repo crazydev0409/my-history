@@ -937,3 +937,4 @@
 "connecting the application won't do anything, we need to input the redundant ADP program!" 
 "Try to compress the EXE hard drive, maybe it will override the multi-byte matrix!" 
 "Use the redundant FTP application, then you can hack the bluetooth bus!" 
+"Try to hack the OCR driver, maybe it will reboot the haptic sensor!" 
