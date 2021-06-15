@@ -2449,3 +2449,4 @@
 "I'll back up the mobile EXE program, that should interface the SMTP monitor!" 
 "We need to override the primary AI protocol!" 
 "The RSS alarm is down, reboot the auxiliary feed so we can connect the HTTP array!" 
+"If we bypass the panel, we can get to the SAS program through the online SSD port!" 
