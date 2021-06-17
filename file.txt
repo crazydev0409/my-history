@@ -944,3 +944,4 @@
 "The API driver is down, index the haptic circuit so we can override the ASCII transmitter!" 
 "We need to input the virtual CSS monitor!" 
 "Use the back-end SDD monitor, then you can navigate the cross-platform circuit!" 
+"If we reboot the bus, we can get to the CSS sensor through the open-source UDP panel!" 
