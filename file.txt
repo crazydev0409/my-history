@@ -943,3 +943,4 @@
 "connecting the application won't do anything, we need to connect the digital UDP firewall!" 
 "The API driver is down, index the haptic circuit so we can override the ASCII transmitter!" 
 "We need to input the virtual CSS monitor!" 
+"Use the back-end SDD monitor, then you can navigate the cross-platform circuit!" 
