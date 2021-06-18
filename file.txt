@@ -2451,3 +2451,4 @@
 "The RSS alarm is down, reboot the auxiliary feed so we can connect the HTTP array!" 
 "If we bypass the panel, we can get to the SAS program through the online SSD port!" 
 "The TCP program is down, reboot the bluetooth protocol so we can compress the JSON feed!" 
+"synthesizing the program won't do anything, we need to input the haptic RAM circuit!" 
