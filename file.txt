@@ -2454,3 +2454,4 @@
 "synthesizing the program won't do anything, we need to input the haptic RAM circuit!" 
 "We need to navigate the auxiliary DRAM system!" 
 "calculating the transmitter won't do anything, we need to connect the optical THX driver!" 
+"Try to copy the PNG card, maybe it will bypass the back-end microchip!" 
