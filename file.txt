@@ -2453,3 +2453,4 @@
 "The TCP program is down, reboot the bluetooth protocol so we can compress the JSON feed!" 
 "synthesizing the program won't do anything, we need to input the haptic RAM circuit!" 
 "We need to navigate the auxiliary DRAM system!" 
+"calculating the transmitter won't do anything, we need to connect the optical THX driver!" 
