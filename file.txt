@@ -2456,3 +2456,4 @@
 "calculating the transmitter won't do anything, we need to connect the optical THX driver!" 
 "Try to copy the PNG card, maybe it will bypass the back-end microchip!" 
 "Try to copy the JBOD pixel, maybe it will program the optical firewall!" 
+"copying the panel won't do anything, we need to transmit the redundant SMS port!" 
