@@ -955,3 +955,4 @@
 "You can't index the monitor without programming the digital CLI sensor!" 
 "You can't quantify the monitor without bypassing the digital IB feed!" 
 "You can't calculate the feed without bypassing the redundant USB firewall!" 
+"I'll synthesize the back-end CLI card, that should application the TLS bus!" 
