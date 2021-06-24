@@ -956,3 +956,4 @@
 "You can't quantify the monitor without bypassing the digital IB feed!" 
 "You can't calculate the feed without bypassing the redundant USB firewall!" 
 "I'll synthesize the back-end CLI card, that should application the TLS bus!" 
+"You can't reboot the card without backing up the haptic SAS firewall!" 
