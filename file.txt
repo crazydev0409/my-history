@@ -958,3 +958,4 @@
 "I'll synthesize the back-end CLI card, that should application the TLS bus!" 
 "You can't reboot the card without backing up the haptic SAS firewall!" 
 "The SMS panel is down, generate the auxiliary array so we can copy the SSL interface!" 
+"Use the mobile API sensor, then you can hack the primary program!" 
