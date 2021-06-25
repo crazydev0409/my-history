@@ -2457,3 +2457,4 @@
 "Try to copy the PNG card, maybe it will bypass the back-end microchip!" 
 "Try to copy the JBOD pixel, maybe it will program the optical firewall!" 
 "copying the panel won't do anything, we need to transmit the redundant SMS port!" 
+"I'll connect the primary SCSI capacitor, that should program the UDP microchip!" 
