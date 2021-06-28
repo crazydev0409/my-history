@@ -2460,3 +2460,4 @@
 "I'll connect the primary SCSI capacitor, that should program the UDP microchip!" 
 "I'll connect the online JBOD panel, that should bus the SMS sensor!" 
 "Use the redundant THX microchip, then you can index the primary microchip!" 
+"Use the digital DRAM port, then you can program the back-end capacitor!" 
