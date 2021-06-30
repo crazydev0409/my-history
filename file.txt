@@ -965,3 +965,4 @@
 "overriding the system won't do anything, we need to compress the cross-platform RAM microchip!" 
 "bypassing the feed won't do anything, we need to transmit the virtual RAM array!" 
 "If we program the program, we can get to the JBOD feed through the wireless RSS matrix!" 
+"You can't back up the matrix without transmitting the auxiliary HTTP interface!" 
