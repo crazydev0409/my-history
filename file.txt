@@ -2465,3 +2465,4 @@
 "If we parse the program, we can get to the SSD monitor through the primary THX firewall!" 
 "We need to parse the primary SSL system!" 
 "Try to parse the IP array, maybe it will bypass the virtual alarm!" 
+"You can't hack the array without indexing the open-source FTP microchip!" 
