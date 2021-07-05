@@ -2473,3 +2473,4 @@
 "The COM hard drive is down, back up the neural circuit so we can index the EXE system!" 
 "Use the wireless RAM interface, then you can input the auxiliary protocol!" 
 "The HDD firewall is down, index the wireless circuit so we can copy the SSL transmitter!" 
+"connecting the matrix won't do anything, we need to calculate the bluetooth SCSI protocol!" 
