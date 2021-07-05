@@ -967,3 +967,4 @@
 "If we program the program, we can get to the JBOD feed through the wireless RSS matrix!" 
 "You can't back up the matrix without transmitting the auxiliary HTTP interface!" 
 "Try to bypass the PCI firewall, maybe it will input the cross-platform matrix!" 
+"We need to input the bluetooth PCI card!" 
