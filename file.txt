@@ -973,3 +973,4 @@
 "You can't override the bandwidth without backing up the bluetooth AI pixel!" 
 "We need to navigate the multi-byte RSS port!" 
 "backing up the protocol won't do anything, we need to synthesize the optical OCR card!" 
+"backing up the driver won't do anything, we need to override the solid state RSS port!" 
