@@ -975,3 +975,4 @@
 "backing up the protocol won't do anything, we need to synthesize the optical OCR card!" 
 "backing up the driver won't do anything, we need to override the solid state RSS port!" 
 "transmitting the feed won't do anything, we need to calculate the virtual JBOD microchip!" 
+"You can't reboot the bandwidth without copying the open-source UDP firewall!" 
