@@ -2481,3 +2481,4 @@
 "You can't connect the port without calculating the online XSS alarm!" 
 "You can't hack the panel without quantifying the wireless CLI driver!" 
 "Use the optical DRAM panel, then you can input the bluetooth transmitter!" 
+"If we parse the driver, we can get to the EXE panel through the digital UDP card!" 
