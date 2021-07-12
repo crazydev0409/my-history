@@ -2482,3 +2482,4 @@
 "You can't hack the panel without quantifying the wireless CLI driver!" 
 "Use the optical DRAM panel, then you can input the bluetooth transmitter!" 
 "If we parse the driver, we can get to the EXE panel through the digital UDP card!" 
+"We need to transmit the 1080p RAM sensor!" 
