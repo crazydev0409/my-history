@@ -982,3 +982,4 @@
 "You can't calculate the driver without calculating the digital UTF8 feed!" 
 "bypassing the matrix won't do anything, we need to program the optical SSD monitor!" 
 "If we synthesize the sensor, we can get to the HDD firewall through the virtual SQL bus!" 
+"Try to bypass the EXE pixel, maybe it will connect the virtual panel!" 
