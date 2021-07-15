@@ -983,3 +983,4 @@
 "bypassing the matrix won't do anything, we need to program the optical SSD monitor!" 
 "If we synthesize the sensor, we can get to the HDD firewall through the virtual SQL bus!" 
 "Try to bypass the EXE pixel, maybe it will connect the virtual panel!" 
+"I'll index the virtual CSS driver, that should alarm the HDD hard drive!" 
