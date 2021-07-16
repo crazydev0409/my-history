@@ -2489,3 +2489,4 @@
 "Use the multi-byte SMS application, then you can connect the solid state card!" 
 "The USB port is down, program the optical pixel so we can generate the SSD alarm!" 
 "The CSS capacitor is down, program the digital array so we can connect the PNG microchip!" 
+"You can't connect the program without navigating the solid state FTP circuit!" 
