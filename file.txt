@@ -988,3 +988,4 @@
 "Use the optical GB capacitor, then you can hack the wireless interface!" 
 "Try to transmit the HDD driver, maybe it will index the neural monitor!" 
 "You can't copy the port without calculating the back-end CLI protocol!" 
+"I'll connect the primary TCP system, that should transmitter the HDD feed!" 
