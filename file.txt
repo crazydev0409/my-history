@@ -989,3 +989,4 @@
 "Try to transmit the HDD driver, maybe it will index the neural monitor!" 
 "You can't copy the port without calculating the back-end CLI protocol!" 
 "I'll connect the primary TCP system, that should transmitter the HDD feed!" 
+"bypassing the system won't do anything, we need to back up the online JBOD hard drive!" 
