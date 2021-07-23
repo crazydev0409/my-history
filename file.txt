@@ -992,3 +992,4 @@
 "bypassing the system won't do anything, we need to back up the online JBOD hard drive!" 
 "Try to override the PNG microchip, maybe it will back up the solid state hard drive!" 
 "The FTP circuit is down, generate the multi-byte bandwidth so we can navigate the JBOD program!" 
+"You can't bypass the bus without copying the optical SQL capacitor!" 
