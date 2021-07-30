@@ -997,3 +997,4 @@
 "We need to generate the redundant UDP port!" 
 "Use the primary IB port, then you can calculate the open-source port!" 
 "We need to calculate the bluetooth OCR microchip!" 
+"generating the driver won't do anything, we need to synthesize the haptic DRAM interface!" 
