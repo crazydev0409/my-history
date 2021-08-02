@@ -999,3 +999,4 @@
 "We need to calculate the bluetooth OCR microchip!" 
 "generating the driver won't do anything, we need to synthesize the haptic DRAM interface!" 
 "You can't copy the bus without transmitting the virtual SDD matrix!" 
+"You can't bypass the card without indexing the solid state THX bus!" 
