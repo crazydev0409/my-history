@@ -1002,3 +1002,4 @@
 "You can't bypass the card without indexing the solid state THX bus!" 
 "The GB interface is down, program the wireless card so we can back up the JSON monitor!" 
 "programming the system won't do anything, we need to bypass the wireless SQL alarm!" 
+"You can't calculate the application without quantifying the neural DRAM hard drive!" 
