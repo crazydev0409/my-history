@@ -1003,3 +1003,4 @@
 "The GB interface is down, program the wireless card so we can back up the JSON monitor!" 
 "programming the system won't do anything, we need to bypass the wireless SQL alarm!" 
 "You can't calculate the application without quantifying the neural DRAM hard drive!" 
+"We need to generate the mobile SMS card!" 
