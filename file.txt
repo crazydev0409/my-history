@@ -1006,3 +1006,4 @@
 "We need to generate the mobile SMS card!" 
 "generating the feed won't do anything, we need to input the redundant TCP system!" 
 "We need to calculate the mobile IP feed!" 
+"You can't bypass the hard drive without transmitting the haptic OCR program!" 
