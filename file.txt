@@ -1010,3 +1010,4 @@
 "generating the protocol won't do anything, we need to back up the redundant DNS circuit!" 
 "You can't back up the firewall without synthesizing the optical ASCII system!" 
 "I'll quantify the primary SAS bandwidth, that should alarm the THX sensor!" 
+"We need to hack the multi-byte HDD firewall!" 
