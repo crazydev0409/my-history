@@ -2522,3 +2522,4 @@
 "The DNS protocol is down, hack the digital pixel so we can input the SAS driver!" 
 "I'll copy the online SCSI protocol, that should driver the USB bus!" 
 "The UDP alarm is down, generate the online array so we can back up the SSD pixel!" 
+"If we input the hard drive, we can get to the FTP bus through the online SMTP pixel!" 
