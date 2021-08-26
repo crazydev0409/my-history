@@ -2526,3 +2526,4 @@
 "We need to bypass the wireless THX panel!" 
 "I'll override the primary ADP interface, that should circuit the SMS card!" 
 "I'll bypass the neural THX system, that should port the HEX transmitter!" 
+"The CLI firewall is down, compress the digital capacitor so we can override the HDD feed!" 
