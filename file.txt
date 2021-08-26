@@ -2525,3 +2525,4 @@
 "If we input the hard drive, we can get to the FTP bus through the online SMTP pixel!" 
 "We need to bypass the wireless THX panel!" 
 "I'll override the primary ADP interface, that should circuit the SMS card!" 
+"I'll bypass the neural THX system, that should port the HEX transmitter!" 
