@@ -1025,3 +1025,4 @@
 "You can't navigate the transmitter without backing up the virtual SMTP protocol!" 
 "We need to hack the optical PNG application!" 
 "Try to hack the HEX capacitor, maybe it will quantify the digital array!" 
+"The VGA microchip is down, transmit the auxiliary interface so we can hack the CSS driver!" 
