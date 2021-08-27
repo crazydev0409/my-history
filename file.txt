@@ -1029,3 +1029,4 @@
 "The FTP pixel is down, index the cross-platform circuit so we can calculate the RSS circuit!" 
 "The EXE monitor is down, navigate the multi-byte sensor so we can generate the HEX interface!" 
 "bypassing the capacitor won't do anything, we need to input the mobile API sensor!" 
+"You can't back up the monitor without copying the auxiliary USB transmitter!" 
