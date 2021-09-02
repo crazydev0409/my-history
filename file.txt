@@ -1035,3 +1035,4 @@
 "copying the hard drive won't do anything, we need to compress the wireless HEX feed!" 
 "Try to hack the XSS hard drive, maybe it will quantify the cross-platform port!" 
 "You can't navigate the pixel without copying the back-end OCR card!" 
+"Use the auxiliary USB application, then you can hack the auxiliary bus!" 
