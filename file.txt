@@ -2534,3 +2534,4 @@
 "backing up the port won't do anything, we need to copy the wireless SSD monitor!" 
 "We need to quantify the back-end DRAM feed!" 
 "The XSS bus is down, connect the virtual bus so we can bypass the DNS microchip!" 
+"You can't quantify the hard drive without quantifying the optical SSL protocol!" 
