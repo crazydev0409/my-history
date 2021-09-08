@@ -2536,3 +2536,4 @@
 "The XSS bus is down, connect the virtual bus so we can bypass the DNS microchip!" 
 "You can't quantify the hard drive without quantifying the optical SSL protocol!" 
 "synthesizing the capacitor won't do anything, we need to copy the digital IB monitor!" 
+"If we connect the array, we can get to the DNS matrix through the wireless DRAM microchip!" 
