@@ -1038,3 +1038,4 @@
 "Use the auxiliary USB application, then you can hack the auxiliary bus!" 
 "Try to generate the TLS monitor, maybe it will program the optical matrix!" 
 "navigating the hard drive won't do anything, we need to navigate the solid state CSS matrix!" 
+"We need to copy the 1080p SMTP system!" 
