@@ -1042,3 +1042,4 @@
 "synthesizing the application won't do anything, we need to bypass the bluetooth XSS panel!" 
 "If we navigate the circuit, we can get to the FTP feed through the redundant SCSI alarm!" 
 "The JBOD matrix is down, connect the cross-platform card so we can calculate the RAM program!" 
+"You can't reboot the program without overriding the back-end EXE feed!" 
