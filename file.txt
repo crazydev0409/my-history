@@ -2545,3 +2545,4 @@
 "overriding the bus won't do anything, we need to program the 1080p JSON bandwidth!" 
 "The DRAM bus is down, synthesize the digital bandwidth so we can calculate the SAS feed!" 
 "You can't override the feed without copying the back-end TCP hard drive!" 
+"You can't compress the interface without indexing the virtual SDD application!" 
