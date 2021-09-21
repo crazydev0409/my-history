@@ -1056,3 +1056,4 @@
 "We need to hack the haptic RAM bus!" 
 "I'll back up the neural COM application, that should application the ASCII microchip!" 
 "Try to hack the JSON array, maybe it will input the digital monitor!" 
+"overriding the bus won't do anything, we need to index the digital RSS sensor!" 
