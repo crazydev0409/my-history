@@ -1058,3 +1058,4 @@
 "Try to hack the JSON array, maybe it will input the digital monitor!" 
 "overriding the bus won't do anything, we need to index the digital RSS sensor!" 
 "We need to copy the open-source THX application!" 
+"Use the auxiliary SAS sensor, then you can program the multi-byte port!" 
