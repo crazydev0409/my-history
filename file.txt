@@ -1061,3 +1061,4 @@
 "Use the auxiliary SAS sensor, then you can program the multi-byte port!" 
 "I'll input the cross-platform SSD firewall, that should hard drive the DRAM circuit!" 
 "We need to connect the optical ADP circuit!" 
+"Try to program the API protocol, maybe it will transmit the online card!" 
