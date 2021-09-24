@@ -2559,3 +2559,4 @@
 "bypassing the protocol won't do anything, we need to copy the mobile SSL card!" 
 "If we connect the pixel, we can get to the PNG firewall through the online HDD monitor!" 
 "I'll reboot the online PNG capacitor, that should protocol the IB feed!" 
+"I'll back up the virtual IP circuit, that should alarm the PCI bandwidth!" 
