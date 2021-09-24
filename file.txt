@@ -1063,3 +1063,4 @@
 "We need to connect the optical ADP circuit!" 
 "Try to program the API protocol, maybe it will transmit the online card!" 
 "Try to reboot the SMS hard drive, maybe it will index the online circuit!" 
+"You can't back up the card without copying the neural JSON panel!" 
