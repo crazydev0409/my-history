@@ -1067,3 +1067,4 @@
 "We need to quantify the virtual THX transmitter!" 
 "We need to reboot the cross-platform GB array!" 
 "I'll calculate the wireless THX application, that should port the IP application!" 
+"I'll quantify the solid state DNS hard drive, that should matrix the DNS circuit!" 
