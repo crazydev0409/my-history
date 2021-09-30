@@ -1069,3 +1069,4 @@
 "I'll calculate the wireless THX application, that should port the IP application!" 
 "I'll quantify the solid state DNS hard drive, that should matrix the DNS circuit!" 
 "You can't reboot the sensor without quantifying the back-end TLS pixel!" 
+"You can't generate the system without connecting the back-end GB microchip!" 
