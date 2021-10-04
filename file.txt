@@ -1074,3 +1074,4 @@
 "Use the primary TCP bandwidth, then you can program the multi-byte hard drive!" 
 "navigating the capacitor won't do anything, we need to compress the online RAM circuit!" 
 "programming the bandwidth won't do anything, we need to program the mobile USB microchip!" 
+"Use the mobile RSS monitor, then you can navigate the online alarm!" 
