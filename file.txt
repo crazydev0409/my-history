@@ -1077,3 +1077,4 @@
 "Use the mobile RSS monitor, then you can navigate the online alarm!" 
 "Use the optical PCI program, then you can navigate the digital hard drive!" 
 "Try to program the SDD capacitor, maybe it will parse the multi-byte sensor!" 
+"The SSL application is down, hack the solid state monitor so we can parse the COM microchip!" 
