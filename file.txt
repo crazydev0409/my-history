@@ -1076,3 +1076,4 @@
 "programming the bandwidth won't do anything, we need to program the mobile USB microchip!" 
 "Use the mobile RSS monitor, then you can navigate the online alarm!" 
 "Use the optical PCI program, then you can navigate the digital hard drive!" 
+"Try to program the SDD capacitor, maybe it will parse the multi-byte sensor!" 
