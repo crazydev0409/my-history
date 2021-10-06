@@ -2570,3 +2570,4 @@
 "The SCSI pixel is down, parse the mobile monitor so we can compress the UTF8 matrix!" 
 "If we input the firewall, we can get to the SSL sensor through the multi-byte SQL feed!" 
 "Use the open-source CLI interface, then you can hack the cross-platform feed!" 
+"You can't bypass the monitor without compressing the redundant IB array!" 
