@@ -1084,3 +1084,4 @@
 "navigating the bandwidth won't do anything, we need to bypass the haptic PCI port!" 
 "Try to override the ADP port, maybe it will copy the optical circuit!" 
 "Use the cross-platform TCP matrix, then you can compress the auxiliary pixel!" 
+"Use the optical TCP protocol, then you can program the back-end circuit!" 
