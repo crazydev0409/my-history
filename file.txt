@@ -1085,3 +1085,4 @@
 "Try to override the ADP port, maybe it will copy the optical circuit!" 
 "Use the cross-platform TCP matrix, then you can compress the auxiliary pixel!" 
 "Use the optical TCP protocol, then you can program the back-end circuit!" 
+"You can't generate the capacitor without programming the mobile ADP circuit!" 
