@@ -2574,3 +2574,4 @@
 "calculating the bus won't do anything, we need to navigate the online DRAM program!" 
 "I'll transmit the back-end SMS firewall, that should protocol the COM hard drive!" 
 "calculating the monitor won't do anything, we need to index the optical COM hard drive!" 
+"If we quantify the capacitor, we can get to the SSL driver through the optical THX circuit!" 
