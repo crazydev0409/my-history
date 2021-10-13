@@ -2580,3 +2580,4 @@
 "You can't override the system without overriding the digital ADP bandwidth!" 
 "Use the neural EXE hard drive, then you can bypass the digital bandwidth!" 
 "You can't parse the capacitor without calculating the primary ASCII sensor!" 
+"If we reboot the hard drive, we can get to the SAS firewall through the auxiliary JBOD card!" 
