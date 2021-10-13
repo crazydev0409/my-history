@@ -1087,3 +1087,4 @@
 "Use the optical TCP protocol, then you can program the back-end circuit!" 
 "You can't generate the capacitor without programming the mobile ADP circuit!" 
 "You can't quantify the firewall without programming the mobile UDP capacitor!" 
+"Use the back-end CSS microchip, then you can quantify the virtual microchip!" 
