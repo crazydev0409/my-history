@@ -2583,3 +2583,4 @@
 "If we reboot the hard drive, we can get to the SAS firewall through the auxiliary JBOD card!" 
 "I'll synthesize the 1080p XML bandwidth, that should application the JSON microchip!" 
 "I'll override the virtual SAS protocol, that should program the HDD circuit!" 
+"We need to hack the cross-platform AGP transmitter!" 
