@@ -1100,3 +1100,4 @@
 "Use the solid state SQL monitor, then you can hack the digital microchip!" 
 "The ADP panel is down, parse the virtual monitor so we can compress the JSON driver!" 
 "Try to override the PCI array, maybe it will copy the auxiliary panel!" 
+"You can't reboot the firewall without parsing the optical COM microchip!" 
