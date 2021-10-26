@@ -1099,3 +1099,4 @@
 "If we back up the sensor, we can get to the API microchip through the mobile CLI firewall!" 
 "Use the solid state SQL monitor, then you can hack the digital microchip!" 
 "The ADP panel is down, parse the virtual monitor so we can compress the JSON driver!" 
+"Try to override the PCI array, maybe it will copy the auxiliary panel!" 
