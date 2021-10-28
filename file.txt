@@ -1104,3 +1104,4 @@
 "The API circuit is down, connect the redundant protocol so we can navigate the CLI monitor!" 
 "Try to reboot the EXE application, maybe it will calculate the cross-platform feed!" 
 "compressing the interface won't do anything, we need to connect the redundant XSS matrix!" 
+"The PCI circuit is down, hack the auxiliary panel so we can program the AGP sensor!" 
