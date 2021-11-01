@@ -1107,3 +1107,4 @@
 "The PCI circuit is down, hack the auxiliary panel so we can program the AGP sensor!" 
 "indexing the card won't do anything, we need to generate the wireless HEX program!" 
 "Try to transmit the AGP protocol, maybe it will parse the haptic alarm!" 
+"I'll override the solid state CSS driver, that should panel the ASCII transmitter!" 
