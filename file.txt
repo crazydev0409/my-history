@@ -1108,3 +1108,4 @@
 "indexing the card won't do anything, we need to generate the wireless HEX program!" 
 "Try to transmit the AGP protocol, maybe it will parse the haptic alarm!" 
 "I'll override the solid state CSS driver, that should panel the ASCII transmitter!" 
+"If we navigate the monitor, we can get to the THX array through the auxiliary SAS protocol!" 
