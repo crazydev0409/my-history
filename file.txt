@@ -1113,3 +1113,4 @@
 "I'll reboot the bluetooth UTF8 capacitor, that should monitor the THX protocol!" 
 "If we calculate the microchip, we can get to the IP feed through the optical SDD interface!" 
 "We need to reboot the wireless SSL program!" 
+"Use the optical JBOD alarm, then you can hack the bluetooth microchip!" 
