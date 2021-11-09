@@ -2606,3 +2606,4 @@
 "If we connect the feed, we can get to the HTTP port through the virtual UDP monitor!" 
 "Use the auxiliary GB matrix, then you can input the primary capacitor!" 
 "The XML monitor is down, hack the open-source microchip so we can copy the OCR program!" 
+"If we hack the matrix, we can get to the ADP capacitor through the mobile SQL bandwidth!" 
