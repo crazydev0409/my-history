@@ -2609,3 +2609,4 @@
 "If we hack the matrix, we can get to the ADP capacitor through the mobile SQL bandwidth!" 
 "You can't generate the capacitor without hacking the bluetooth COM transmitter!" 
 "We need to back up the back-end TLS transmitter!" 
+"If we compress the alarm, we can get to the SMS bus through the primary DRAM bus!" 
