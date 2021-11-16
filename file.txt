@@ -1130,3 +1130,4 @@
 "The DNS bandwidth is down, input the auxiliary panel so we can navigate the JBOD system!" 
 "Use the bluetooth FTP firewall, then you can hack the mobile panel!" 
 "We need to connect the redundant USB card!" 
+"You can't calculate the driver without overriding the 1080p DRAM circuit!" 
