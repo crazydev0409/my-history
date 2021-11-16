@@ -2611,3 +2611,4 @@
 "We need to back up the back-end TLS transmitter!" 
 "If we compress the alarm, we can get to the SMS bus through the primary DRAM bus!" 
 "We need to index the solid state SCSI firewall!" 
+"Use the back-end UDP sensor, then you can compress the multi-byte transmitter!" 
