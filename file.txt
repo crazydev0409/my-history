@@ -2612,3 +2612,4 @@
 "If we compress the alarm, we can get to the SMS bus through the primary DRAM bus!" 
 "We need to index the solid state SCSI firewall!" 
 "Use the back-end UDP sensor, then you can compress the multi-byte transmitter!" 
+"If we reboot the driver, we can get to the XSS port through the online PCI array!" 
