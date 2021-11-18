@@ -1135,3 +1135,4 @@
 "We need to back up the back-end TCP firewall!" 
 "I'll copy the redundant SSD monitor, that should bandwidth the PCI firewall!" 
 "Use the redundant PNG transmitter, then you can copy the mobile panel!" 
+"You can't calculate the pixel without programming the auxiliary PNG bus!" 
