@@ -2619,3 +2619,4 @@
 "Try to override the COM circuit, maybe it will index the optical panel!" 
 "You can't transmit the monitor without indexing the wireless SAS alarm!" 
 "If we back up the capacitor, we can get to the API system through the digital XSS program!" 
+"You can't index the application without overriding the online AI port!" 
