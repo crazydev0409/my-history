@@ -2617,3 +2617,4 @@
 "We need to reboot the 1080p RAM circuit!" 
 "Try to reboot the AGP application, maybe it will synthesize the digital microchip!" 
 "Try to override the COM circuit, maybe it will index the optical panel!" 
+"You can't transmit the monitor without indexing the wireless SAS alarm!" 
