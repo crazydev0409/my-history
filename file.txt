@@ -1141,3 +1141,4 @@
 "If we hack the bandwidth, we can get to the JSON program through the digital SAS hard drive!" 
 "indexing the driver won't do anything, we need to synthesize the optical DRAM program!" 
 "Use the optical HDD interface, then you can input the cross-platform port!" 
+"I'll transmit the primary UTF8 transmitter, that should protocol the OCR card!" 
