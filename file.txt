@@ -1151,3 +1151,4 @@
 "synthesizing the capacitor won't do anything, we need to bypass the haptic AI panel!" 
 "We need to synthesize the cross-platform PNG bus!" 
 "Use the cross-platform OCR port, then you can input the wireless panel!" 
+"I'll override the redundant GB bus, that should firewall the XML interface!" 
