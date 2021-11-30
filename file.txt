@@ -1153,3 +1153,4 @@
 "Use the cross-platform OCR port, then you can input the wireless panel!" 
 "I'll override the redundant GB bus, that should firewall the XML interface!" 
 "The ADP protocol is down, back up the virtual application so we can synthesize the HEX bus!" 
+"You can't connect the microchip without parsing the neural DRAM bandwidth!" 
