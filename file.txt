@@ -2634,3 +2634,4 @@
 "We need to input the solid state SMS transmitter!" 
 "bypassing the pixel won't do anything, we need to program the cross-platform CSS driver!" 
 "If we quantify the panel, we can get to the XML driver through the primary IP hard drive!" 
+"Use the auxiliary CSS matrix, then you can reboot the digital card!" 
