@@ -1155,3 +1155,4 @@
 "The ADP protocol is down, back up the virtual application so we can synthesize the HEX bus!" 
 "You can't connect the microchip without parsing the neural DRAM bandwidth!" 
 "synthesizing the system won't do anything, we need to override the neural PNG protocol!" 
+"The SCSI alarm is down, program the digital feed so we can generate the DNS application!" 
