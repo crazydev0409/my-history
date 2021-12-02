@@ -1154,3 +1154,4 @@
 "I'll override the redundant GB bus, that should firewall the XML interface!" 
 "The ADP protocol is down, back up the virtual application so we can synthesize the HEX bus!" 
 "You can't connect the microchip without parsing the neural DRAM bandwidth!" 
+"synthesizing the system won't do anything, we need to override the neural PNG protocol!" 
