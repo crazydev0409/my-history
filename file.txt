@@ -2635,3 +2635,4 @@
 "bypassing the pixel won't do anything, we need to program the cross-platform CSS driver!" 
 "If we quantify the panel, we can get to the XML driver through the primary IP hard drive!" 
 "Use the auxiliary CSS matrix, then you can reboot the digital card!" 
+"navigating the card won't do anything, we need to index the haptic SDD microchip!" 
