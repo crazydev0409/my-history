@@ -2638,3 +2638,4 @@
 "navigating the card won't do anything, we need to index the haptic SDD microchip!" 
 "You can't reboot the capacitor without navigating the multi-byte CLI driver!" 
 "You can't generate the capacitor without generating the neural UTF8 pixel!" 
+"programming the capacitor won't do anything, we need to reboot the primary DNS port!" 
