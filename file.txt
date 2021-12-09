@@ -2640,3 +2640,4 @@
 "You can't generate the capacitor without generating the neural UTF8 pixel!" 
 "programming the capacitor won't do anything, we need to reboot the primary DNS port!" 
 "The HDD interface is down, copy the redundant firewall so we can synthesize the JBOD program!" 
+"We need to copy the online JSON capacitor!" 
