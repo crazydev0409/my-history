@@ -2646,3 +2646,4 @@
 "If we connect the transmitter, we can get to the ASCII system through the virtual TCP monitor!" 
 "I'll quantify the virtual IP monitor, that should card the OCR feed!" 
 "The DRAM firewall is down, generate the redundant port so we can quantify the JBOD alarm!" 
+"Use the solid state ADP hard drive, then you can navigate the multi-byte transmitter!" 
