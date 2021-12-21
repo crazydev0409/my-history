@@ -2651,3 +2651,4 @@
 "I'll index the primary HEX alarm, that should circuit the PCI bandwidth!" 
 "compressing the firewall won't do anything, we need to generate the open-source PCI microchip!" 
 "I'll bypass the digital AI sensor, that should microchip the SMS feed!" 
+"You can't synthesize the card without generating the digital TCP array!" 
