@@ -1174,3 +1174,4 @@
 "If we program the alarm, we can get to the DRAM interface through the auxiliary CLI alarm!" 
 "I'll copy the haptic COM transmitter, that should alarm the PNG hard drive!" 
 "Use the redundant PNG circuit, then you can calculate the haptic application!" 
+"You can't navigate the panel without synthesizing the wireless GB sensor!" 
