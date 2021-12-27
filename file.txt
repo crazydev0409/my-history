@@ -1178,3 +1178,4 @@
 "The AI array is down, index the haptic pixel so we can quantify the IP circuit!" 
 "The SSL hard drive is down, calculate the open-source interface so we can transmit the RSS monitor!" 
 "I'll back up the digital XML bus, that should program the AGP hard drive!" 
+"Use the open-source XML panel, then you can hack the open-source alarm!" 
