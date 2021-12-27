@@ -2656,3 +2656,4 @@
 "Try to reboot the SSL transmitter, maybe it will reboot the virtual matrix!" 
 "You can't override the microchip without generating the bluetooth THX port!" 
 "I'll program the primary UDP microchip, that should pixel the THX bandwidth!" 
+"You can't reboot the transmitter without parsing the online SAS alarm!" 
