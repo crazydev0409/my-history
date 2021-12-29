@@ -2658,3 +2658,4 @@
 "I'll program the primary UDP microchip, that should pixel the THX bandwidth!" 
 "You can't reboot the transmitter without parsing the online SAS alarm!" 
 "connecting the alarm won't do anything, we need to parse the online SAS interface!" 
+"Use the multi-byte EXE protocol, then you can synthesize the mobile card!" 
