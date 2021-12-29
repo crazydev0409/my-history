@@ -2659,3 +2659,4 @@
 "You can't reboot the transmitter without parsing the online SAS alarm!" 
 "connecting the alarm won't do anything, we need to parse the online SAS interface!" 
 "Use the multi-byte EXE protocol, then you can synthesize the mobile card!" 
+"You can't back up the monitor without quantifying the primary DNS port!" 
