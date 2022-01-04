@@ -2660,3 +2660,4 @@
 "connecting the alarm won't do anything, we need to parse the online SAS interface!" 
 "Use the multi-byte EXE protocol, then you can synthesize the mobile card!" 
 "You can't back up the monitor without quantifying the primary DNS port!" 
+"The SSD alarm is down, parse the redundant protocol so we can reboot the SCSI system!" 
