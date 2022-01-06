@@ -2662,3 +2662,4 @@
 "You can't back up the monitor without quantifying the primary DNS port!" 
 "The SSD alarm is down, parse the redundant protocol so we can reboot the SCSI system!" 
 "bypassing the interface won't do anything, we need to reboot the virtual SSD pixel!" 
+"You can't reboot the driver without backing up the solid state AGP matrix!" 
