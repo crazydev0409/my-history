@@ -2669,3 +2669,4 @@
 "You can't input the firewall without connecting the multi-byte XML panel!" 
 "Try to navigate the IB system, maybe it will quantify the primary bandwidth!" 
 "synthesizing the interface won't do anything, we need to generate the auxiliary ADP panel!" 
+"synthesizing the port won't do anything, we need to generate the auxiliary GB monitor!" 
