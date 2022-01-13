@@ -2671,3 +2671,4 @@
 "synthesizing the interface won't do anything, we need to generate the auxiliary ADP panel!" 
 "synthesizing the port won't do anything, we need to generate the auxiliary GB monitor!" 
 "If we back up the card, we can get to the RAM sensor through the haptic TLS port!" 
+"We need to calculate the wireless CLI interface!" 
