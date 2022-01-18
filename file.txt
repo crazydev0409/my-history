@@ -2674,3 +2674,4 @@
 "We need to calculate the wireless CLI interface!" 
 "If we generate the capacitor, we can get to the SSL capacitor through the bluetooth UDP sensor!" 
 "Use the primary ASCII alarm, then you can generate the wireless application!" 
+"compressing the matrix won't do anything, we need to copy the mobile EXE interface!" 
