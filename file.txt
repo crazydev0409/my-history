@@ -2686,3 +2686,4 @@
 "Use the virtual FTP program, then you can hack the auxiliary feed!" 
 "I'll transmit the neural GB transmitter, that should interface the DRAM sensor!" 
 "bypassing the matrix won't do anything, we need to connect the neural HEX card!" 
+"If we program the alarm, we can get to the SQL microchip through the optical SAS hard drive!" 
