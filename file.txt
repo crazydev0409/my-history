@@ -2691,3 +2691,4 @@
 "I'll program the solid state ADP bus, that should sensor the GB microchip!" 
 "You can't index the program without overriding the primary TCP panel!" 
 "Try to connect the OCR monitor, maybe it will program the optical capacitor!" 
+"synthesizing the circuit won't do anything, we need to program the wireless SDD bus!" 
