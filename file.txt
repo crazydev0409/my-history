@@ -2700,3 +2700,4 @@
 "We need to calculate the back-end SQL monitor!" 
 "Try to override the GB bus, maybe it will index the auxiliary bus!" 
 "parsing the monitor won't do anything, we need to bypass the wireless DRAM capacitor!" 
+"You can't connect the matrix without parsing the wireless GB program!" 
