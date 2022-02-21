@@ -2705,3 +2705,4 @@
 "If we copy the card, we can get to the TCP sensor through the virtual CSS system!" 
 "The THX sensor is down, input the online pixel so we can reboot the FTP feed!" 
 "I'll calculate the bluetooth JBOD matrix, that should interface the COM capacitor!" 
+"Try to synthesize the SQL alarm, maybe it will input the bluetooth bus!" 
