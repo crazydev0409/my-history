@@ -2704,3 +2704,4 @@
 "The CSS panel is down, connect the bluetooth card so we can reboot the TLS interface!" 
 "If we copy the card, we can get to the TCP sensor through the virtual CSS system!" 
 "The THX sensor is down, input the online pixel so we can reboot the FTP feed!" 
+"I'll calculate the bluetooth JBOD matrix, that should interface the COM capacitor!" 
