@@ -2718,3 +2718,4 @@
 "We need to parse the cross-platform SSL circuit!" 
 "Try to back up the RSS bus, maybe it will connect the multi-byte matrix!" 
 "Use the auxiliary THX monitor, then you can generate the wireless panel!" 
+"If we hack the bandwidth, we can get to the SMS firewall through the multi-byte AGP panel!" 
