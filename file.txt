@@ -2720,3 +2720,4 @@
 "Use the auxiliary THX monitor, then you can generate the wireless panel!" 
 "If we hack the bandwidth, we can get to the SMS firewall through the multi-byte AGP panel!" 
 "If we compress the system, we can get to the SCSI card through the virtual CSS application!" 
+"Use the optical SMTP panel, then you can quantify the open-source panel!" 
