@@ -2724,3 +2724,4 @@
 "indexing the interface won't do anything, we need to calculate the neural COM alarm!" 
 "If we bypass the application, we can get to the SCSI bandwidth through the virtual GB array!" 
 "hacking the array won't do anything, we need to program the online XML port!" 
+"I'll copy the back-end EXE application, that should panel the HDD bus!" 
