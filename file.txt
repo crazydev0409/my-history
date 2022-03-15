@@ -2725,3 +2725,4 @@
 "If we bypass the application, we can get to the SCSI bandwidth through the virtual GB array!" 
 "hacking the array won't do anything, we need to program the online XML port!" 
 "I'll copy the back-end EXE application, that should panel the HDD bus!" 
+"Try to parse the THX panel, maybe it will generate the auxiliary firewall!" 
