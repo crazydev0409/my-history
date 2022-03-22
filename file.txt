@@ -2729,3 +2729,4 @@
 "I'll synthesize the digital JBOD hard drive, that should sensor the ADP driver!" 
 "I'll quantify the digital JBOD application, that should interface the SMTP hard drive!" 
 "Try to index the XML array, maybe it will index the solid state array!" 
+"If we quantify the hard drive, we can get to the SCSI matrix through the optical JBOD panel!" 
