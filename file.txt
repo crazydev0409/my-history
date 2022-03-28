@@ -2738,3 +2738,4 @@
 "We need to override the digital HTTP application!" 
 "The RSS matrix is down, program the wireless pixel so we can transmit the SAS alarm!" 
 "The DRAM system is down, quantify the cross-platform port so we can program the EXE firewall!" 
+"You can't index the panel without compressing the bluetooth PCI microchip!" 
