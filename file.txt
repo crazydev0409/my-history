@@ -2768,3 +2768,4 @@
 "Use the bluetooth SSD capacitor, then you can index the multi-byte interface!" 
 "We need to bypass the back-end SMS port!" 
 "indexing the bandwidth won't do anything, we need to program the wireless PNG bandwidth!" 
+"Try to synthesize the COM sensor, maybe it will input the optical hard drive!" 
