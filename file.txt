@@ -2778,3 +2778,4 @@
 "Use the solid state AI alarm, then you can reboot the primary alarm!" 
 "If we back up the hard drive, we can get to the OCR microchip through the multi-byte GB bandwidth!" 
 "I'll transmit the back-end FTP driver, that should transmitter the IP hard drive!" 
+"I'll back up the primary SQL protocol, that should sensor the SQL interface!" 
