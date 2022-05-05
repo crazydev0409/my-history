@@ -2779,3 +2779,4 @@
 "If we back up the hard drive, we can get to the OCR microchip through the multi-byte GB bandwidth!" 
 "I'll transmit the back-end FTP driver, that should transmitter the IP hard drive!" 
 "I'll back up the primary SQL protocol, that should sensor the SQL interface!" 
+"I'll navigate the digital IP firewall, that should protocol the PCI interface!" 
