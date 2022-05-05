@@ -2780,3 +2780,4 @@
 "I'll transmit the back-end FTP driver, that should transmitter the IP hard drive!" 
 "I'll back up the primary SQL protocol, that should sensor the SQL interface!" 
 "I'll navigate the digital IP firewall, that should protocol the PCI interface!" 
+"The AGP microchip is down, index the primary interface so we can program the ASCII pixel!" 
