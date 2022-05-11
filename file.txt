@@ -2785,3 +2785,4 @@
 "Use the 1080p CSS matrix, then you can parse the open-source panel!" 
 "generating the panel won't do anything, we need to compress the redundant SMS bandwidth!" 
 "Use the optical RSS port, then you can program the back-end card!" 
+"Try to parse the AGP program, maybe it will connect the cross-platform array!" 
