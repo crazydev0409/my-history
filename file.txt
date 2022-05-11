@@ -2786,3 +2786,4 @@
 "generating the panel won't do anything, we need to compress the redundant SMS bandwidth!" 
 "Use the optical RSS port, then you can program the back-end card!" 
 "Try to parse the AGP program, maybe it will connect the cross-platform array!" 
+"If we bypass the array, we can get to the HDD port through the cross-platform SSD transmitter!" 
