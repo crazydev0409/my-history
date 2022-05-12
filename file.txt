@@ -2789,3 +2789,4 @@
 "If we bypass the array, we can get to the HDD port through the cross-platform SSD transmitter!" 
 "If we index the alarm, we can get to the IP program through the digital SAS microchip!" 
 "We need to quantify the 1080p UTF8 sensor!" 
+"I'll program the redundant CLI driver, that should bandwidth the SDD pixel!" 
