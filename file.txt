@@ -2787,3 +2787,4 @@
 "Use the optical RSS port, then you can program the back-end card!" 
 "Try to parse the AGP program, maybe it will connect the cross-platform array!" 
 "If we bypass the array, we can get to the HDD port through the cross-platform SSD transmitter!" 
+"If we index the alarm, we can get to the IP program through the digital SAS microchip!" 
