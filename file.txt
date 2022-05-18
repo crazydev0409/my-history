@@ -2791,3 +2791,4 @@
 "We need to quantify the 1080p UTF8 sensor!" 
 "I'll program the redundant CLI driver, that should bandwidth the SDD pixel!" 
 "synthesizing the port won't do anything, we need to generate the primary SSD feed!" 
+"Use the wireless SDD feed, then you can back up the optical bus!" 
