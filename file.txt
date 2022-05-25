@@ -2793,3 +2793,4 @@
 "synthesizing the port won't do anything, we need to generate the primary SSD feed!" 
 "Use the wireless SDD feed, then you can back up the optical bus!" 
 "The PCI circuit is down, quantify the neural system so we can override the HTTP interface!" 
+"You can't back up the program without synthesizing the wireless HEX circuit!" 
