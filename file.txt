@@ -2803,3 +2803,4 @@
 "You can't back up the transmitter without transmitting the neural AGP capacitor!" 
 "The IB alarm is down, compress the neural bandwidth so we can calculate the GB matrix!" 
 "We need to back up the digital COM protocol!" 
+"We need to copy the cross-platform SMS feed!" 
