@@ -2801,3 +2801,4 @@
 "We need to back up the multi-byte EXE bandwidth!" 
 "We need to bypass the bluetooth VGA transmitter!" 
 "You can't back up the transmitter without transmitting the neural AGP capacitor!" 
+"The IB alarm is down, compress the neural bandwidth so we can calculate the GB matrix!" 
