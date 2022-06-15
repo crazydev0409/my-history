@@ -2805,3 +2805,4 @@
 "We need to back up the digital COM protocol!" 
 "We need to copy the cross-platform SMS feed!" 
 "The USB monitor is down, connect the haptic card so we can override the PCI system!" 
+"You can't bypass the protocol without connecting the open-source FTP array!" 
