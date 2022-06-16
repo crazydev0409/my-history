@@ -2810,3 +2810,4 @@
 "You can't index the matrix without indexing the neural SMS circuit!" 
 "indexing the port won't do anything, we need to program the redundant SAS bus!" 
 "You can't copy the pixel without programming the digital CLI bandwidth!" 
+"We need to program the auxiliary SMS hard drive!" 
