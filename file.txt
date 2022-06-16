@@ -2808,3 +2808,4 @@
 "You can't bypass the protocol without connecting the open-source FTP array!" 
 "I'll program the haptic TCP protocol, that should microchip the USB program!" 
 "You can't index the matrix without indexing the neural SMS circuit!" 
+"indexing the port won't do anything, we need to program the redundant SAS bus!" 
