@@ -2807,3 +2807,4 @@
 "The USB monitor is down, connect the haptic card so we can override the PCI system!" 
 "You can't bypass the protocol without connecting the open-source FTP array!" 
 "I'll program the haptic TCP protocol, that should microchip the USB program!" 
+"You can't index the matrix without indexing the neural SMS circuit!" 
