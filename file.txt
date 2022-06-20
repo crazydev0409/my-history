@@ -2812,3 +2812,4 @@
 "You can't copy the pixel without programming the digital CLI bandwidth!" 
 "We need to program the auxiliary SMS hard drive!" 
 "You can't parse the pixel without calculating the solid state EXE hard drive!" 
+"Use the redundant EXE bandwidth, then you can reboot the redundant circuit!" 
