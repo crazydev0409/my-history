@@ -2818,3 +2818,4 @@
 "We need to program the optical RSS card!" 
 "I'll parse the solid state TCP driver, that should system the GB firewall!" 
 "I'll override the optical VGA alarm, that should protocol the SSD pixel!" 
+"If we back up the sensor, we can get to the RSS circuit through the bluetooth HTTP application!" 
