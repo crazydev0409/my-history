@@ -2817,3 +2817,4 @@
 "If we program the bandwidth, we can get to the SSL bandwidth through the auxiliary EXE driver!" 
 "We need to program the optical RSS card!" 
 "I'll parse the solid state TCP driver, that should system the GB firewall!" 
+"I'll override the optical VGA alarm, that should protocol the SSD pixel!" 
