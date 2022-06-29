@@ -2821,3 +2821,4 @@
 "If we back up the sensor, we can get to the RSS circuit through the bluetooth HTTP application!" 
 "synthesizing the port won't do anything, we need to connect the online USB program!" 
 "The HTTP bandwidth is down, compress the haptic matrix so we can copy the SAS transmitter!" 
+"You can't reboot the microchip without synthesizing the virtual XML bandwidth!" 
