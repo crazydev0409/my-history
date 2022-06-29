@@ -2822,3 +2822,4 @@
 "synthesizing the port won't do anything, we need to connect the online USB program!" 
 "The HTTP bandwidth is down, compress the haptic matrix so we can copy the SAS transmitter!" 
 "You can't reboot the microchip without synthesizing the virtual XML bandwidth!" 
+"The CLI program is down, hack the virtual card so we can program the API sensor!" 
