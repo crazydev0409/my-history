@@ -2826,3 +2826,4 @@
 "Try to navigate the TCP firewall, maybe it will calculate the solid state firewall!" 
 "You can't navigate the card without indexing the bluetooth XSS alarm!" 
 "You can't copy the pixel without generating the digital IB circuit!" 
+"You can't reboot the firewall without quantifying the 1080p SCSI driver!" 
