@@ -2827,3 +2827,4 @@
 "You can't navigate the card without indexing the bluetooth XSS alarm!" 
 "You can't copy the pixel without generating the digital IB circuit!" 
 "You can't reboot the firewall without quantifying the 1080p SCSI driver!" 
+"calculating the matrix won't do anything, we need to generate the bluetooth HEX port!" 
