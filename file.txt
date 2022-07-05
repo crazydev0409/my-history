@@ -2830,3 +2830,4 @@
 "calculating the matrix won't do anything, we need to generate the bluetooth HEX port!" 
 "Try to compress the SMTP application, maybe it will override the digital firewall!" 
 "You can't bypass the card without backing up the online USB hard drive!" 
+"I'll input the solid state IP pixel, that should bandwidth the FTP transmitter!" 
