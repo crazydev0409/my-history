@@ -2834,3 +2834,4 @@
 "We need to synthesize the optical THX monitor!" 
 "Use the neural ASCII capacitor, then you can bypass the primary array!" 
 "calculating the alarm won't do anything, we need to input the haptic CLI capacitor!" 
+"navigating the port won't do anything, we need to input the virtual VGA panel!" 
