@@ -2832,3 +2832,4 @@
 "You can't bypass the card without backing up the online USB hard drive!" 
 "I'll input the solid state IP pixel, that should bandwidth the FTP transmitter!" 
 "We need to synthesize the optical THX monitor!" 
+"Use the neural ASCII capacitor, then you can bypass the primary array!" 
