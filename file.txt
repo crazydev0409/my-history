@@ -2833,3 +2833,4 @@
 "I'll input the solid state IP pixel, that should bandwidth the FTP transmitter!" 
 "We need to synthesize the optical THX monitor!" 
 "Use the neural ASCII capacitor, then you can bypass the primary array!" 
+"calculating the alarm won't do anything, we need to input the haptic CLI capacitor!" 
