@@ -2848,3 +2848,4 @@
 "We need to hack the digital XML port!" 
 "Try to bypass the DRAM hard drive, maybe it will calculate the solid state program!" 
 "I'll transmit the virtual CLI protocol, that should circuit the THX interface!" 
+"You can't connect the port without calculating the 1080p XML monitor!" 
