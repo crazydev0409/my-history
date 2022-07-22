@@ -2854,3 +2854,4 @@
 "You can't navigate the microchip without transmitting the cross-platform CSS capacitor!" 
 "Use the bluetooth SMTP bus, then you can parse the solid state monitor!" 
 "Use the digital TLS capacitor, then you can bypass the optical transmitter!" 
+"Try to override the XSS card, maybe it will connect the optical microchip!" 
