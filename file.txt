@@ -2875,3 +2875,4 @@
 "If we bypass the firewall, we can get to the CSS application through the 1080p ASCII driver!" 
 "Use the virtual SDD transmitter, then you can calculate the multi-byte pixel!" 
 "Use the digital IB circuit, then you can transmit the virtual transmitter!" 
+"bypassing the microchip won't do anything, we need to synthesize the virtual IP firewall!" 
