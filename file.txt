@@ -2876,3 +2876,4 @@
 "Use the virtual SDD transmitter, then you can calculate the multi-byte pixel!" 
 "Use the digital IB circuit, then you can transmit the virtual transmitter!" 
 "bypassing the microchip won't do anything, we need to synthesize the virtual IP firewall!" 
+"The TCP bus is down, override the 1080p driver so we can synthesize the USB bandwidth!" 
