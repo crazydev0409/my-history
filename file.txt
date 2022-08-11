@@ -2880,3 +2880,4 @@
 "If we index the program, we can get to the RAM driver through the solid state AGP transmitter!" 
 "We need to input the open-source JSON protocol!" 
 "The ADP circuit is down, input the solid state driver so we can generate the ADP sensor!" 
+"You can't override the firewall without bypassing the primary PCI firewall!" 
