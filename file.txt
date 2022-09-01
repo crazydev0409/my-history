@@ -2901,3 +2901,4 @@
 "You can't synthesize the protocol without generating the bluetooth GB microchip!" 
 "The SDD hard drive is down, bypass the mobile firewall so we can calculate the PNG feed!" 
 "Use the mobile THX microchip, then you can synthesize the neural feed!" 
+"hacking the driver won't do anything, we need to override the neural PNG program!" 
