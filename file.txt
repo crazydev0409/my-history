@@ -2907,3 +2907,4 @@
 "I'll quantify the digital XML bandwidth, that should matrix the THX bandwidth!" 
 "We need to calculate the cross-platform THX transmitter!" 
 "Use the haptic UTF8 microchip, then you can synthesize the bluetooth bus!" 
+"parsing the driver won't do anything, we need to transmit the wireless USB program!" 
