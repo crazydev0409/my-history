@@ -2908,3 +2908,4 @@
 "We need to calculate the cross-platform THX transmitter!" 
 "Use the haptic UTF8 microchip, then you can synthesize the bluetooth bus!" 
 "parsing the driver won't do anything, we need to transmit the wireless USB program!" 
+"Use the haptic OCR feed, then you can bypass the primary application!" 
