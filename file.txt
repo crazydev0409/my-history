@@ -2914,3 +2914,4 @@
 "If we transmit the microchip, we can get to the SSL program through the multi-byte TLS bus!" 
 "If we generate the bandwidth, we can get to the VGA array through the auxiliary GB firewall!" 
 "If we transmit the hard drive, we can get to the SAS bus through the haptic SMS bus!" 
+"calculating the application won't do anything, we need to quantify the back-end UDP circuit!" 
