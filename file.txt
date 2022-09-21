@@ -2930,3 +2930,4 @@
 "I'll reboot the mobile SAS alarm, that should matrix the VGA monitor!" 
 "If we copy the sensor, we can get to the PCI driver through the back-end ADP sensor!" 
 "I'll compress the redundant AGP system, that should monitor the UTF8 feed!" 
+"Use the primary DNS application, then you can transmit the mobile protocol!" 
