@@ -2938,3 +2938,4 @@
 "connecting the transmitter won't do anything, we need to calculate the digital JSON driver!" 
 "You can't quantify the transmitter without connecting the neural EXE program!" 
 "We need to bypass the 1080p SMTP bus!" 
+"You can't back up the port without connecting the bluetooth GB system!" 
