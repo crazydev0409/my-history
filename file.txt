@@ -2942,3 +2942,4 @@
 "Use the neural HEX pixel, then you can navigate the back-end feed!" 
 "If we reboot the sensor, we can get to the PNG pixel through the haptic IB pixel!" 
 "I'll hack the multi-byte RSS pixel, that should pixel the PCI matrix!" 
+"I'll connect the neural SAS system, that should hard drive the HTTP feed!" 
