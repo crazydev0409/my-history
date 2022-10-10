@@ -2946,3 +2946,4 @@
 "The XML alarm is down, generate the virtual card so we can program the SQL application!" 
 "parsing the circuit won't do anything, we need to quantify the cross-platform AGP alarm!" 
 "I'll reboot the virtual COM pixel, that should array the AGP feed!" 
+"If we override the port, we can get to the UDP alarm through the 1080p SMTP array!" 
