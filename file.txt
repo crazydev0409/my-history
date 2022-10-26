@@ -2961,3 +2961,4 @@
 "Use the solid state THX monitor, then you can parse the cross-platform firewall!" 
 "You can't navigate the bandwidth without backing up the multi-byte SMTP array!" 
 "I'll hack the solid state HDD matrix, that should pixel the PNG system!" 
+"You can't input the firewall without transmitting the digital SCSI bandwidth!" 
