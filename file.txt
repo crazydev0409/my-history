@@ -2963,3 +2963,4 @@
 "I'll hack the solid state HDD matrix, that should pixel the PNG system!" 
 "You can't input the firewall without transmitting the digital SCSI bandwidth!" 
 "compressing the matrix won't do anything, we need to bypass the mobile IB interface!" 
+"synthesizing the firewall won't do anything, we need to transmit the bluetooth TCP feed!" 
