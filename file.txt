@@ -2962,3 +2962,4 @@
 "You can't navigate the bandwidth without backing up the multi-byte SMTP array!" 
 "I'll hack the solid state HDD matrix, that should pixel the PNG system!" 
 "You can't input the firewall without transmitting the digital SCSI bandwidth!" 
+"compressing the matrix won't do anything, we need to bypass the mobile IB interface!" 
