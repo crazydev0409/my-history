@@ -2968,3 +2968,4 @@
 "I'll override the auxiliary AI circuit, that should sensor the VGA circuit!" 
 "If we program the monitor, we can get to the OCR bus through the optical COM array!" 
 "If we connect the microchip, we can get to the HDD protocol through the back-end EXE port!" 
+"Try to parse the THX card, maybe it will reboot the auxiliary capacitor!" 
