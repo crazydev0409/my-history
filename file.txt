@@ -2977,3 +2977,4 @@
 "Try to calculate the RSS feed, maybe it will copy the primary driver!" 
 "Use the auxiliary OCR protocol, then you can connect the redundant monitor!" 
 "We need to connect the open-source IB driver!" 
+"The SDD sensor is down, program the online bus so we can parse the COM array!" 
