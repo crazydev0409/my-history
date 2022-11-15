@@ -2982,3 +2982,4 @@
 "We need to quantify the bluetooth EXE protocol!" 
 "The SCSI monitor is down, override the primary sensor so we can parse the XSS driver!" 
 "I'll connect the primary XML transmitter, that should system the SSL matrix!" 
+"Try to parse the USB card, maybe it will hack the back-end matrix!" 
