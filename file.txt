@@ -2984,3 +2984,4 @@
 "I'll connect the primary XML transmitter, that should system the SSL matrix!" 
 "Try to parse the USB card, maybe it will hack the back-end matrix!" 
 "You can't parse the card without copying the redundant HTTP monitor!" 
+"The TCP protocol is down, reboot the haptic pixel so we can compress the UDP pixel!" 
