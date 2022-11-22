@@ -2994,3 +2994,4 @@
 "Use the bluetooth SSD bandwidth, then you can connect the multi-byte circuit!" 
 "Use the optical DNS interface, then you can parse the auxiliary protocol!" 
 "We need to bypass the multi-byte PCI feed!" 
+"copying the driver won't do anything, we need to program the bluetooth HDD program!" 
