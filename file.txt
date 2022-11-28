@@ -3002,3 +3002,4 @@
 "You can't back up the circuit without quantifying the back-end PNG firewall!" 
 "Use the solid state API monitor, then you can override the multi-byte panel!" 
 "We need to parse the wireless XML driver!" 
+"Try to bypass the RAM array, maybe it will synthesize the virtual bus!" 
