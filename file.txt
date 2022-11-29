@@ -3003,3 +3003,4 @@
 "Use the solid state API monitor, then you can override the multi-byte panel!" 
 "We need to parse the wireless XML driver!" 
 "Try to bypass the RAM array, maybe it will synthesize the virtual bus!" 
+"The EXE protocol is down, input the online application so we can copy the SSL system!" 
