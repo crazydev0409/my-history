@@ -3005,3 +3005,4 @@
 "Try to bypass the RAM array, maybe it will synthesize the virtual bus!" 
 "The EXE protocol is down, input the online application so we can copy the SSL system!" 
 "I'll back up the bluetooth CSS feed, that should array the CLI circuit!" 
+"You can't synthesize the circuit without compressing the wireless AGP driver!" 
