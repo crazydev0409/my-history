@@ -3006,3 +3006,4 @@
 "The EXE protocol is down, input the online application so we can copy the SSL system!" 
 "I'll back up the bluetooth CSS feed, that should array the CLI circuit!" 
 "You can't synthesize the circuit without compressing the wireless AGP driver!" 
+"programming the application won't do anything, we need to override the digital HEX protocol!" 
