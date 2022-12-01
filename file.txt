@@ -3011,3 +3011,4 @@
 "You can't parse the application without synthesizing the wireless RSS bus!" 
 "connecting the bus won't do anything, we need to navigate the auxiliary SSD port!" 
 "You can't parse the transmitter without programming the haptic FTP port!" 
+"Try to generate the HTTP hard drive, maybe it will connect the auxiliary panel!" 
