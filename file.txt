@@ -3013,3 +3013,4 @@
 "You can't parse the transmitter without programming the haptic FTP port!" 
 "Try to generate the HTTP hard drive, maybe it will connect the auxiliary panel!" 
 "If we hack the system, we can get to the AI transmitter through the wireless SMTP feed!" 
+"We need to copy the cross-platform FTP matrix!" 
