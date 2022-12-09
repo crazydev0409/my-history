@@ -3022,3 +3022,4 @@
 "copying the monitor won't do anything, we need to copy the 1080p JSON feed!" 
 "We need to quantify the primary HTTP matrix!" 
 "You can't copy the protocol without backing up the open-source IB sensor!" 
+"If we program the pixel, we can get to the SSL port through the solid state HTTP feed!" 
