@@ -3047,3 +3047,4 @@
 "We need to index the haptic EXE interface!" 
 "If we override the feed, we can get to the USB card through the 1080p XML application!" 
 "calculating the sensor won't do anything, we need to bypass the multi-byte JBOD matrix!" 
+"Use the open-source SMTP card, then you can parse the haptic application!" 
