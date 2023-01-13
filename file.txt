@@ -3049,3 +3049,4 @@
 "calculating the sensor won't do anything, we need to bypass the multi-byte JBOD matrix!" 
 "Use the open-source SMTP card, then you can parse the haptic application!" 
 "The ADP application is down, reboot the virtual bus so we can reboot the SMS hard drive!" 
+"We need to parse the virtual COM bus!" 
