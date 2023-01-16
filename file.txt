@@ -3051,3 +3051,4 @@
 "The ADP application is down, reboot the virtual bus so we can reboot the SMS hard drive!" 
 "We need to parse the virtual COM bus!" 
 "If we connect the sensor, we can get to the JSON sensor through the multi-byte FTP card!" 
+"The DNS card is down, program the mobile monitor so we can hack the HEX sensor!" 
