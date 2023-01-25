@@ -3061,3 +3061,4 @@
 "The HDD system is down, copy the neural system so we can override the USB capacitor!" 
 "Try to program the JSON hard drive, maybe it will compress the primary hard drive!" 
 "If we connect the monitor, we can get to the ASCII program through the multi-byte TLS microchip!" 
+"We need to transmit the auxiliary HDD system!" 
