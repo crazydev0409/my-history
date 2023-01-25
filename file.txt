@@ -3063,3 +3063,4 @@
 "If we connect the monitor, we can get to the ASCII program through the multi-byte TLS microchip!" 
 "We need to transmit the auxiliary HDD system!" 
 "I'll transmit the haptic EXE firewall, that should array the API matrix!" 
+"If we bypass the monitor, we can get to the GB system through the 1080p TLS system!" 
