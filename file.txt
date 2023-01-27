@@ -3067,3 +3067,4 @@
 "calculating the hard drive won't do anything, we need to index the auxiliary SCSI transmitter!" 
 "I'll index the neural CLI matrix, that should card the PCI alarm!" 
 "If we index the program, we can get to the JBOD capacitor through the digital ASCII firewall!" 
+"The SSD transmitter is down, generate the online card so we can hack the HEX monitor!" 
