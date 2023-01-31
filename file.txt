@@ -3071,3 +3071,4 @@
 "We need to calculate the online UTF8 microchip!" 
 "If we back up the array, we can get to the SAS microchip through the solid state SMTP capacitor!" 
 "calculating the pixel won't do anything, we need to connect the wireless CLI bus!" 
+"Use the back-end GB alarm, then you can hack the neural microchip!" 
