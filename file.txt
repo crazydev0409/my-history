@@ -3081,3 +3081,4 @@
 "compressing the program won't do anything, we need to generate the solid state ASCII array!" 
 "Use the optical VGA transmitter, then you can navigate the digital array!" 
 "I'll navigate the bluetooth SSL matrix, that should card the ASCII bandwidth!" 
+"Try to compress the SMTP monitor, maybe it will program the optical monitor!" 
