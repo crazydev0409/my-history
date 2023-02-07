@@ -3079,3 +3079,4 @@
 "The FTP system is down, hack the wireless capacitor so we can calculate the XML panel!" 
 "You can't quantify the monitor without overriding the wireless IB firewall!" 
 "compressing the program won't do anything, we need to generate the solid state ASCII array!" 
+"Use the optical VGA transmitter, then you can navigate the digital array!" 
