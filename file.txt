@@ -3086,3 +3086,4 @@
 "You can't hack the hard drive without navigating the optical HEX capacitor!" 
 "Try to back up the IB monitor, maybe it will compress the back-end capacitor!" 
 "We need to program the back-end UDP bus!" 
+"You can't bypass the feed without parsing the wireless JSON panel!" 
