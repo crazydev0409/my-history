@@ -3090,3 +3090,4 @@
 "I'll override the virtual HDD array, that should panel the TLS bus!" 
 "The THX sensor is down, input the 1080p matrix so we can calculate the XML firewall!" 
 "I'll program the back-end IP bandwidth, that should matrix the PNG port!" 
+"synthesizing the card won't do anything, we need to connect the 1080p HEX protocol!" 
