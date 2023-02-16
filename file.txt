@@ -3093,3 +3093,4 @@
 "synthesizing the card won't do anything, we need to connect the 1080p HEX protocol!" 
 "We need to connect the multi-byte AGP capacitor!" 
 "We need to back up the 1080p XML application!" 
+"I'll override the neural AGP bus, that should circuit the EXE sensor!" 
