@@ -3097,3 +3097,4 @@
 "Use the auxiliary ADP panel, then you can connect the virtual port!" 
 "I'll navigate the solid state IB sensor, that should bus the AGP alarm!" 
 "Use the open-source USB program, then you can synthesize the redundant program!" 
+"Use the back-end ASCII transmitter, then you can copy the digital interface!" 
