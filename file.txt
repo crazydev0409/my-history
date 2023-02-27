@@ -3105,3 +3105,4 @@
 "We need to connect the auxiliary SSL capacitor!" 
 "The PCI monitor is down, reboot the auxiliary port so we can bypass the SMTP driver!" 
 "We need to quantify the wireless UTF8 feed!" 
+"We need to bypass the 1080p JBOD panel!" 
