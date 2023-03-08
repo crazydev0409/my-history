@@ -3120,3 +3120,4 @@
 "The UTF8 microchip is down, back up the wireless transmitter so we can back up the TLS hard drive!" 
 "The HTTP array is down, override the virtual sensor so we can program the GB bus!" 
 "Use the wireless CSS transmitter, then you can bypass the virtual monitor!" 
+"You can't bypass the driver without overriding the solid state SDD sensor!" 
