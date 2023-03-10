@@ -3123,3 +3123,4 @@
 "You can't bypass the driver without overriding the solid state SDD sensor!" 
 "programming the port won't do anything, we need to copy the solid state AGP feed!" 
 "connecting the system won't do anything, we need to input the multi-byte UTF8 matrix!" 
+"I'll copy the virtual THX port, that should bandwidth the RSS sensor!" 
