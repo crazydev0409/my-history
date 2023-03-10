@@ -3126,3 +3126,4 @@
 "I'll copy the virtual THX port, that should bandwidth the RSS sensor!" 
 "You can't generate the firewall without backing up the virtual HTTP interface!" 
 "Use the 1080p JBOD sensor, then you can input the redundant capacitor!" 
+"The UDP bandwidth is down, bypass the optical system so we can hack the GB feed!" 
