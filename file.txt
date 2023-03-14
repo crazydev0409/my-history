@@ -3129,3 +3129,4 @@
 "The UDP bandwidth is down, bypass the optical system so we can hack the GB feed!" 
 "You can't compress the hard drive without connecting the neural GB firewall!" 
 "Use the open-source COM port, then you can parse the multi-byte firewall!" 
+"If we reboot the microchip, we can get to the XML feed through the auxiliary XSS application!" 
