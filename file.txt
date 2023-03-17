@@ -3135,3 +3135,4 @@
 "Try to quantify the IP bandwidth, maybe it will back up the multi-byte program!" 
 "I'll calculate the virtual PCI interface, that should circuit the FTP driver!" 
 "parsing the interface won't do anything, we need to hack the bluetooth COM pixel!" 
+"Try to index the AGP protocol, maybe it will compress the open-source application!" 
