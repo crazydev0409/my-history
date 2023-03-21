@@ -3141,3 +3141,4 @@
 "I'll bypass the redundant SQL monitor, that should program the SDD port!" 
 "Try to copy the TCP feed, maybe it will hack the optical pixel!" 
 "Try to navigate the IB monitor, maybe it will program the solid state alarm!" 
+"connecting the panel won't do anything, we need to compress the optical HTTP pixel!" 
