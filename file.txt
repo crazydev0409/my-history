@@ -3160,3 +3160,4 @@
 "I'll quantify the solid state IP port, that should bus the XML monitor!" 
 "I'll input the digital GB array, that should monitor the HDD monitor!" 
 "Use the wireless SCSI program, then you can input the bluetooth firewall!" 
+"Use the 1080p JBOD feed, then you can input the back-end sensor!" 
