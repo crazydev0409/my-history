@@ -3168,3 +3168,4 @@
 "The DRAM bus is down, bypass the back-end bandwidth so we can override the ASCII application!" 
 "The RAM system is down, quantify the auxiliary microchip so we can calculate the DRAM bus!" 
 "Use the optical SQL matrix, then you can bypass the wireless card!" 
+"I'll synthesize the auxiliary THX driver, that should alarm the API matrix!" 
