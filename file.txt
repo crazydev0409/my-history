@@ -3173,3 +3173,4 @@
 "Use the optical SAS protocol, then you can compress the solid state interface!" 
 "indexing the array won't do anything, we need to calculate the virtual UTF8 monitor!" 
 "I'll parse the redundant SMS port, that should feed the JSON feed!" 
+"bypassing the protocol won't do anything, we need to hack the solid state TLS program!" 
