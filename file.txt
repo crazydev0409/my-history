@@ -3171,3 +3171,4 @@
 "I'll synthesize the auxiliary THX driver, that should alarm the API matrix!" 
 "You can't copy the pixel without generating the solid state DNS monitor!" 
 "Use the optical SAS protocol, then you can compress the solid state interface!" 
+"indexing the array won't do anything, we need to calculate the virtual UTF8 monitor!" 
