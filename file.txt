@@ -3179,3 +3179,4 @@
 "If we copy the firewall, we can get to the SSL feed through the online DRAM pixel!" 
 "We need to transmit the digital UDP driver!" 
 "You can't calculate the sensor without hacking the auxiliary UTF8 panel!" 
+"The XSS feed is down, copy the wireless hard drive so we can override the TCP monitor!" 
