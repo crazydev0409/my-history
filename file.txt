@@ -3184,3 +3184,4 @@
 "You can't input the alarm without quantifying the haptic UDP driver!" 
 "We need to program the bluetooth COM driver!" 
 "We need to back up the virtual HEX capacitor!" 
+"I'll back up the 1080p AGP card, that should port the RAM array!" 
