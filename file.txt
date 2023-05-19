@@ -3217,3 +3217,4 @@
 "We need to synthesize the cross-platform SCSI alarm!" 
 "The HTTP bus is down, reboot the multi-byte array so we can calculate the HTTP driver!" 
 "The IB bus is down, compress the digital bandwidth so we can parse the OCR bandwidth!" 
+"copying the driver won't do anything, we need to synthesize the digital AI transmitter!" 
