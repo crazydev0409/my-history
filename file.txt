@@ -3234,3 +3234,4 @@
 "If we calculate the microchip, we can get to the DNS bandwidth through the solid state SQL transmitter!" 
 "The XML interface is down, reboot the cross-platform firewall so we can parse the HTTP protocol!" 
 "You can't reboot the circuit without copying the online XML interface!" 
+"hacking the card won't do anything, we need to connect the multi-byte THX port!" 
