@@ -3236,3 +3236,4 @@
 "You can't reboot the circuit without copying the online XML interface!" 
 "hacking the card won't do anything, we need to connect the multi-byte THX port!" 
 "You can't hack the application without generating the redundant SMTP feed!" 
+"Use the virtual API array, then you can transmit the primary protocol!" 
