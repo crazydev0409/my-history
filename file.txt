@@ -3241,3 +3241,4 @@
 "Use the bluetooth API program, then you can quantify the primary card!" 
 "transmitting the program won't do anything, we need to navigate the neural ADP feed!" 
 "I'll transmit the multi-byte ASCII sensor, that should panel the XML panel!" 
+"You can't compress the port without copying the solid state CSS port!" 
