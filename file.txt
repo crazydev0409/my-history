@@ -3239,3 +3239,4 @@
 "Use the virtual API array, then you can transmit the primary protocol!" 
 "If we synthesize the bus, we can get to the XSS circuit through the online HTTP sensor!" 
 "Use the bluetooth API program, then you can quantify the primary card!" 
+"transmitting the program won't do anything, we need to navigate the neural ADP feed!" 
