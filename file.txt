@@ -3243,3 +3243,4 @@
 "I'll transmit the multi-byte ASCII sensor, that should panel the XML panel!" 
 "You can't compress the port without copying the solid state CSS port!" 
 "The DRAM system is down, generate the auxiliary array so we can back up the SSD bus!" 
+"Try to back up the OCR panel, maybe it will calculate the online program!" 
