@@ -3246,3 +3246,4 @@
 "Try to back up the OCR panel, maybe it will calculate the online program!" 
 "You can't reboot the matrix without bypassing the bluetooth CSS firewall!" 
 "We need to calculate the solid state TCP card!" 
+"quantifying the card won't do anything, we need to program the cross-platform API interface!" 
