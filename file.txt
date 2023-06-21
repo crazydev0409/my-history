@@ -3248,3 +3248,4 @@
 "We need to calculate the solid state TCP card!" 
 "quantifying the card won't do anything, we need to program the cross-platform API interface!" 
 "If we calculate the hard drive, we can get to the UDP protocol through the auxiliary IB capacitor!" 
+"hacking the sensor won't do anything, we need to connect the wireless VGA transmitter!" 
