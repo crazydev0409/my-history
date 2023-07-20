@@ -3281,3 +3281,4 @@
 "Try to calculate the SMS program, maybe it will generate the multi-byte alarm!" 
 "You can't navigate the array without navigating the wireless SSL protocol!" 
 "You can't reboot the alarm without generating the neural HDD monitor!" 
+"Use the wireless ADP interface, then you can compress the wireless protocol!" 
