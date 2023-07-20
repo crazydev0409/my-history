@@ -3278,3 +3278,4 @@
 "overriding the system won't do anything, we need to transmit the cross-platform COM protocol!" 
 "I'll copy the solid state SCSI microchip, that should bandwidth the FTP driver!" 
 "Use the open-source SCSI matrix, then you can index the back-end hard drive!" 
+"Try to calculate the SMS program, maybe it will generate the multi-byte alarm!" 
