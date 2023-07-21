@@ -3282,3 +3282,4 @@
 "You can't navigate the array without navigating the wireless SSL protocol!" 
 "You can't reboot the alarm without generating the neural HDD monitor!" 
 "Use the wireless ADP interface, then you can compress the wireless protocol!" 
+"Try to bypass the COM panel, maybe it will calculate the multi-byte bus!" 
