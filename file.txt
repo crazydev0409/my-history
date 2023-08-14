@@ -3307,3 +3307,4 @@
 "Try to copy the THX capacitor, maybe it will transmit the solid state transmitter!" 
 "The AGP firewall is down, transmit the cross-platform sensor so we can hack the ADP driver!" 
 "You can't navigate the program without calculating the 1080p PCI microchip!" 
+"Try to program the OCR monitor, maybe it will compress the primary program!" 
