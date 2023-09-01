@@ -3325,3 +3325,4 @@
 "Use the redundant CLI interface, then you can index the bluetooth matrix!" 
 "We need to back up the optical COM interface!" 
 "We need to input the digital DRAM port!" 
+"indexing the matrix won't do anything, we need to input the online SQL microchip!" 
