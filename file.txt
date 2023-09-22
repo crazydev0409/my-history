@@ -3344,3 +3344,4 @@
 "I'll hack the back-end JBOD feed, that should transmitter the HEX matrix!" 
 "We need to compress the virtual PNG pixel!" 
 "I'll transmit the auxiliary AGP interface, that should array the ADP bus!" 
+"You can't back up the matrix without backing up the wireless API bandwidth!" 
