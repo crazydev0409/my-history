@@ -3346,3 +3346,4 @@
 "I'll transmit the auxiliary AGP interface, that should array the ADP bus!" 
 "You can't back up the matrix without backing up the wireless API bandwidth!" 
 "Try to index the AI firewall, maybe it will override the digital matrix!" 
+"Try to input the HDD capacitor, maybe it will connect the back-end protocol!" 
