@@ -3348,3 +3348,4 @@
 "Try to index the AI firewall, maybe it will override the digital matrix!" 
 "Try to input the HDD capacitor, maybe it will connect the back-end protocol!" 
 "I'll bypass the optical HTTP circuit, that should alarm the GB bus!" 
+"indexing the program won't do anything, we need to reboot the 1080p THX protocol!" 
