@@ -3349,3 +3349,4 @@
 "Try to input the HDD capacitor, maybe it will connect the back-end protocol!" 
 "I'll bypass the optical HTTP circuit, that should alarm the GB bus!" 
 "indexing the program won't do anything, we need to reboot the 1080p THX protocol!" 
+"Use the solid state DNS port, then you can transmit the haptic capacitor!" 
