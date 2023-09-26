@@ -3347,3 +3347,4 @@
 "You can't back up the matrix without backing up the wireless API bandwidth!" 
 "Try to index the AI firewall, maybe it will override the digital matrix!" 
 "Try to input the HDD capacitor, maybe it will connect the back-end protocol!" 
+"I'll bypass the optical HTTP circuit, that should alarm the GB bus!" 
