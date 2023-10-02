@@ -3353,3 +3353,4 @@
 "The SCSI driver is down, reboot the cross-platform application so we can back up the SSD system!" 
 "Use the multi-byte SDD circuit, then you can bypass the 1080p capacitor!" 
 "Try to calculate the AGP firewall, maybe it will index the online panel!" 
+"The THX array is down, program the back-end protocol so we can index the SDD firewall!" 
