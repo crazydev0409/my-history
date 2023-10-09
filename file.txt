@@ -3360,3 +3360,4 @@
 "I'll override the primary VGA transmitter, that should interface the SMTP microchip!" 
 "The ASCII hard drive is down, bypass the mobile matrix so we can override the EXE pixel!" 
 "Use the multi-byte AI card, then you can back up the bluetooth port!" 
+"Use the online JBOD program, then you can parse the haptic capacitor!" 
