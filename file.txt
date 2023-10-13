@@ -3367,3 +3367,4 @@
 "We need to bypass the multi-byte TCP card!" 
 "Use the virtual XSS bus, then you can generate the mobile card!" 
 "If we hack the system, we can get to the USB circuit through the mobile CLI transmitter!" 
+"The HEX microchip is down, parse the digital driver so we can compress the VGA protocol!" 
