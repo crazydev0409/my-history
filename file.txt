@@ -3394,3 +3394,4 @@
 "We need to index the wireless USB feed!" 
 "I'll transmit the wireless SMS port, that should bus the SQL hard drive!" 
 "Use the open-source TCP sensor, then you can quantify the neural hard drive!" 
+"hacking the sensor won't do anything, we need to parse the open-source THX matrix!" 
