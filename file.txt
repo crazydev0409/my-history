@@ -3402,3 +3402,4 @@
 "The SSL hard drive is down, connect the optical port so we can index the SQL sensor!" 
 "We need to synthesize the wireless HEX bus!" 
 "parsing the firewall won't do anything, we need to synthesize the open-source AI interface!" 
+"copying the hard drive won't do anything, we need to index the solid state PCI sensor!" 
