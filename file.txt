@@ -3403,3 +3403,4 @@
 "We need to synthesize the wireless HEX bus!" 
 "parsing the firewall won't do anything, we need to synthesize the open-source AI interface!" 
 "copying the hard drive won't do anything, we need to index the solid state PCI sensor!" 
+"The COM firewall is down, hack the wireless protocol so we can synthesize the SCSI hard drive!" 
