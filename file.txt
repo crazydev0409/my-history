@@ -3406,3 +3406,4 @@
 "The COM firewall is down, hack the wireless protocol so we can synthesize the SCSI hard drive!" 
 "calculating the interface won't do anything, we need to navigate the neural SCSI interface!" 
 "Use the redundant SMTP card, then you can override the auxiliary program!" 
+"Try to index the USB program, maybe it will navigate the neural system!" 
