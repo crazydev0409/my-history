@@ -3412,3 +3412,4 @@
 "The DNS driver is down, synthesize the auxiliary protocol so we can override the GB program!" 
 "The HTTP circuit is down, copy the online capacitor so we can reboot the DRAM program!" 
 "The RAM feed is down, synthesize the optical array so we can index the DNS interface!" 
+"I'll bypass the redundant AGP capacitor, that should capacitor the SMS program!" 
