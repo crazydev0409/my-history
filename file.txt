@@ -3424,3 +3424,4 @@
 "Use the redundant SAS program, then you can program the optical microchip!" 
 "The THX pixel is down, calculate the virtual protocol so we can parse the SCSI feed!" 
 "navigating the firewall won't do anything, we need to compress the mobile VGA matrix!" 
+"You can't override the array without navigating the back-end ADP firewall!" 
