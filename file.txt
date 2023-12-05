@@ -3426,3 +3426,4 @@
 "navigating the firewall won't do anything, we need to compress the mobile VGA matrix!" 
 "You can't override the array without navigating the back-end ADP firewall!" 
 "transmitting the sensor won't do anything, we need to index the mobile VGA port!" 
+"We need to input the neural API protocol!" 
