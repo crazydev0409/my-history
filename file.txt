@@ -3438,3 +3438,4 @@
 "Try to override the FTP driver, maybe it will bypass the solid state port!" 
 "Try to parse the OCR application, maybe it will synthesize the open-source panel!" 
 "overriding the firewall won't do anything, we need to reboot the primary DNS interface!" 
+"Use the primary COM application, then you can index the virtual monitor!" 
