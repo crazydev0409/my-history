@@ -3437,3 +3437,4 @@
 "The IB application is down, calculate the digital system so we can connect the RSS feed!" 
 "Try to override the FTP driver, maybe it will bypass the solid state port!" 
 "Try to parse the OCR application, maybe it will synthesize the open-source panel!" 
+"overriding the firewall won't do anything, we need to reboot the primary DNS interface!" 
