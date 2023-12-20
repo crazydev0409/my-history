@@ -3442,3 +3442,4 @@
 "Use the neural DNS program, then you can transmit the optical array!" 
 "Try to index the SMS array, maybe it will input the optical circuit!" 
 "hacking the transmitter won't do anything, we need to index the back-end HDD array!" 
+"I'll calculate the wireless JSON circuit, that should panel the ASCII driver!" 
