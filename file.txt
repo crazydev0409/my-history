@@ -3441,3 +3441,4 @@
 "Use the primary COM application, then you can index the virtual monitor!" 
 "Use the neural DNS program, then you can transmit the optical array!" 
 "Try to index the SMS array, maybe it will input the optical circuit!" 
+"hacking the transmitter won't do anything, we need to index the back-end HDD array!" 
