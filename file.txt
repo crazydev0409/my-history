@@ -3443,3 +3443,4 @@
 "Try to index the SMS array, maybe it will input the optical circuit!" 
 "hacking the transmitter won't do anything, we need to index the back-end HDD array!" 
 "I'll calculate the wireless JSON circuit, that should panel the ASCII driver!" 
+"You can't bypass the transmitter without quantifying the haptic JSON hard drive!" 
