@@ -3449,3 +3449,4 @@
 "I'll copy the mobile RAM feed, that should capacitor the HDD alarm!" 
 "calculating the monitor won't do anything, we need to input the haptic SSD application!" 
 "If we connect the driver, we can get to the JSON card through the back-end SDD port!" 
+"Use the auxiliary RSS pixel, then you can connect the solid state array!" 
