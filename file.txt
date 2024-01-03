@@ -3451,3 +3451,4 @@
 "If we connect the driver, we can get to the JSON card through the back-end SDD port!" 
 "Use the auxiliary RSS pixel, then you can connect the solid state array!" 
 "If we input the monitor, we can get to the PNG card through the primary HTTP program!" 
+"calculating the firewall won't do anything, we need to calculate the back-end RSS panel!" 
