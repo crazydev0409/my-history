@@ -3456,3 +3456,4 @@
 "Use the optical SMS hard drive, then you can transmit the online protocol!" 
 "I'll connect the mobile HEX card, that should application the HTTP sensor!" 
 "If we parse the transmitter, we can get to the HEX transmitter through the auxiliary PCI firewall!" 
+"The OCR pixel is down, program the primary sensor so we can bypass the SMTP circuit!" 
