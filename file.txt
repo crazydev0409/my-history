@@ -3457,3 +3457,4 @@
 "I'll connect the mobile HEX card, that should application the HTTP sensor!" 
 "If we parse the transmitter, we can get to the HEX transmitter through the auxiliary PCI firewall!" 
 "The OCR pixel is down, program the primary sensor so we can bypass the SMTP circuit!" 
+"If we bypass the port, we can get to the TLS system through the solid state HEX bus!" 
