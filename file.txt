@@ -3478,3 +3478,4 @@
 "Use the solid state SMS hard drive, then you can bypass the solid state array!" 
 "I'll navigate the primary UDP panel, that should protocol the CLI program!" 
 "You can't calculate the bus without parsing the cross-platform DRAM protocol!" 
+"Use the multi-byte IP protocol, then you can back up the auxiliary array!" 
