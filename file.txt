@@ -3485,3 +3485,4 @@
 "You can't parse the capacitor without bypassing the mobile RAM protocol!" 
 "The DRAM bandwidth is down, copy the wireless system so we can parse the JSON program!" 
 "If we navigate the driver, we can get to the JSON interface through the open-source COM firewall!" 
+"The AGP transmitter is down, calculate the optical circuit so we can hack the HEX microchip!" 
