@@ -3486,3 +3486,4 @@
 "The DRAM bandwidth is down, copy the wireless system so we can parse the JSON program!" 
 "If we navigate the driver, we can get to the JSON interface through the open-source COM firewall!" 
 "The AGP transmitter is down, calculate the optical circuit so we can hack the HEX microchip!" 
+"compressing the pixel won't do anything, we need to input the back-end SDD driver!" 
