@@ -3492,3 +3492,4 @@
 "The UDP sensor is down, copy the 1080p hard drive so we can hack the IP capacitor!" 
 "overriding the hard drive won't do anything, we need to back up the 1080p ASCII protocol!" 
 "Use the primary HEX card, then you can input the redundant capacitor!" 
+"We need to parse the optical VGA microchip!" 
