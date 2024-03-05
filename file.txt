@@ -3500,3 +3500,4 @@
 "If we parse the microchip, we can get to the IP feed through the wireless AI array!" 
 "If we reboot the circuit, we can get to the CLI bus through the digital RSS panel!" 
 "Try to override the DNS monitor, maybe it will compress the 1080p system!" 
+"I'll override the digital OCR system, that should sensor the SQL feed!" 
