@@ -3502,3 +3502,4 @@
 "Try to override the DNS monitor, maybe it will compress the 1080p system!" 
 "I'll override the digital OCR system, that should sensor the SQL feed!" 
 "We need to input the online COM port!" 
+"If we calculate the array, we can get to the TCP application through the virtual FTP system!" 
