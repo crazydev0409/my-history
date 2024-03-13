@@ -3508,3 +3508,4 @@
 "You can't copy the interface without copying the neural USB port!" 
 "Use the virtual RAM hard drive, then you can hack the back-end card!" 
 "Use the haptic ADP microchip, then you can hack the online bus!" 
+"The SMTP transmitter is down, calculate the virtual hard drive so we can transmit the CLI application!" 
