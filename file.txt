@@ -3515,3 +3515,4 @@
 "The HEX circuit is down, override the mobile matrix so we can quantify the API port!" 
 "Try to navigate the VGA sensor, maybe it will generate the mobile feed!" 
 "compressing the bus won't do anything, we need to hack the bluetooth XSS port!" 
+"You can't generate the monitor without connecting the virtual CSS array!" 
