@@ -3535,3 +3535,4 @@
 "Try to synthesize the XSS hard drive, maybe it will hack the mobile driver!" 
 "The USB bus is down, parse the virtual hard drive so we can parse the THX alarm!" 
 "You can't program the pixel without connecting the online UDP firewall!" 
+"Use the cross-platform JSON card, then you can hack the auxiliary bus!" 
