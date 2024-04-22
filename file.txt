@@ -3537,3 +3537,4 @@
 "You can't program the pixel without connecting the online UDP firewall!" 
 "Use the cross-platform JSON card, then you can hack the auxiliary bus!" 
 "The UDP circuit is down, back up the 1080p program so we can transmit the TCP driver!" 
+"We need to copy the back-end PNG hard drive!" 
