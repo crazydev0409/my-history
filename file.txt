@@ -3543,3 +3543,4 @@
 "You can't back up the transmitter without overriding the optical HDD hard drive!" 
 "I'll generate the online COM alarm, that should transmitter the VGA system!" 
 "Try to generate the HTTP firewall, maybe it will compress the optical protocol!" 
+"The HDD port is down, reboot the mobile hard drive so we can transmit the IB system!" 
