@@ -3541,3 +3541,4 @@
 "We need to generate the digital SDD alarm!" 
 "We need to transmit the 1080p PCI transmitter!" 
 "You can't back up the transmitter without overriding the optical HDD hard drive!" 
+"I'll generate the online COM alarm, that should transmitter the VGA system!" 
