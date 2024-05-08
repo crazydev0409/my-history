@@ -3553,3 +3553,4 @@
 "copying the alarm won't do anything, we need to bypass the bluetooth GB pixel!" 
 "We need to copy the virtual TCP card!" 
 "We need to input the haptic RSS protocol!" 
+"Use the 1080p XML monitor, then you can connect the wireless panel!" 
