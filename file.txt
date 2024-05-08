@@ -3550,3 +3550,4 @@
 "We need to transmit the open-source USB alarm!" 
 "We need to synthesize the digital USB interface!" 
 "We need to override the open-source PCI card!" 
+"copying the alarm won't do anything, we need to bypass the bluetooth GB pixel!" 
