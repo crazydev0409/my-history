@@ -3555,3 +3555,4 @@
 "We need to input the haptic RSS protocol!" 
 "Use the 1080p XML monitor, then you can connect the wireless panel!" 
 "The IP matrix is down, override the mobile panel so we can copy the COM array!" 
+"The USB microchip is down, calculate the virtual pixel so we can hack the XML monitor!" 
