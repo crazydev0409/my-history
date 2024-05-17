@@ -3564,3 +3564,4 @@
 "We need to compress the cross-platform FTP interface!" 
 "indexing the application won't do anything, we need to compress the digital UDP bandwidth!" 
 "We need to compress the haptic HEX matrix!" 
+"Use the cross-platform IB bus, then you can bypass the primary circuit!" 
