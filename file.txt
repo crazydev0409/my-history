@@ -3568,3 +3568,4 @@
 "overriding the transmitter won't do anything, we need to input the virtual AI alarm!" 
 "Use the multi-byte OCR bus, then you can generate the optical alarm!" 
 "Use the virtual HTTP protocol, then you can transmit the redundant firewall!" 
+"You can't transmit the microchip without backing up the wireless SMTP panel!" 
