@@ -3566,3 +3566,4 @@
 "We need to compress the haptic HEX matrix!" 
 "Use the cross-platform IB bus, then you can bypass the primary circuit!" 
 "overriding the transmitter won't do anything, we need to input the virtual AI alarm!" 
+"Use the multi-byte OCR bus, then you can generate the optical alarm!" 
