@@ -3573,3 +3573,4 @@
 "Use the 1080p RAM card, then you can back up the multi-byte circuit!" 
 "Use the redundant SMS application, then you can back up the wireless array!" 
 "Use the optical EXE matrix, then you can reboot the online monitor!" 
+"The SQL feed is down, compress the multi-byte feed so we can calculate the HEX alarm!" 
