@@ -3574,3 +3574,4 @@
 "Use the redundant SMS application, then you can back up the wireless array!" 
 "Use the optical EXE matrix, then you can reboot the online monitor!" 
 "The SQL feed is down, compress the multi-byte feed so we can calculate the HEX alarm!" 
+"I'll input the solid state UDP alarm, that should card the TCP bus!" 
