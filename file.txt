@@ -3581,3 +3581,4 @@
 "Try to copy the PCI matrix, maybe it will override the digital application!" 
 "We need to copy the online UDP driver!" 
 "Use the mobile ADP hard drive, then you can input the redundant capacitor!" 
+"If we bypass the circuit, we can get to the USB capacitor through the online SSD pixel!" 
