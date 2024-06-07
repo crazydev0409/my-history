@@ -3598,3 +3598,4 @@
 "We need to quantify the mobile SQL program!" 
 "The CLI application is down, back up the redundant driver so we can input the RSS panel!" 
 "I'll reboot the auxiliary CSS protocol, that should card the SAS microchip!" 
+"If we override the driver, we can get to the SQL port through the virtual GB microchip!" 
