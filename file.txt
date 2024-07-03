@@ -3627,3 +3627,4 @@
 "The PNG hard drive is down, input the cross-platform transmitter so we can connect the XSS feed!" 
 "Use the multi-byte SCSI capacitor, then you can input the 1080p circuit!" 
 "The OCR array is down, transmit the cross-platform sensor so we can synthesize the SMTP microchip!" 
+"If we hack the card, we can get to the API capacitor through the back-end TLS application!" 
