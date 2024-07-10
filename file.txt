@@ -3629,3 +3629,4 @@
 "The OCR array is down, transmit the cross-platform sensor so we can synthesize the SMTP microchip!" 
 "If we hack the card, we can get to the API capacitor through the back-end TLS application!" 
 "You can't compress the firewall without synthesizing the digital SCSI sensor!" 
+"The HEX card is down, back up the wireless hard drive so we can back up the JBOD hard drive!" 
