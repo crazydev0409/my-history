@@ -3641,3 +3641,4 @@
 "generating the protocol won't do anything, we need to calculate the redundant AGP panel!" 
 "Use the neural IB panel, then you can quantify the online firewall!" 
 "We need to reboot the optical SMS capacitor!" 
+"You can't quantify the bus without calculating the redundant PCI alarm!" 
