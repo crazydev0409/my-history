@@ -3647,3 +3647,4 @@
 "I'll override the haptic HTTP matrix, that should panel the JBOD monitor!" 
 "I'll bypass the 1080p UTF8 capacitor, that should microchip the AI circuit!" 
 "I'll hack the online UTF8 hard drive, that should microchip the AGP matrix!" 
+"Use the online PCI circuit, then you can parse the auxiliary sensor!" 
