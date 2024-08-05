@@ -3659,3 +3659,4 @@
 "Try to reboot the VGA system, maybe it will navigate the neural program!" 
 "We need to bypass the neural HDD bus!" 
 "You can't hack the feed without bypassing the neural JSON protocol!" 
+"backing up the capacitor won't do anything, we need to program the digital SMTP microchip!" 
