@@ -3681,3 +3681,4 @@
 "You can't navigate the matrix without backing up the virtual SQL card!" 
 "The SCSI port is down, connect the back-end microchip so we can calculate the DRAM capacitor!" 
 "The THX card is down, navigate the auxiliary program so we can navigate the SCSI pixel!" 
+"The JBOD program is down, hack the auxiliary firewall so we can hack the PNG program!" 
