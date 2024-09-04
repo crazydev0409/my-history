@@ -3684,3 +3684,4 @@
 "The JBOD program is down, hack the auxiliary firewall so we can hack the PNG program!" 
 "Try to transmit the SSD hard drive, maybe it will compress the virtual hard drive!" 
 "I'll index the 1080p OCR alarm, that should application the JSON driver!" 
+"transmitting the microchip won't do anything, we need to compress the solid state SDD driver!" 
