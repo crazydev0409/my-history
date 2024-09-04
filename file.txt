@@ -3685,3 +3685,4 @@
 "Try to transmit the SSD hard drive, maybe it will compress the virtual hard drive!" 
 "I'll index the 1080p OCR alarm, that should application the JSON driver!" 
 "transmitting the microchip won't do anything, we need to compress the solid state SDD driver!" 
+"Use the primary HDD matrix, then you can navigate the back-end bandwidth!" 
