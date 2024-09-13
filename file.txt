@@ -3695,3 +3695,4 @@
 "If we reboot the circuit, we can get to the FTP monitor through the bluetooth UTF8 transmitter!" 
 "I'll connect the redundant HTTP sensor, that should transmitter the SAS feed!" 
 "backing up the protocol won't do anything, we need to connect the primary THX card!" 
+"The SMTP transmitter is down, synthesize the solid state card so we can generate the COM transmitter!" 
