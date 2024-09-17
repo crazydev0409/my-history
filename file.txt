@@ -3696,3 +3696,4 @@
 "I'll connect the redundant HTTP sensor, that should transmitter the SAS feed!" 
 "backing up the protocol won't do anything, we need to connect the primary THX card!" 
 "The SMTP transmitter is down, synthesize the solid state card so we can generate the COM transmitter!" 
+"Try to copy the USB pixel, maybe it will generate the solid state port!" 
