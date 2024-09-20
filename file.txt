@@ -3702,3 +3702,4 @@
 "If we calculate the interface, we can get to the DRAM microchip through the virtual ADP protocol!" 
 "Try to index the IP card, maybe it will back up the mobile sensor!" 
 "I'll reboot the online ADP sensor, that should feed the ADP feed!" 
+"Use the wireless PNG monitor, then you can bypass the optical transmitter!" 
