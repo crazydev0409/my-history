@@ -3700,3 +3700,4 @@
 "I'll copy the cross-platform RAM alarm, that should program the OCR transmitter!" 
 "We need to program the cross-platform UDP bus!" 
 "If we calculate the interface, we can get to the DRAM microchip through the virtual ADP protocol!" 
+"Try to index the IP card, maybe it will back up the mobile sensor!" 
