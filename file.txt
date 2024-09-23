@@ -3704,3 +3704,4 @@
 "I'll reboot the online ADP sensor, that should feed the ADP feed!" 
 "Use the wireless PNG monitor, then you can bypass the optical transmitter!" 
 "We need to input the haptic UTF8 application!" 
+"If we bypass the monitor, we can get to the DRAM port through the neural HTTP bus!" 
