@@ -3711,3 +3711,4 @@
 "Try to compress the AI hard drive, maybe it will synthesize the back-end monitor!" 
 "The TCP array is down, navigate the mobile array so we can override the ASCII feed!" 
 "I'll compress the bluetooth SDD hard drive, that should matrix the AGP system!" 
+"Use the virtual SSD sensor, then you can generate the primary sensor!" 
