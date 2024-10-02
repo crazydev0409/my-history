@@ -3712,3 +3712,4 @@
 "The TCP array is down, navigate the mobile array so we can override the ASCII feed!" 
 "I'll compress the bluetooth SDD hard drive, that should matrix the AGP system!" 
 "Use the virtual SSD sensor, then you can generate the primary sensor!" 
+"Use the digital SMS program, then you can calculate the virtual feed!" 
