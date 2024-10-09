@@ -3724,3 +3724,4 @@
 "Use the digital VGA system, then you can calculate the auxiliary firewall!" 
 "Use the back-end GB port, then you can parse the 1080p transmitter!" 
 "The HTTP bus is down, transmit the online matrix so we can compress the COM sensor!" 
+"I'll copy the back-end PCI feed, that should feed the XSS bus!" 
