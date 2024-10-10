@@ -3728,3 +3728,4 @@
 "Try to hack the HDD monitor, maybe it will index the cross-platform sensor!" 
 "The GB sensor is down, connect the wireless capacitor so we can navigate the PNG firewall!" 
 "I'll transmit the solid state PCI port, that should protocol the XML hard drive!" 
+"connecting the monitor won't do anything, we need to reboot the redundant SSL card!" 
