@@ -3738,3 +3738,4 @@
 "I'll calculate the optical SAS array, that should firewall the XSS feed!" 
 "We need to copy the bluetooth XSS bus!" 
 "We need to override the virtual USB firewall!" 
+"navigating the capacitor won't do anything, we need to index the redundant GB feed!" 
