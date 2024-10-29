@@ -3744,3 +3744,4 @@
 "Use the neural COM driver, then you can bypass the cross-platform application!" 
 "I'll copy the 1080p UDP monitor, that should system the AI program!" 
 "Use the online IP protocol, then you can back up the solid state protocol!" 
+"You can't back up the bus without copying the primary PNG array!" 
