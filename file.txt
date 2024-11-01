@@ -3746,3 +3746,4 @@
 "Use the online IP protocol, then you can back up the solid state protocol!" 
 "You can't back up the bus without copying the primary PNG array!" 
 "I'll calculate the open-source DRAM card, that should matrix the PNG matrix!" 
+"I'll bypass the back-end USB transmitter, that should bus the SAS capacitor!" 
