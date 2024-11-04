@@ -3749,3 +3749,4 @@
 "I'll bypass the back-end USB transmitter, that should bus the SAS capacitor!" 
 "You can't quantify the system without bypassing the mobile HDD array!" 
 "You can't calculate the interface without quantifying the auxiliary DRAM array!" 
+"The UTF8 driver is down, index the haptic system so we can hack the UTF8 driver!" 
