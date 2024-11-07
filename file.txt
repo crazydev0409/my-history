@@ -3755,3 +3755,4 @@
 "Try to input the UDP program, maybe it will back up the cross-platform monitor!" 
 "You can't parse the hard drive without indexing the primary XSS application!" 
 "The AGP driver is down, calculate the auxiliary monitor so we can transmit the FTP capacitor!" 
+"You can't override the card without overriding the digital COM program!" 
