@@ -3758,3 +3758,4 @@
 "You can't override the card without overriding the digital COM program!" 
 "You can't back up the system without quantifying the neural SMS port!" 
 "Use the multi-byte IB card, then you can parse the haptic bandwidth!" 
+"synthesizing the application won't do anything, we need to input the online AGP firewall!" 
