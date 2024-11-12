@@ -3764,3 +3764,4 @@
 "Try to program the PCI alarm, maybe it will transmit the solid state monitor!" 
 "We need to connect the bluetooth FTP matrix!" 
 "Try to bypass the GB interface, maybe it will reboot the digital application!" 
+"If we index the sensor, we can get to the CLI system through the wireless HDD application!" 
