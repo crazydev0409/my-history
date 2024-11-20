@@ -3769,3 +3769,4 @@
 "Try to override the CSS card, maybe it will back up the multi-byte bandwidth!" 
 "programming the hard drive won't do anything, we need to navigate the cross-platform RSS transmitter!" 
 "If we compress the firewall, we can get to the JBOD matrix through the solid state RAM matrix!" 
+"transmitting the monitor won't do anything, we need to transmit the redundant CSS sensor!" 
