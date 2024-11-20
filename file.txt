@@ -3771,3 +3771,4 @@
 "If we compress the firewall, we can get to the JBOD matrix through the solid state RAM matrix!" 
 "transmitting the monitor won't do anything, we need to transmit the redundant CSS sensor!" 
 "You can't bypass the sensor without navigating the online GB sensor!" 
+"We need to reboot the virtual ASCII alarm!" 
