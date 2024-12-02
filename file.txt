@@ -3783,3 +3783,4 @@
 "You can't quantify the application without connecting the digital SMS circuit!" 
 "If we bypass the card, we can get to the ADP hard drive through the cross-platform TLS port!" 
 "generating the array won't do anything, we need to hack the auxiliary RAM port!" 
+"You can't transmit the hard drive without bypassing the neural IB capacitor!" 
