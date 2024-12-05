@@ -3785,3 +3785,4 @@
 "generating the array won't do anything, we need to hack the auxiliary RAM port!" 
 "You can't transmit the hard drive without bypassing the neural IB capacitor!" 
 "The ASCII driver is down, quantify the online sensor so we can index the ASCII driver!" 
+"I'll compress the 1080p XML feed, that should monitor the THX hard drive!" 
