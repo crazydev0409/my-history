@@ -3793,3 +3793,4 @@
 "Use the redundant API application, then you can connect the solid state interface!" 
 "Try to parse the COM panel, maybe it will generate the optical circuit!" 
 "We need to connect the primary GB monitor!" 
+"If we compress the matrix, we can get to the AGP bus through the bluetooth IB panel!" 
