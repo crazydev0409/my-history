@@ -3795,3 +3795,4 @@
 "We need to connect the primary GB monitor!" 
 "If we compress the matrix, we can get to the AGP bus through the bluetooth IB panel!" 
 "Use the haptic SSD feed, then you can compress the auxiliary protocol!" 
+"bypassing the system won't do anything, we need to back up the bluetooth HDD system!" 
