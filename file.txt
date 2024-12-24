@@ -3805,3 +3805,4 @@
 "Try to back up the CLI bus, maybe it will bypass the wireless capacitor!" 
 "Use the open-source HDD driver, then you can transmit the digital feed!" 
 "The SDD sensor is down, reboot the 1080p circuit so we can calculate the AGP application!" 
+"Use the solid state AI driver, then you can input the back-end bus!" 
