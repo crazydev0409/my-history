@@ -3802,3 +3802,4 @@
 "You can't connect the pixel without overriding the online IB program!" 
 "backing up the microchip won't do anything, we need to transmit the back-end USB card!" 
 "Try to bypass the XSS monitor, maybe it will override the neural matrix!" 
+"Try to back up the CLI bus, maybe it will bypass the wireless capacitor!" 
