@@ -279,3 +279,4 @@
 "We need to override the bluetooth UTF8 port!" 
 "copying the program won't do anything, we need to navigate the cross-platform DRAM circuit!" 
 "If we back up the firewall, we can get to the SAS pixel through the auxiliary DRAM array!" 
+"If we reboot the interface, we can get to the XML alarm through the online SQL interface!" 
