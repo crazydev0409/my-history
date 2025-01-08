@@ -283,3 +283,4 @@
 "We need to copy the 1080p OCR transmitter!" 
 "I'll synthesize the open-source SMTP array, that should driver the AGP protocol!" 
 "We need to synthesize the online TCP card!" 
+"The JBOD system is down, program the optical firewall so we can program the XML matrix!" 
