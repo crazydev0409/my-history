@@ -282,3 +282,4 @@
 "If we reboot the interface, we can get to the XML alarm through the online SQL interface!" 
 "We need to copy the 1080p OCR transmitter!" 
 "I'll synthesize the open-source SMTP array, that should driver the AGP protocol!" 
+"We need to synthesize the online TCP card!" 
