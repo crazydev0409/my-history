@@ -290,3 +290,4 @@
 "The SMTP pixel is down, synthesize the online firewall so we can parse the RAM monitor!" 
 "Try to parse the RSS system, maybe it will input the optical microchip!" 
 "Try to override the SCSI circuit, maybe it will program the virtual matrix!" 
+"You can't parse the panel without backing up the auxiliary USB program!" 
