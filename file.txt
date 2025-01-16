@@ -295,3 +295,4 @@
 "If we copy the capacitor, we can get to the SAS microchip through the digital AGP feed!" 
 "The VGA firewall is down, quantify the primary capacitor so we can bypass the DNS pixel!" 
 "We need to parse the 1080p RAM alarm!" 
+"parsing the monitor won't do anything, we need to program the solid state UDP capacitor!" 
