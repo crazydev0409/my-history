@@ -292,3 +292,4 @@
 "Try to override the SCSI circuit, maybe it will program the virtual matrix!" 
 "You can't parse the panel without backing up the auxiliary USB program!" 
 "I'll connect the back-end EXE hard drive, that should protocol the DRAM circuit!" 
+"If we copy the capacitor, we can get to the SAS microchip through the digital AGP feed!" 
