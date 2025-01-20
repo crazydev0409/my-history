@@ -298,3 +298,4 @@
 "parsing the monitor won't do anything, we need to program the solid state UDP capacitor!" 
 "You can't copy the microchip without overriding the multi-byte SMTP firewall!" 
 "connecting the transmitter won't do anything, we need to input the cross-platform CSS port!" 
+"Try to input the SMTP card, maybe it will navigate the primary firewall!" 
