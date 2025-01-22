@@ -300,3 +300,4 @@
 "connecting the transmitter won't do anything, we need to input the cross-platform CSS port!" 
 "Try to input the SMTP card, maybe it will navigate the primary firewall!" 
 "We need to override the solid state XSS feed!" 
+"If we quantify the card, we can get to the SDD firewall through the 1080p RSS port!" 
