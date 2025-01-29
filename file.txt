@@ -312,3 +312,4 @@
 "bypassing the array won't do anything, we need to calculate the solid state AGP system!" 
 "Use the primary JBOD monitor, then you can input the neural program!" 
 "Use the auxiliary USB card, then you can hack the optical application!" 
+"bypassing the panel won't do anything, we need to compress the multi-byte HEX alarm!" 
