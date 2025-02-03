@@ -315,3 +315,4 @@
 "bypassing the panel won't do anything, we need to compress the multi-byte HEX alarm!" 
 "I'll reboot the wireless AI system, that should matrix the DNS bus!" 
 "If we transmit the feed, we can get to the VGA transmitter through the multi-byte COM bandwidth!" 
+"I'll override the bluetooth COM interface, that should bus the UDP array!" 
