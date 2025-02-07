@@ -318,3 +318,4 @@
 "I'll override the bluetooth COM interface, that should bus the UDP array!" 
 "The IP hard drive is down, connect the online port so we can reboot the EXE monitor!" 
 "The CLI interface is down, synthesize the redundant circuit so we can back up the CSS array!" 
+"Use the wireless API program, then you can parse the haptic interface!" 
