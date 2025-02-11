@@ -323,3 +323,4 @@
 "Try to copy the GB feed, maybe it will compress the auxiliary panel!" 
 "hacking the panel won't do anything, we need to synthesize the digital API microchip!" 
 "We need to transmit the virtual SAS capacitor!" 
+"Use the primary COM hard drive, then you can parse the virtual bandwidth!" 
