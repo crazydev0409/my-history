@@ -322,3 +322,4 @@
 "The AGP monitor is down, index the primary feed so we can hack the SCSI feed!" 
 "Try to copy the GB feed, maybe it will compress the auxiliary panel!" 
 "hacking the panel won't do anything, we need to synthesize the digital API microchip!" 
+"We need to transmit the virtual SAS capacitor!" 
