@@ -324,3 +324,4 @@
 "hacking the panel won't do anything, we need to synthesize the digital API microchip!" 
 "We need to transmit the virtual SAS capacitor!" 
 "Use the primary COM hard drive, then you can parse the virtual bandwidth!" 
+"overriding the hard drive won't do anything, we need to quantify the multi-byte IP bus!" 
