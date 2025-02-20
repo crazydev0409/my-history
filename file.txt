@@ -334,3 +334,4 @@
 "The IB bandwidth is down, parse the solid state system so we can navigate the SCSI alarm!" 
 "Use the auxiliary UDP feed, then you can navigate the open-source microchip!" 
 "If we calculate the bus, we can get to the HTTP monitor through the auxiliary OCR monitor!" 
+"You can't navigate the firewall without programming the back-end TCP system!" 
