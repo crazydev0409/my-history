@@ -337,3 +337,4 @@
 "You can't navigate the firewall without programming the back-end TCP system!" 
 "Try to input the ASCII bus, maybe it will parse the digital microchip!" 
 "Try to synthesize the AI bus, maybe it will copy the back-end port!" 
+"hacking the protocol won't do anything, we need to transmit the virtual OCR bandwidth!" 
