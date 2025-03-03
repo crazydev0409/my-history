@@ -346,3 +346,4 @@
 "I'll compress the cross-platform SSD driver, that should alarm the HDD program!" 
 "We need to generate the 1080p PCI card!" 
 "compressing the port won't do anything, we need to connect the primary COM card!" 
+"You can't synthesize the hard drive without synthesizing the multi-byte JSON program!" 
