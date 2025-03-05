@@ -349,3 +349,4 @@
 "You can't synthesize the hard drive without synthesizing the multi-byte JSON program!" 
 "I'll transmit the cross-platform IB driver, that should panel the VGA program!" 
 "Try to copy the UTF8 application, maybe it will program the primary pixel!" 
+"indexing the card won't do anything, we need to bypass the haptic XSS monitor!" 
