@@ -359,3 +359,4 @@
 "calculating the protocol won't do anything, we need to transmit the auxiliary RAM interface!" 
 "Use the optical AI capacitor, then you can synthesize the cross-platform interface!" 
 "Try to reboot the AGP application, maybe it will compress the wireless system!" 
+"If we compress the microchip, we can get to the UTF8 feed through the online COM driver!" 
