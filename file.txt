@@ -364,3 +364,4 @@
 "quantifying the interface won't do anything, we need to transmit the online SCSI bus!" 
 "programming the transmitter won't do anything, we need to calculate the multi-byte HDD alarm!" 
 "Use the 1080p SAS panel, then you can synthesize the solid state firewall!" 
+"compressing the monitor won't do anything, we need to reboot the solid state SAS driver!" 
