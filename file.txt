@@ -366,3 +366,4 @@
 "Use the 1080p SAS panel, then you can synthesize the solid state firewall!" 
 "compressing the monitor won't do anything, we need to reboot the solid state SAS driver!" 
 "If we reboot the card, we can get to the API interface through the multi-byte FTP card!" 
+"We need to quantify the redundant IP pixel!" 
