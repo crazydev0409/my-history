@@ -368,3 +368,4 @@
 "If we reboot the card, we can get to the API interface through the multi-byte FTP card!" 
 "We need to quantify the redundant IP pixel!" 
 "I'll parse the cross-platform XSS panel, that should capacitor the UDP array!" 
+"If we hack the capacitor, we can get to the XML capacitor through the redundant HTTP feed!" 
