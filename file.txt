@@ -372,3 +372,4 @@
 "You can't back up the interface without connecting the auxiliary JBOD bus!" 
 "If we program the application, we can get to the PNG application through the haptic HTTP circuit!" 
 "The AGP bandwidth is down, copy the auxiliary card so we can index the SCSI circuit!" 
+"navigating the driver won't do anything, we need to navigate the haptic PNG firewall!" 
