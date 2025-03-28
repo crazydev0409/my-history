@@ -383,3 +383,4 @@
 "You can't transmit the interface without connecting the 1080p SMTP circuit!" 
 "Use the optical RAM panel, then you can synthesize the mobile interface!" 
 "bypassing the card won't do anything, we need to input the cross-platform EXE transmitter!" 
+"Try to compress the PCI monitor, maybe it will program the virtual monitor!" 
