@@ -388,3 +388,4 @@
 "You can't input the protocol without bypassing the back-end HEX matrix!" 
 "indexing the capacitor won't do anything, we need to hack the neural ADP panel!" 
 "We need to program the multi-byte SMTP bandwidth!" 
+"Try to back up the SSL transmitter, maybe it will override the back-end application!" 
