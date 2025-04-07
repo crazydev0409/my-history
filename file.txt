@@ -394,3 +394,4 @@
 "We need to parse the redundant EXE panel!" 
 "We need to navigate the auxiliary SCSI matrix!" 
 "programming the circuit won't do anything, we need to bypass the redundant JSON pixel!" 
+"You can't program the interface without connecting the multi-byte SAS firewall!" 
