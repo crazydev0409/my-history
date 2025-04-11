@@ -401,3 +401,4 @@
 "Use the wireless SCSI application, then you can override the primary monitor!" 
 "Try to override the SSL capacitor, maybe it will synthesize the cross-platform alarm!" 
 "If we synthesize the driver, we can get to the RSS card through the optical SQL bus!" 
+"If we synthesize the alarm, we can get to the HDD card through the solid state JSON system!" 
