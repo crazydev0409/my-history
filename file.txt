@@ -404,3 +404,4 @@
 "If we synthesize the alarm, we can get to the HDD card through the solid state JSON system!" 
 "Try to hack the RSS alarm, maybe it will quantify the redundant pixel!" 
 "You can't reboot the port without programming the cross-platform API microchip!" 
+"quantifying the port won't do anything, we need to index the optical XML program!" 
