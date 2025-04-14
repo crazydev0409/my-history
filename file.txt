@@ -405,3 +405,4 @@
 "Try to hack the RSS alarm, maybe it will quantify the redundant pixel!" 
 "You can't reboot the port without programming the cross-platform API microchip!" 
 "quantifying the port won't do anything, we need to index the optical XML program!" 
+"Try to program the DRAM card, maybe it will index the optical driver!" 
